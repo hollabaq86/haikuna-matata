@@ -1,0 +1,16 @@
+---NLTK usage instructions
+
+---From the commandline, type the following:
+$ python
+>>> import nltk
+>>> import numpy
+>>> nltk.download()
+
+
+---This will download nltk's library.  Make sure to select "all packages".
+---if you want to load a particular library, you enter the following from the python interpreter
+
+>>>from nltk.book import *
+
+---This will import all of the data from the "book" module.  There are a ton of modules available with NLTK, so we will have to figure out which ones we want to use.
+
