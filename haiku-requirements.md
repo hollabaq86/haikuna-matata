@@ -3,9 +3,9 @@ Basic Haiku Requirements
 All Haikus are defined by the following structure
 1. Each haiku has 3 lines.
 2. Each haiku follows the following syllable construction for each line
-..* 5 syllables for the first line
-..* 7 syllables for the second line
-..* 5 syllables for the third line
+* 5 syllables for the first line
+* 7 syllables for the second line
+* 5 syllables for the third line
 
 Intermediate Haiku Requirements
 ---
