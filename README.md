@@ -2,13 +2,13 @@
 ---
 ## A Machine Learning Haiku Generator
 
-### A project developped by Holly Stotelmyer (@hollabaq86), Noah Guy (@NoahRGuy), Dennis Marchet (@dmarchet) and Joan Peterson (@jepetersohn)
+### A project developed by Holly Stotelmyer (@hollabaq86), Noah Guy (@NoahRGuy), Dennis Marchet (@dmarchet) and Joan Petersohn (@jepetersohn)
 
 
 ## Description
 ---
 
-Haikuna-Matata generates completely original, correctly formatted haikus based on user input. A user types in an input word into the console when running the program, and the program will return a 5/7/5 style haiku concerning whatever input the user put in.
+Haikuna-Matata generates completely original, correctly formatted haikus based on user input. A user types an input word into the console when running the program, and the program will return a 5/7/5 style haiku concerning whatever input the user put in.
 
 
 ## Installation & Usage
