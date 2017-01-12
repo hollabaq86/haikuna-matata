@@ -7,6 +7,11 @@ All Haikus are defined by the following structure:
 ..* 7 syllables for the second line
 ..* 5 syllables for the third line
 
+Intermediate Haiku Requirements
+---
+All Haikus must:
+1. Make Sense.
+
 Advanced Haiku Requirements:
 ---
 Stretch Goals for the machine to learn:
