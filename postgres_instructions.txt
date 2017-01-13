@@ -1,0 +1,19 @@
+---need to install virtualenv so we can define the version of python we are using in our project and let flask know what to use
+$ sudo -H pip install virtualenv
+
+---this next command will setup the virtualenv in our project (run these commands from the project folder on initial setup)
+$ virtualenv venv
+
+---this command will activate the virtualenv for our project
+$ . venv/bin/activate
+
+---now we can get flask activated in our virtualenv, as well as sqlalchemy, psycopg2, and flask_migrate
+$ pip install flask psycopg2 sqlalchemy Flask-Migrate
+
+
+---when you are ready to leave the env for our project, just type the following
+$ deactivate
+
+
+---below is a link for deployment options
+http://flask.pocoo.org/docs/0.12/deploying/#deployment
