@@ -33,7 +33,7 @@ def isHaiku(potentialHaiku):
 def countSyllables(potentialHaiku):
 
   #separate each word in potentialHaiku
-  stripPunctuation = re.sub(ur"[^\w\d'\s]+",'',potentialHaiku)
+  stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',potentialHaiku)
   # stripPunctuation = potentialHaiku.translate(None, string.punctuation)
   wordsInHaiku = stripPunctuation.split()
   syllableCount = 0
@@ -43,5 +43,6 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
-print(countSyllables("Foil wrapped burrito, is it wrong to love you so? I don't need a man"))
+print(countSyllables("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
+
 
