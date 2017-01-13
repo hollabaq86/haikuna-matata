@@ -2,6 +2,8 @@ import nltk
 from nltk.corpus import cmudict
 import curses
 from curses.ascii import isdigit
+# import string
+import re
 
 d = cmudict.dict()
 
@@ -14,7 +16,6 @@ def numSylsInWord(word):
 # but vowels also have a "stress marker": either 0, 1, or 2, depending on the pronunciation of the word (so AE in 'cat' becomes AE1).
 # the code in the answer counts the stress markers and therefore the number of the vowels - which effectively gives the number of syllables
 # (in examples each syllable has exactly one vowel).
-
 
 
 def isHaiku(potentialHaiku):
@@ -32,11 +33,15 @@ def isHaiku(potentialHaiku):
 def countSyllables(potentialHaiku):
 
   #separate each word in potentialHaiku
-  wordsInHaiku = potentialHaiku.split()
+  stripPunctuation = re.sub(ur"[^\w\d'\s]+",'',potentialHaiku)
+  # stripPunctuation = potentialHaiku.translate(None, string.punctuation)
+  wordsInHaiku = stripPunctuation.split()
+  syllableCount = 0
   #run each word through numSylsInWord
+  #sum the syllables from each word
   for i in wordsInHaiku:
-    numSylsInWord(i)
-
-
-
+    syllableCount += numSylsInWord(i)
   return syllableCount
+
+print(countSyllables("Foil wrapped burrito, is it wrong to love you so? I don't need a man"))
+
