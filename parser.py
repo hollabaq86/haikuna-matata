@@ -9,9 +9,8 @@ def parseIntoProbabilityHash(text):
   i = 0
   count = len(wordsInText) - 1
   while (i < count):
-    j = i + 1
     word1 = wordsInText[i]
-    word2 = wordsInText[j]
+    word2 = wordsInText[i+1]
     print(word1 + " " + word2)
     probabilityHash[word1 + " " + word2] = 1
     i+=1
