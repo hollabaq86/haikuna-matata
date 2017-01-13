@@ -2,7 +2,7 @@
 ---
 ## A Machine Learning Haiku Generator
 
-### A project developed by Holly Stotelmyer (@hollabaq86), Noah Guy (@NoahRGuy), Dennis Marchet (@dmarchet) and Joan Petersohn (@jepetersohn)
+### A project developed by Holly Stotelmyer (@hollabaq86), Noah Guy (@NoahRGuy), Dennis Marchetti (@dmarchet) and Joan Petersohn (@jepetersohn)
 
 
 ## Description
