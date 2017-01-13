@@ -1,0 +1,23 @@
+---need to install virtualenv so you can access the proper virtual environment
+$ sudo -H pip install virtualenv
+
+---need to install autoenv so the virtual environment can auto load when we are done
+$ pip install autoenv==1.0.0
+
+---need to specify the folder that you want to access to use the proper virtual environment
+$ source env/bin/activate
+
+---Lastly need to enter the following to update your local bash so it auto loads the environment whenever you enter the project directory
+$ echo "source `which activate.sh`" >> ~/.bashrc
+$ source ~/.bashrc
+
+
+---when you are ready to leave the env for our project, just type the following
+$ deactivate
+
+
+---below is a link for deployment options
+http://flask.pocoo.org/docs/0.12/deploying/#deployment
+
+******NOTE******
+if the auto load environment doesnt work, just enter the source env/bin/activate form the command line to load the proper environment
