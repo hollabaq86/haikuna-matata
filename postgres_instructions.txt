@@ -2,10 +2,10 @@
 $ sudo -H pip install virtualenv
 
 ---this next command will setup the virtualenv in our project (run these commands from the project folder on initial setup)
-$ virtualenv venv
+$ virtualenv env
 
 ---this command will activate the virtualenv for our project
-$ . venv/bin/activate
+$ . env/bin/activate
 
 ---now we can get flask activated in our virtualenv, as well as sqlalchemy, psycopg2, and flask_migrate
 $ pip install flask psycopg2 sqlalchemy Flask-Migrate
