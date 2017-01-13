@@ -2,10 +2,10 @@ import re
 
 haikuFile = open("haikus.txt")
 haikus = haikuFile.readlines()
-probabilityHash = {}
 #("word1 word2"), count
 
 def parseIntoProbabilityHash(text):
+  probabilityHash = {}
   stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',text)
   wordsInText = stripPunctuation.split()
   i = 0
@@ -20,12 +20,13 @@ def parseIntoProbabilityHash(text):
     i+=1
   return probabilityHash
 
+
 #print(parseIntoProbabilityHash("How are you doing today, my friend? Are you happy or are you sad? How are your kids doing today?"))
 
-for each_line in haikus:
-  parseIntoProbabilityHash(each_line)
+# for each_line in haikus:
+#   parseIntoProbabilityHash(each_line)
 
-print(probabilityHash)
+# print(probabilityHash)
 
 
 
