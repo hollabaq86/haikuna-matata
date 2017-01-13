@@ -4,7 +4,7 @@ import curses
 from curses.ascii import isdigit
 # import string
 import re
-from random import randint
+from random import randrange
 
 d = cmudict.dict()
 
@@ -55,17 +55,21 @@ def generateHaiku(firstWord):
 
 
 def generateLine(sylCount, base= None):
-  return base if sylCount == 0
-  return "You fucked up" if sylCount < 0
+  if sylCount == 0:
+    return base
+  elif sylCount < 0:
+    return "You fucked up"
   #unigrams = insert get unigrams here
   if base == None:
     base = "The"
   lastWord = base.rsplit(None, 1)[-1]
   unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
   possibleWords = grabPossibleWords(unigrams)
-  adder = possibleWords[randint(0, len(possibleWords)]
+  index = randrange(0, len(possibleWords)
+  adder = possibleWords[index]
   while countSyllables(adder) > sylCount:
-    adder = possibleWords[randint(0, len(possibleWords)]
+    index = randrange(0, len(possibleWords))
+    adder = possibleWords[index]
   newBase = base + " " + adder
   newSylCount = sylCount - countSyllables(adder)
   return genLineRec(newSylCount, newBase)
