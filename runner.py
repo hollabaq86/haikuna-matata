@@ -50,27 +50,6 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
-print(countSyllables("i love donuts"))
-print(isHaiku("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
-print(isHaiku("blah blah jungle"))
-
-#Generate Haiku Method
-"""
-Take in a word
-Start with an empty string
-Query database for unigrams where first word in pair matches word (creates array of unigrams)
-for each in UnigramArray
-  for each in unigram count
-    add word to probabilityArray
-
-sample one from probability array that satisfies syllableCount
-Add arguement (only once) and sample to string
-Add/Subtract word's syllables from syllable count
-
-return string when syllableCount == 0 || 17
-"""
-fakeDatabase = {}
-
 def generateHaiku(firstWord):
   return "Hello, World"
 
@@ -80,9 +59,13 @@ def generateLine(sylCount, base= None):
   return "You fucked up" if sylCount < 0
   #unigrams = insert get unigrams here
   if base == None:
-
+    base = "The"
+  lastWord = base.rsplit(None, 1)[-1]
+  unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
   possibleWords = grabPossibleWords(unigrams)
   adder = possibleWords[randint(0, len(possibleWords)]
+  while countSyllables(adder) > sylCount:
+    adder = possibleWords[randint(0, len(possibleWords)]
   newBase = base + " " + adder
   newSylCount = sylCount - countSyllables(adder)
   return genLineRec(newSylCount, newBase)
