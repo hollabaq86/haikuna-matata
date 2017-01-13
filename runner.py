@@ -4,6 +4,7 @@ import curses
 from curses.ascii import isdigit
 # import string
 import re
+from random import randint
 
 d = cmudict.dict()
 
@@ -53,4 +54,42 @@ print(countSyllables("i love donuts"))
 print(isHaiku("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
 print(isHaiku("blah blah jungle"))
 
+#Generate Haiku Method
+"""
+Take in a word
+Start with an empty string
+Query database for unigrams where first word in pair matches word (creates array of unigrams)
+for each in UnigramArray
+  for each in unigram count
+    add word to probabilityArray
 
+sample one from probability array that satisfies syllableCount
+Add arguement (only once) and sample to string
+Add/Subtract word's syllables from syllable count
+
+return string when syllableCount == 0 || 17
+"""
+fakeDatabase = {}
+
+def generateHaiku(firstWord):
+  return "Hello, World"
+
+
+def generateLine(sylCount, base= None):
+  return base if sylCount == 0
+  return "You fucked up" if sylCount < 0
+  #unigrams = insert get unigrams here
+  if base == None:
+
+  possibleWords = grabPossibleWords(unigrams)
+  adder = possibleWords[randint(0, len(possibleWords)]
+  newBase = base + " " + adder
+  newSylCount = sylCount - countSyllables(adder)
+  return genLineRec(newSylCount, newBase)
+
+def grabPossibleWords(unigrams):
+  container = []
+  for each in unigrams:
+      for unigram in range(each.count):
+        container.append(each.word2)
+  return container
