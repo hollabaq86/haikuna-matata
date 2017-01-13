@@ -65,7 +65,7 @@ def generateLine(sylCount, base= None):
   lastWord = base.rsplit(None, 1)[-1]
   unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
   possibleWords = grabPossibleWords(unigrams)
-  index = randrange(0, len(possibleWords)
+  index = randrange(0, len(possibleWords))
   adder = possibleWords[index]
   while countSyllables(adder) > sylCount:
     index = randrange(0, len(possibleWords))
