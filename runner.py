@@ -7,8 +7,14 @@ import re
 
 d = cmudict.dict()
 
+
+# this method ONLY works on words that are in the dict();
+# need to tweak it
 def numSylsInWord(word):
-  return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
+  if word.lower() in d:
+    return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
+  # else:
+    #create "Contains an unrecognized word" error
 
 
 # cmudict is a pronouncing dictionary for north american english words.
@@ -43,6 +49,8 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
-print(countSyllables("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
+print(countSyllables("i love donuts"))
+print(isHaiku("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
+print(isHaiku("blah blah jungle"))
 
 
