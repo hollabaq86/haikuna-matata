@@ -51,7 +51,13 @@ def countSyllables(potentialHaiku):
   return syllableCount
 
 def generateHaiku(firstWord):
-  return "Hello, World"
+  haiku = ""
+  haiku += generateLine(5, firstWord)
+  haiku += "\n"
+  haiku += generateLine(7)
+  haiku += "\n"
+  haiku += generateLine(5)
+  return haiku
 
 
 def generateLine(sylCount, base= None):

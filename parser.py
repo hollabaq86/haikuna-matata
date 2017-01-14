@@ -1,11 +1,13 @@
 import re
+from sqlalchemy.orm import sessionmaker
+Session = sessionmaker(bind=engine)
 
 haikuFile = open("haikus.txt")
 haikus = haikuFile.readlines()
 #("word1 word2"), count
-
+probabilityHash = {}
 def parseIntoProbabilityHash(text):
-  probabilityHash = {}
+  
   stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',text)
   wordsInText = stripPunctuation.split()
   i = 0
@@ -23,13 +25,16 @@ def parseIntoProbabilityHash(text):
 
 #print(parseIntoProbabilityHash("How are you doing today, my friend? Are you happy or are you sad? How are your kids doing today?"))
 
-# for each_line in haikus:
-#   parseIntoProbabilityHash(each_line)
+for each_line in haikus:
+  parseIntoProbabilityHash(each_line)
 
-# print(probabilityHash)
+print(probabilityHash)
 
-
-
+def createUnigrams(hash):
+  for text, counter in hash:
+    split_text = text.split(" ")
+    new_unigram = Unigram(word1 = split_text[0], word2 = split_text[1], count = counter)
+    session.add(new_unigram)
 
 
 
