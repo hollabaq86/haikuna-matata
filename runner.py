@@ -51,7 +51,13 @@ def countSyllables(potentialHaiku):
   return syllableCount
 
 def generateHaiku(firstWord):
-  return "Hello, World"
+  haiku = ""
+  haiku += generateLine(5, firstWord)
+  haiku += "\n"
+  haiku += generateLine(7)
+  haiku += "\n"
+  haiku += generateLine(5)
+  return haiku
 
 
 def generateLine(sylCount, base= None):
@@ -59,7 +65,6 @@ def generateLine(sylCount, base= None):
     return base
   elif sylCount < 0:
     return "You fucked up"
-  #unigrams = insert get unigrams here
   if base == None:
     base = "The"
   lastWord = base.rsplit(None, 1)[-1]
@@ -67,12 +72,13 @@ def generateLine(sylCount, base= None):
   possibleWords = grabPossibleWords(unigrams)
   index = randrange(0, len(possibleWords))
   adder = possibleWords[index]
+  #we think we're getting infinitly stuck in this while loop. to be determined once we can test with this database
   while countSyllables(adder) > sylCount:
     index = randrange(0, len(possibleWords))
     adder = possibleWords[index]
   newBase = base + " " + adder
   newSylCount = sylCount - countSyllables(adder)
-  return genLineRec(newSylCount, newBase)
+  return generateLine(newSylCount, newBase)
 
 def grabPossibleWords(unigrams):
   container = []
@@ -80,3 +86,6 @@ def grabPossibleWords(unigrams):
       for unigram in range(each.count):
         container.append(each.word2)
   return container
+
+
+
