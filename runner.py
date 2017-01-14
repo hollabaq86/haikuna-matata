@@ -4,6 +4,7 @@ import curses
 from curses.ascii import isdigit
 # import string
 import re
+from random import randrange
 
 d = cmudict.dict()
 
@@ -49,8 +50,33 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
-print(countSyllables("i love donuts"))
-print(isHaiku("Foil wrapped burrito...is it wrong to love you so? I don't need a man."))
-print(isHaiku("blah blah jungle"))
+def generateHaiku(firstWord):
+  return "Hello, World"
 
 
+def generateLine(sylCount, base= None):
+  if sylCount == 0:
+    return base
+  elif sylCount < 0:
+    return "You fucked up"
+  #unigrams = insert get unigrams here
+  if base == None:
+    base = "The"
+  lastWord = base.rsplit(None, 1)[-1]
+  unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
+  possibleWords = grabPossibleWords(unigrams)
+  index = randrange(0, len(possibleWords))
+  adder = possibleWords[index]
+  while countSyllables(adder) > sylCount:
+    index = randrange(0, len(possibleWords))
+    adder = possibleWords[index]
+  newBase = base + " " + adder
+  newSylCount = sylCount - countSyllables(adder)
+  return genLineRec(newSylCount, newBase)
+
+def grabPossibleWords(unigrams):
+  container = []
+  for each in unigrams:
+      for unigram in range(each.count):
+        container.append(each.word2)
+  return container
