@@ -21,3 +21,6 @@ http://flask.pocoo.org/docs/0.12/deploying/#deployment
 
 ******NOTE******
 if the auto load environment doesnt work, just enter the source env/bin/activate form the command line to load the proper environment
+
+---flask setup
+https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
