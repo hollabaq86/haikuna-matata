@@ -1,0 +1,26 @@
+PYTHON SETUP
+
+We will be using Python 2.7.  This version seems to have the best time working with NLTK and since it has been around for a while, it also has plenty of documentation if we need help.  Instructions are below.
+
+-----DBC computers & MACs with homebrew
+-type the following commands:
+brew install python
+python
+--Make sure that the version is 2.7.  This is also how you get to the command line in python.  To exit, you can type exit() or CTRL-D
+
+
+-----EVERYONE ELSE
+Go to https://www.python.org/
+Install python vial downloads.  Choose 2.7.
+
+
+NLTK SETUP - MAC
+http://www.nltk.org/install.html
+
+The above link has instrctions.  Long and short of it, on MAC enter the following from your command line....
+
+sudo -H pip install -U nltk --ignore-installed six
+sudo -H pip install -U numpy --ignore-installed six
+
+There is currently an issue with the package for six, so some macs have issues.  The --ignore-installed six should fix that.
+
