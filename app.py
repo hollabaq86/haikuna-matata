@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import os
+import text_file
 
 
 app = Flask(__name__)
@@ -8,19 +9,12 @@ app.config.from_object(os.environ['APP_SETTINGS'])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
-# from models import Unigrams
+haikuFile = open("haikus.txt")
+haikus = haikuFile.readlines()
 
-
-# @app.route('/')
-# def hello():
-#     return "Hello World!"
-
-
-# @app.route('/<name>')
-# def hello_name(name):
-#     return "Hello {}!".format(name)
-
-
+hashed_haikus = text_file.parseIntoProbabilityHash(haikus)
+print(hashed_haikus)
+text_file.createUnigrams(hashed_haikus)
 
 from flask import render_template
 
