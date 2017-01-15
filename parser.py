@@ -1,11 +1,14 @@
 import re
+from sqlalchemy.orm import sessionmaker
+Session = sessionmaker(bind=engine)
 
 haikuFile = open("haikus.txt")
 haikus = haikuFile.readlines()
+#tests will only pass if you move this declaration of the empty probability hash to inside of the parse method
+probabilityHash = {}
 #("word1 word2"), count
 
 def parseIntoProbabilityHash(text):
-  probabilityHash = {}
   stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',text)
   wordsInText = stripPunctuation.split()
   i = 0

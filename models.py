@@ -22,8 +22,8 @@ class Unigrams(db.Model):
 	word1 = db.Column('word1', db.String, nullable=False, index=True)
 	word2 = db.Column('word2', db.String)
 	count = db.Column('count', db.Integer, nullable = False)
-  
-#BEGIN Dennis's model file  
+
+#BEGIN Dennis's model file
 #from app import db
 #not sure if we need the JSON dialect from postgres
 #from sqlalchemy.dialects.postgresql import JSON
@@ -39,10 +39,10 @@ class Unigrams(db.Model):
 
 #I modified the initialize method to fit our unigram model, I think we should keep these two methods
 
-    def __init__(self, word1, word2):
+    def __init__(self, word1, word2, count):
         self.word1 = word1
         self.word2 = word2
-        self.count = 1
+        self.count = count
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
