@@ -8,18 +8,30 @@ app.config.from_object(os.environ['APP_SETTINGS'])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
-from models import Result
+# from models import Unigrams
 
+
+# @app.route('/')
+# def hello():
+#     return "Hello World!"
+
+
+# @app.route('/<name>')
+# def hello_name(name):
+#     return "Hello {}!".format(name)
+
+
+
+from flask import render_template
 
 @app.route('/')
-def hello():
-    return "Hello World!"
+def index():
+    return 'Index Page'
 
-
-@app.route('/<name>')
-def hello_name(name):
-    return "Hello {}!".format(name)
-
+@app.route('/hello')
+@app.route('/hello/<name>')
+def hello(name=None):
+    return render_template('hello.html', name=name)
 
 if __name__ == '__main__':
     app.run()

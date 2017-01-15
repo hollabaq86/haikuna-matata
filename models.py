@@ -39,11 +39,12 @@ class Unigrams(db.Model):
 
 #I modified the initialize method to fit our unigram model, I think we should keep these two methods
 
-    def __init__(self, word1, word2, count):
-        self.word1 = word1
-        self.word2 = word2
-        self.count = count
+def __init__(self, word1, word2, count):
+    self.word1 = word1
+    self.word2 = word2
+    self.count = count
 
-    def __repr__(self):
-        return '<id {}>'.format(self.id)
+
+def __repr__(self):
+    return '<id {}>'.format(self.id)
 

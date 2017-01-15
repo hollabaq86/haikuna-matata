@@ -30,10 +30,3 @@ def parseIntoProbabilityHash(text):
 #   parseIntoProbabilityHash(each_line)
 
 # print(probabilityHash)
-
-
-
-
-
-
-
