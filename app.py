@@ -1,4 +1,5 @@
 from flask import Flask
+from flask import render_template
 from flask_sqlalchemy import SQLAlchemy
 import os
 import text_file
@@ -13,10 +14,9 @@ haikuFile = open("haikus.txt")
 haikus = haikuFile.readlines()
 
 hashed_haikus = text_file.parseIntoProbabilityHash(haikus)
-print(hashed_haikus)
-text_file.createUnigrams(hashed_haikus)
+for sourcePair, count in hashed_haikus.items():
+	text_file.createUnigram(sourcePair, count)
 
-from flask import render_template
 
 @app.route('/')
 def index():

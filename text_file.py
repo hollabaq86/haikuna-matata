@@ -1,5 +1,6 @@
-import re
 from flask_sqlalchemy import SQLAlchemy
+from models import Unigram
+import re
 
 haikuFile = open("haikus.txt")
 haikus = haikuFile.readlines()
@@ -8,9 +9,10 @@ probabilityHash = {}
 #("word1 word2"), count
 
 def parseIntoProbabilityHash(text):
-  print(text)
+  stripPunctuation = ""
   for line in text:
-    stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',text)
+    stripPunctuationLine = re.sub("\b([a-zA-Z]+)\b",' ',line)
+    stripPunctuation += stripPunctuationLine
   wordsInText = stripPunctuation.split()
   i = 0
   count = len(wordsInText) - 1
@@ -24,10 +26,8 @@ def parseIntoProbabilityHash(text):
     i+=1
   return probabilityHash
 
-def createUnigrams(hash):
-  for text, counter in hash:
-    split_text = text.split(" ")
-    new_unigram = Unigram(word1 = split_text[0], word2 = split_text[1], count = counter)
-    db.session.add(new_unigram)
-    db.session.commit()
-
+def createUnigram(unigramSourcePair, count):
+  split_text = unigramSourcePair.split(" ")
+  new_unigram = models.Unigram(word1 = split_text[0], word2 = split_text[1], count = count)
+  db.session.add(new_unigram)
+  db.session.commit()
