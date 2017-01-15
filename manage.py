@@ -7,6 +7,7 @@ from app import app, db
 
 app.config.from_object(os.environ['APP_SETTINGS'])
 
+from models import *
 migrate = Migrate(app, db)
 manager = Manager(app)
 
