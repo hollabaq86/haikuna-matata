@@ -1,4 +1,5 @@
 import re
+
 from flask_sqlalchemy import SQLAlchemy
 
 haikuFile = open("haikus.txt")
@@ -6,7 +7,6 @@ haikus = haikuFile.readlines()
 #tests will only pass if you move this declaration of the empty probability hash to inside of the parse method
 probabilityHash = {}
 #("word1 word2"), count
-
 def parseIntoProbabilityHash(text):
   print(text)
   for line in text:
@@ -30,4 +30,3 @@ def createUnigrams(hash):
     new_unigram = Unigram(word1 = split_text[0], word2 = split_text[1], count = counter)
     db.session.add(new_unigram)
     db.session.commit()
-

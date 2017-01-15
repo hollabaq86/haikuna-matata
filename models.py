@@ -10,6 +10,7 @@ class Unigrams(db.Model):
 
 #I modified the initialize method to fit our unigram model, I think we should keep these two methods
 
+
 def __init__(self, word1, word2, count):
     self.word1 = word1
     self.word2 = word2
