@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hollabaq86/haikuna-matata.svg?branch=master)](https://travis-ci.org/hollabaq86/haikuna-matata)
+
 # Haikuna-Matata
 ---
 ## A Machine Learning Haiku Generator
