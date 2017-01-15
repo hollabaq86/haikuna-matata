@@ -8,7 +8,7 @@
 ## Description
 ---
 
-Haikuna-Matata generates completely original, correctly formatted haikus based on user input. A user types an input word into the console when running the program, and the program will return a 5/7/5 style haiku concerning whatever input the user put in.
+Haikuna-Matata generates completely original, correctly formatted haikus based on user input. A user types an input word into the console when running the program, and the program will return a 5/7/5 style haiku concerning whatever input the user put in.  Haikus will meet the following requirements, moving from Basic to Advanced as the program learns over time.
 
 Basic Haiku Requirements
 ---
