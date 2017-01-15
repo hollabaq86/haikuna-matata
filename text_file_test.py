@@ -1,5 +1,5 @@
 import unittest
-import parser
+import parse_hash
 
 class parseIntoProbabilityHashTests(unittest.TestCase):
 
@@ -9,12 +9,12 @@ class parseIntoProbabilityHashTests(unittest.TestCase):
     two = "apple is"
     three = "is red"
     outcome = {one: 1, two: 1, three: 1}
-    probabilityHash2 = parser.parseIntoProbabilityHash(string2)
+    probabilityHash2 = parse_hash.parseIntoProbabilityHash(string2)
     self.assertEqual(probabilityHash2, outcome)
 
   def testIncrementingValue(self):
     string = "How are you doing today, my friend? Are you happy or are you sad? How are your kids doing today?"
-    probabilityHash = parser.parseIntoProbabilityHash(string)
+    probabilityHash = parse_hash.parseIntoProbabilityHash(string)
     self.assertEqual(probabilityHash["are you"], 3)
 
 def main():
