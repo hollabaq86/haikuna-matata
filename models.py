@@ -1,19 +1,21 @@
-from app import db
-from sqlalchemy.dialects.postgresql import JSON
+from sqlalchemy import create_engine, Column, Integer, String, DateTime
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.engine.url import URL
 
+# import settings (whatever file has our db credentials we should update this line)
 
-class Result(db.Model):
-    __tablename__ = 'results'
+DeclarativeBase = declarative_base()
 
-    id = db.Column(db.Integer, primary_key=True)
-    url = db.Column(db.String())
-    result_all = db.Column(JSON)
-    result_no_stop_words = db.Column(JSON)
+def db_connect:
+	return create_engine(URL(**settings.DATABASE))
 
-    def __init__(self, url, result_all, result_no_stop_words):
-        self.url = url
-        self.result_all = result_all
-        self.result_no_stop_words = result_no_stop_words
+def create_unigrams_table(engine):
+	DeclarativeBase.metadata.create_all(engine)
 
-    def __repr__(self):
-        return '<id {}>'.format(self.id)
+class Unigrams(DeclarativeBase):
+	__tablename__ = "unigrams"
+
+	id = Column(Integer, primary_key=True)
+	word1 = Column('word1', String, nullable=False, index=True)
+	word2 = Column('word2', String)
+	count = Column('count', Integer, nullable = False)
