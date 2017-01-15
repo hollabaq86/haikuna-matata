@@ -26,5 +26,7 @@ def favorUnigram(wordOne, wordTwo):
 
 def unfavorUnigram(wordOne, wordTwo):
 	unigram = session.query(Unigrams).filter_by(word1 == wordOne, word2 == wordTwo)
-	Unigram.count = math.floor(Unigram.count * 0.5)
+	Unigram.count = math.floor(Unigram.count * 0.5) # See above.
 	#update entry here
+
+#Allowing the user to like/dislike lines will have to take place on the flask side of things
