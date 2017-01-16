@@ -1,6 +1,11 @@
 from flask_sqlalchemy import SQLAlchemy
 import re
 from models import *
+import nltk
+from nltk.corpus import cmudict
+import curses
+from curses.ascii import isdigit
+d = cmudict.dict()
 
 #tests will only pass if you move this declaration of the empty probability hash to inside of the parse method
 probabilityHash = {}
@@ -17,10 +22,11 @@ def parseIntoProbabilityHash(text):
   while (i < count):
     word1 = wordsInText[i].lower()
     word2 = wordsInText[i+1].lower()
-    if (word1 + " " + word2) in probabilityHash:
-      probabilityHash[word1 + " " + word2] += 1
-    else:
-      probabilityHash[word1 + " " + word2] = 1
+    if word1 in d and word2 in d:
+      if (word1 + " " + word2) in probabilityHash:
+        probabilityHash[word1 + " " + word2] += 1
+      else:
+        probabilityHash[word1 + " " + word2] = 1
     i+=1
   return probabilityHash
 
@@ -32,8 +38,9 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-files = ['haikus.txt', 'poetry_examples.txt']
+files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poetry_examples.txt']
 for txtfile in files:
+  print("processing")
 
   haikuFile = open(txtfile)
   haikus = haikuFile.readlines()
