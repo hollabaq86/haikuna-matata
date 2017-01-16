@@ -40,7 +40,7 @@ def haiku():
   word = request.form['word']
   processed_word = word.lower()
   from runner import generateHaiku
-  result = generateHaiku(processed_word)
+  result = generateHaiku(processed_word).split('\n')
   return render_template('show.html', word=processed_word, result=result)
 
 if __name__ == '__main__':
