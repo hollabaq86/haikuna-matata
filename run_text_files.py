@@ -32,8 +32,9 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-files = ['haikus.txt', 'poetry_examples.txt']
+files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poetry_examples.txt']
 for txtfile in files:
+  print("processing")
 
   haikuFile = open(txtfile)
   haikus = haikuFile.readlines()
