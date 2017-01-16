@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask_sqlalchemy import SQLAlchemy
 import os
-import text_file
+import run_text_files
 
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
