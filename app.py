@@ -32,12 +32,14 @@ def createUnigram(unigramSourcePair, count):
 	db.session.add(new_unigram)
 	db.session.commit()
 
-haikuFile = open("haikus.txt")
-haikus = haikuFile.readlines()
-
-hashed_haikus = text_file.parseIntoProbabilityHash(haikus)
-for sourcePair, count in hashed_haikus.items():
-	createUnigram(sourcePair, count)
+@app.route('/parse')
+def parse():
+	haikuFile = open("haikus.txt")
+	haikus = haikuFile.readlines()
+	hashed_haikus = text_file.parseIntoProbabilityHash(haikus)
+	for sourcePair, count in hashed_haikus.items():
+		createUnigram(sourcePair, count)
+	return hashed_haikus
 
 
 @app.route('/')
