@@ -1,5 +1,3 @@
-from app import db
-
 class Unigram(db.Model):
 	__tablename__ = "unigrams"
 
