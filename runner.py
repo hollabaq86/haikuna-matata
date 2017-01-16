@@ -36,6 +36,9 @@ def countSyllables(potentialHaiku):
   wordsInHaiku = stripPunctuation.split()
   syllableCount = 0
   for i in wordsInHaiku:
+    # print"*** countSyllables method***"
+    # print i
+    # print"***"
     syllableCount += numSylsInWord(i)
   return syllableCount
 
@@ -58,8 +61,8 @@ def generateLine(sylCount, base= None):
     base = "the"
   lastWord = base.rsplit(None, 1)[-1]
   from models import Unigram
-  unigrams = Unigram.query.filter(Unigram.word1 == lastWord)
-  possibleWords = grabPossibleWords(unigrams)
+  listOfUnigrams = Unigram.query.filter(Unigram.word1 ==lastWord)
+  possibleWords = grabPossibleWords(listOfUnigrams)
   index = randrange(0, len(possibleWords))
   adder = possibleWords[index]
   #we think we're getting infinitly stuck in this while loop. to be determined once we can test with this database
@@ -68,6 +71,7 @@ def generateLine(sylCount, base= None):
     adder = possibleWords[index]
   newBase = base + " " + adder
   newSylCount = sylCount - countSyllables(adder)
+  print newBase
   return generateLine(newSylCount, newBase)
 
 def grabPossibleWords(unigrams):
@@ -94,13 +98,10 @@ def findFrequency(largeBodyofText):
   for word in uniqueWords:
     print(word, fdist[word])
 
-
-
-
 print(generateHaiku("give"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
-
+print generateHaiku("the")
 
 
