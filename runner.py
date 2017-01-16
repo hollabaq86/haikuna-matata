@@ -6,17 +6,17 @@ from curses.ascii import isdigit
 import re
 from random import randrange
 from nltk.probability import FreqDist
+from app import db
+import models
 # from nltk.corpus import brown
 
 d = cmudict.dict()
 
-# this method ONLY works on words that are in the dict();
-# need to tweak it
 def numSylsInWord(word):
+  print(word)
   if word.lower() in d:
     return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
-  # else:
-    #create "Contains an unrecognized word" error
+
 
 
 def isHaiku(potentialHaiku):
@@ -41,11 +41,11 @@ def countSyllables(potentialHaiku):
 
 def generateHaiku(firstWord):
   haiku = ""
-  haiku += generateLine(5, firstWord)
+  haiku += generateLine(4, firstWord)
   haiku += "\n"
-  haiku += generateLine(7)
+  haiku += generateLine(6)
   haiku += "\n"
-  haiku += generateLine(5)
+  haiku += generateLine(4)
   return haiku
 
 
@@ -55,9 +55,10 @@ def generateLine(sylCount, base= None):
   elif sylCount < 0:
     return "You fucked up"
   if base == None:
-    base = "The"
+    base = "the"
   lastWord = base.rsplit(None, 1)[-1]
-  unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
+  from models import Unigram
+  unigrams = Unigram.query.filter(Unigram.word1 == lastWord)
   possibleWords = grabPossibleWords(unigrams)
   index = randrange(0, len(possibleWords))
   adder = possibleWords[index]
@@ -95,14 +96,8 @@ def findFrequency(largeBodyofText):
 
 
 
-print(identifyPartsOfSpeech("isn't this orange juice yummy! I sure think it is."))
 
-
-raw = "i love python. it's a lot of fun learning to break language apart using the national language toolkit. python is pretty cool. i am pretty tired though. i can't wait for it to be bedtime"
-
-findFrequency(raw)
-
-
+print(generateHaiku("give"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 

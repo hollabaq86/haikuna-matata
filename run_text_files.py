@@ -32,8 +32,11 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-haikuFile = open("haikus.txt")
-haikus = haikuFile.readlines()
-hashed_haikus = parseIntoProbabilityHash(haikus)
-for sourcePair, count in hashed_haikus.items():
-  createUnigram(sourcePair, count)
+files = ['haikus.txt', 'poetry_examples.txt']
+for txtfile in files:
+
+  haikuFile = open(txtfile)
+  haikus = haikuFile.readlines()
+  hashed_haikus = parseIntoProbabilityHash(haikus)
+  for sourcePair, count in hashed_haikus.items():
+    createUnigram(sourcePair, count)
