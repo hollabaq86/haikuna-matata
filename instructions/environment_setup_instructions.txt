@@ -28,3 +28,9 @@ $ export DATABASE_URL="postgresql://localhost/haiku"
 
 ---flask setup
 https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+
+
+---initial set up local database commands.  run on command line one at a time.
+$ python manage.py db init
+$ python manage.py db migrate
+$ python manage.py db upgrade
