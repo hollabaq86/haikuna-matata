@@ -39,7 +39,9 @@ def hello():
 def haiku():
   word = request.form['word']
   processed_word = word.lower()
-  return render_template('show.html', word=processed_word)
+  from runner import generateHaiku
+  result = generateHaiku(processed_word)
+  return render_template('show.html', word=processed_word, result=result)
 
 if __name__ == '__main__':
   app.run()
