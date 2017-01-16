@@ -58,7 +58,7 @@ def generateLine(sylCount, base= None):
   elif sylCount < 0:
     return "You fucked up"
   if base == None:
-    base = "the"
+    base = pickRandomWord(sylCount)
   lastWord = base.rsplit(None, 1)[-1]
   from models import Unigram
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==lastWord)
@@ -80,6 +80,15 @@ def grabPossibleWords(unigrams):
       for unigram in range(each.count):
         container.append(each.word2)
   return container
+
+def pickRandomWord(requireSylCount):
+  lengthDB = Unigram.query.count()
+  while True:
+    randomNumPick = randrange(0, lengthDB)
+    tryWord = Unigram.query.filter(Unigram.id == randomNumPick)
+    if countSyllables(tryWord.word1) <= requireSylCount
+      break
+  return tryWord.word1
 
 def identifyPartsOfSpeech(string):
   cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
