@@ -6,6 +6,8 @@ from curses.ascii import isdigit
 import re
 from random import randrange
 from nltk.probability import FreqDist
+from app import db
+import models
 # from nltk.corpus import brown
 
 d = cmudict.dict()
@@ -36,16 +38,19 @@ def countSyllables(potentialHaiku):
   wordsInHaiku = stripPunctuation.split()
   syllableCount = 0
   for i in wordsInHaiku:
+    # print"*** countSyllables method***"
+    # print i
+    # print"***"
     syllableCount += numSylsInWord(i)
   return syllableCount
 
 def generateHaiku(firstWord):
   haiku = ""
-  haiku += generateLine(5, firstWord)
+  haiku += generateLine(4, firstWord)
   haiku += "\n"
-  haiku += generateLine(7)
+  haiku += generateLine(6)
   haiku += "\n"
-  haiku += generateLine(5)
+  haiku += generateLine(4)
   return haiku
 
 
@@ -55,10 +60,11 @@ def generateLine(sylCount, base= None):
   elif sylCount < 0:
     return "You fucked up"
   if base == None:
-    base = "The"
+    base = "the"
   lastWord = base.rsplit(None, 1)[-1]
-  unigrams = session.query(Unigrams).filter_by(word1 == lastWord)
-  possibleWords = grabPossibleWords(unigrams)
+  from models import Unigram
+  listOfUnigrams = Unigram.query.filter(Unigram.word1 ==lastWord)
+  possibleWords = grabPossibleWords(listOfUnigrams)
   index = randrange(0, len(possibleWords))
   adder = possibleWords[index]
   #we think we're getting infinitly stuck in this while loop. to be determined once we can test with this database
@@ -67,6 +73,7 @@ def generateLine(sylCount, base= None):
     adder = possibleWords[index]
   newBase = base + " " + adder
   newSylCount = sylCount - countSyllables(adder)
+  print newBase
   return generateLine(newSylCount, newBase)
 
 def grabPossibleWords(unigrams):
@@ -95,17 +102,17 @@ def findFrequency(largeBodyofText):
 
 
 
-print(identifyPartsOfSpeech("isn't this orange juice yummy! I sure think it is."))
+#print(identifyPartsOfSpeech("isn't this orange juice yummy! I sure think it is."))
 
 
-raw = "i love python. it's a lot of fun learning to break language apart using the national language toolkit. python is pretty cool. i am pretty tired though. i can't wait for it to be bedtime"
+#raw = "i love python. it's a lot of fun learning to break language apart using the national language toolkit. python is pretty cool. i am pretty tired though. i can't wait for it to be bedtime"
 
-findFrequency(raw)
+#findFrequency(raw)
 
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
-
+print generateHaiku("the")
 
 
