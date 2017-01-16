@@ -14,9 +14,14 @@ class TestRunnerMethods(unittest.TestCase):
     self.assertFalse(falseHaiku)
 
   def test_generate_random_haiku(self):
-    haiku = runner.generateHaiku('hello')
+    haiku = runner.generateHaiku('the')
     self.assertIsInstance(haiku, basestring)
-    self.assertEqual(haiku, 'Hello, World')
+
+  def test_grab_possible_words(self):
+    unigram1 = Unigram("the", "cat", 1)
+    unigram2 = Unigram("in", "the", 2)
+    unigramArray = runner.grabPossibleWords([unigram1, unigram2])
+    self.assertEqual(unigramArray, ["the", "cat", "in", "the", "in", "the"])
 
   # def test_generate_line(self):
   #   line = runner.generateLine(5, "the")

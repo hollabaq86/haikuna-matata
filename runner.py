@@ -7,7 +7,7 @@ import re
 from random import randrange
 from nltk.probability import FreqDist
 from app import db
-import models
+
 # from nltk.corpus import brown
 
 d = cmudict.dict()
@@ -81,22 +81,22 @@ def grabPossibleWords(unigrams):
         container.append(each.word2)
   return container
 
-def identifyPartsOfSpeech(string):
-  cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
-  arrayOfWords = nltk.word_tokenize(cleanString)
+# def identifyPartsOfSpeech(string):
+#   cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
+#   arrayOfWords = nltk.word_tokenize(cleanString)
 
-  return nltk.pos_tag(arrayOfWords)
+#   return nltk.pos_tag(arrayOfWords)
 
-def findFrequency(largeBodyofText):
-  cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
-  arrayOfWords = nltk.word_tokenize(cleanText)
-  fdist = FreqDist(arrayOfWords)
-  uniqueWords = []
-  for word in arrayOfWords:
-    if not word in uniqueWords:
-      uniqueWords.append(word)
-  for word in uniqueWords:
-    print(word, fdist[word])
+# def findFrequency(largeBodyofText):
+#   cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
+#   arrayOfWords = nltk.word_tokenize(cleanText)
+#   fdist = FreqDist(arrayOfWords)
+#   uniqueWords = []
+#   for word in arrayOfWords:
+#     if not word in uniqueWords:
+#       uniqueWords.append(word)
+#   for word in uniqueWords:
+#     print(word, fdist[word])
 
 print(generateHaiku("give"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
