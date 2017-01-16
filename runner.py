@@ -12,13 +12,11 @@ import models
 
 d = cmudict.dict()
 
-# this method ONLY works on words that are in the dict();
-# need to tweak it
 def numSylsInWord(word):
+  print(word)
   if word.lower() in d:
     return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
-  # else:
-    #create "Contains an unrecognized word" error
+
 
 
 def isHaiku(potentialHaiku):
@@ -100,16 +98,7 @@ def findFrequency(largeBodyofText):
   for word in uniqueWords:
     print(word, fdist[word])
 
-
-
-#print(identifyPartsOfSpeech("isn't this orange juice yummy! I sure think it is."))
-
-
-#raw = "i love python. it's a lot of fun learning to break language apart using the national language toolkit. python is pretty cool. i am pretty tired though. i can't wait for it to be bedtime"
-
-#findFrequency(raw)
-
-
+print(generateHaiku("give"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 

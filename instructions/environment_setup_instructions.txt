@@ -34,3 +34,17 @@ https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-a
 $ python manage.py db init
 $ python manage.py db migrate
 $ python manage.py db upgrade
+
+--access info from the database
+$ psql
+\c haiku
+select * from unigrams;
+
+--drop the database
+$ psql
+
+apprentice=# drop database haiku;
+DROP DATABASE
+apprentice=# create database haiku;
+CREATE DATABASE
+apprentice=# \q
