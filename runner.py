@@ -47,20 +47,6 @@ def inDatabase(firstWord):
 
 
 
-def inDatabase(firstWord):
-  container = []
-  from models import Unigram
-  unigrams = Unigram.query.filter(Unigram.word1 == firstWord)
-  for each in unigrams:
-      for unigram in range(each.count):
-          container.append(each.word2)
-  if not container:
-    return False
-  if container:
-    return True
-
-
-
 def generateHaiku(firstWord):
 	inDB = inDatabase(firstWord)
 	if inDB:
