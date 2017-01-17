@@ -64,7 +64,7 @@ def pickRandomWord(reqSylCount):
   from models import Unigram
   lengthDB = Unigram.query.count()
   while True:
-    randomNumPick = randrange(0, lengthDB)
+    randomNumPick = randrange(1, lengthDB)
     tryWord = Unigram.query.filter(Unigram.id == randomNumPick).first()
     if countSyllables(tryWord.word1) <= reqSylCount:
       word = tryWord.word1

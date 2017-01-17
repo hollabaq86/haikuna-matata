@@ -39,7 +39,7 @@ def createUnigram(unigramSourcePair, count):
 
 #runner logic
 files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poems_1.txt', 'example_poetry/allthetext.txt']
-
+testFiles = ['example_poetry/test_text.txt']
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
 def seedDatabase(files):
   for txtfile in files:
@@ -50,4 +50,4 @@ def seedDatabase(files):
     print("processing")
     createUnigram(sourcePair, count)
 
-seedDatabase(files)
+seedDatabase(testFiles)
