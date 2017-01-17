@@ -48,3 +48,6 @@ DROP DATABASE
 apprentice=# create database haiku;
 CREATE DATABASE
 apprentice=# \q
+
+run python server localhost:5000
+  python app.py
