@@ -33,13 +33,32 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
+def inDatabase(firstWord):
+  container = []
+  from models import Unigram
+  unigrams = Unigram.query.filter(Unigram.word1 == firstWord)
+  for each in unigrams:
+      for unigram in range(each.count):
+          container.append(each.word2)
+  if not container:
+    return False
+  if container:
+    return True
+
+
+
 def generateHaiku(firstWord):
-  haiku = ""
-  haiku += generateLine(4, firstWord)
-  haiku += "\n"
-  haiku += generateLine(6)
-  haiku += "\n"
-  haiku += generateLine(4)
+  inDB = inDatabase(firstWord)
+  if inDB:
+    haiku = ""
+    haiku += generateLine(4, firstWord)
+    haiku += "\n"
+    haiku += generateLine(6)
+    haiku += "\n"
+    haiku += generateLine(4)
+  if not inDB:
+    firstWord = pickRandomWord(4)
+    haiku = generateHaiku(firstWord)
   return haiku
 
 def generateLine(sylCount, base= None):
@@ -72,12 +91,12 @@ def pickRandomWord(reqSylCount):
   return tryWord.word1
 
 def formatPossibleWords(unigrams, reqSylCount):
-  container = []
-  for each in unigrams:
-      for unigram in range(each.count):
-          if countSyllables(each.word2) <= reqSylCount:
-            container.append(each.word2)
-  return container
+	container = []
+	for each in unigrams:
+		for unigram in range(each.count):
+			if countSyllables(each.word2) <= reqSylCount:
+				container.append(each.word2)
+	return container
 
 def grabPossibleWords(baseWord, reqSylCount):
   from models import Unigram
@@ -103,6 +122,8 @@ def grabPossibleWords(baseWord, reqSylCount):
 
 
 print(generateHaiku("the"))
+# print("***************")
+print(generateHaiku("lksdjfhlsdhjfgsl;d"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
