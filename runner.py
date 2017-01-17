@@ -33,13 +33,34 @@ def countSyllables(potentialHaiku):
     syllableCount += numSylsInWord(i)
   return syllableCount
 
+def inDatabase(firstWord):
+  container = []
+  from models import Unigram
+  unigrams = Unigram.query.filter(Unigram.word1 == firstWord)
+  for each in unigrams:
+      for unigram in range(each.count):
+          container.append(each.word2)
+  if not container:
+    return False
+  if container:
+    return True
+
+
+
 def generateHaiku(firstWord):
-  haiku = ""
-  haiku += generateLine(4, firstWord)
-  haiku += "\n"
-  haiku += generateLine(6)
-  haiku += "\n"
-  haiku += generateLine(4)
+  inDB = inDatabase(firstWord)
+  print(inDB)
+  if inDB:
+    haiku = ""
+    print("***")
+    haiku += generateLine(4, firstWord)
+    haiku += "\n"
+    haiku += generateLine(6)
+    haiku += "\n"
+    haiku += generateLine(4)
+  if not inDB:
+    firstWord = pickRandomWord(4)
+    generateHaiku(firstWord)
   return haiku
 
 def generateLine(sylCount, base= None):
@@ -51,6 +72,7 @@ def generateLine(sylCount, base= None):
     base = pickRandomWord(sylCount)
   lastWord = base.rsplit(None, 1)[-1]
   possibleWords = grabPossibleWords(lastWord, sylCount)
+  print(possibleWords)
   if possibleWords:
     index = randrange(0, len(possibleWords))
     adder = possibleWords[index]
@@ -69,20 +91,22 @@ def pickRandomWord(reqSylCount):
     if countSyllables(tryWord.word1) <= reqSylCount:
       word = tryWord.word1
       break
-  return tryWord.word1  
+  return tryWord.word1
 
 def formatPossibleWords(unigrams, reqSylCount):
-  container = []
-  for each in unigrams:
-      for unigram in range(each.count):
-          if countSyllables(each.word2) <= reqSylCount:
-            container.append(each.word2)
-  return container
+	container = []
+	for each in unigrams:
+		for unigram in range(each.count):
+			if countSyllables(each.word2) <= reqSylCount:
+				container.append(each.word2)
+	print container
+	return container
 
 def grabPossibleWords(baseWord, reqSylCount):
   from models import Unigram
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==baseWord)
-  return formatPossibleWords(listOfUnigrams, reqSylCount)     
+  print listOfUnigrams
+  return formatPossibleWords(listOfUnigrams, reqSylCount)
 
 # def identifyPartsOfSpeech(string):
 #   cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
@@ -103,6 +127,8 @@ def grabPossibleWords(baseWord, reqSylCount):
 
 
 print(generateHaiku("the"))
+# print("***************")
+# print(generateHaiku("lksdjfhlsdhjfgsl;d"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
