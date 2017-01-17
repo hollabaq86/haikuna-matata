@@ -62,7 +62,6 @@ def inDatabase(firstWord):
 
 
 def generateHaiku(firstWord):
-<<<<<<< HEAD
 	inDB = inDatabase(firstWord)
 	if inDB:
 		haiku = ""
@@ -84,22 +83,6 @@ def startGenerateLine(sylCount, base= None):
 	return line
 
 def finishGenerateLine(sylCount, base):
-=======
-  inDB = inDatabase(firstWord)
-  if inDB:
-    haiku = ""
-    haiku += generateLine(4, firstWord)
-    haiku += "\n"
-    haiku += generateLine(6)
-    haiku += "\n"
-    haiku += generateLine(4)
-  if not inDB:
-    firstWord = pickRandomWord(4)
-    haiku = generateHaiku(firstWord)
-  return haiku
-
-def generateLine(sylCount, base= None):
->>>>>>> master
   if sylCount == 0:
     return base
   lastWord = base.rsplit(None, 1)[-1]
@@ -124,25 +107,17 @@ def pickRandomWord(reqSylCount):
 			break
 	return tryWord.word1
 
-
-def validThing(unigram):
-	pos = str(identifyPartsOfSpeech(unigram.word2))
-	countSyllables(unigram.word2) == 1 &&
-	pos != 'IN' && pos != "DT"
-
-
 def formatPossibleWords(unigrams, reqSylCount):
 	tempContainer = []
 	container = []
 	if reqSylCount == 1:
-		tempContainer = [word in unigrams if validThing(unigram)]
-
-		# for each in unigrams:
-		# 	if countSyllables(each.word2) == 1:
-		# 		tempContainer.append(each)
-		# for unigram in tempContainer:
-		# 	if str(identifyPartsOfSpeech(unigram.word2)) == 'IN' or str(identifyPartsOfSpeech(unigram.word2)) == 'DT':
-		# 		tempContainer.remove(unigram)
+		for each in unigrams:
+			if countSyllables(each.word2) == 1:
+				tempContainer.append(each)
+		for unigram in tempContainer:
+			if str(identifyPartsOfSpeech(unigram.word2)) == 'IN' or str(identifyPartsOfSpeech(unigram.word2)) == 'DT':
+				# print type(unigrams)
+				tempContainer.remove(unigram)
 		for unigram in tempContainer:
 			for index in range(unigram.count):
 				if countSyllables(unigram.word2) <= reqSylCount:
@@ -152,7 +127,26 @@ def formatPossibleWords(unigrams, reqSylCount):
 			for index in range(each.count):
 				if countSyllables(each.word2) <= reqSylCount:
 					container.append(each.word2)
+	# if reqSylCount == 1:
+	# 	for word in container:
+	# 		if str(identifyPartsOfSpeech(word)) == 'IN' or str(identifyPartsOfSpeech(word)) == 'DT':
+				# container.remove(word)
+				# print("removed")
+				# print(word)
+	# print container
 	return container
+
+# def formatPossibleWords(unigrams, reqSylCount):
+# 	container = []
+# 	for each in unigrams:
+# 		for unigram in range(each.count):
+# 			if reqSylCount == 1 and identifyPartsOfSpeech(each.word2) != 'DT':
+# 				# container.append(each.word2)
+# 				if reqSylCount == 1 and identifyPartsOfSpeech(each.word2) != 'IN':
+# 					container.append(each.word2)
+# 			if countSyllables(each.word2) <= reqSylCount:
+# 				container.append(each.word2)
+# 	return container
 
 def grabPossibleWords(baseWord, reqSylCount):
 	from models import Unigram
@@ -177,11 +171,9 @@ def identifyPartsOfSpeech(word):
 #     print(word, fdist[word])
 
 
-
 print(generateHaiku("the"))
 # print("***************")
 print(generateHaiku("lksdjfhlsdhjfgsl;d"))
->>>>>>> master
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
