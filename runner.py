@@ -32,7 +32,7 @@ def isHaiku(potentialHaiku):
 
 
 def countSyllables(potentialHaiku):
-  stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',potentialHaiku)
+  stripPunctuation = re.sub(ur"\b([a-zA-Z]+)\b",' ',potentialHaiku)
   wordsInHaiku = stripPunctuation.split()
   syllableCount = 0
   for i in wordsInHaiku:
@@ -77,13 +77,13 @@ def grabPossibleWords(unigrams):
   return container
 
 def identifyPartsOfSpeech(string):
-  cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
+  cleanString = re.sub(ur"\b([a-zA-Z]+)\b",' ', string)
   arrayOfWords = nltk.word_tokenize(cleanString)
 
   return nltk.pos_tag(arrayOfWords)
 
 def findFrequency(largeBodyofText):
-  cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
+  cleanText = re.sub(ur"\b([a-zA-Z]+)\b",' ', largeBodyofText)
   arrayOfWords = nltk.word_tokenize(cleanText)
   fdist = FreqDist(arrayOfWords)
   uniqueWords = []
