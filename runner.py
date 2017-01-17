@@ -49,10 +49,8 @@ def inDatabase(firstWord):
 
 def generateHaiku(firstWord):
   inDB = inDatabase(firstWord)
-  print(inDB)
   if inDB:
     haiku = ""
-    print("***")
     haiku += generateLine(4, firstWord)
     haiku += "\n"
     haiku += generateLine(6)
@@ -60,7 +58,7 @@ def generateHaiku(firstWord):
     haiku += generateLine(4)
   if not inDB:
     firstWord = pickRandomWord(4)
-    generateHaiku(firstWord)
+    haiku = generateHaiku(firstWord)
   return haiku
 
 def generateLine(sylCount, base= None):
@@ -72,7 +70,6 @@ def generateLine(sylCount, base= None):
     base = pickRandomWord(sylCount)
   lastWord = base.rsplit(None, 1)[-1]
   possibleWords = grabPossibleWords(lastWord, sylCount)
-  print(possibleWords)
   if possibleWords:
     index = randrange(0, len(possibleWords))
     adder = possibleWords[index]
@@ -99,7 +96,6 @@ def formatPossibleWords(unigrams, reqSylCount):
 		for unigram in range(each.count):
 			if countSyllables(each.word2) <= reqSylCount:
 				container.append(each.word2)
-	print container
 	return container
 
 def grabPossibleWords(baseWord, reqSylCount):
@@ -127,7 +123,7 @@ def grabPossibleWords(baseWord, reqSylCount):
 
 print(generateHaiku("the"))
 # print("***************")
-# print(generateHaiku("lksdjfhlsdhjfgsl;d"))
+print(generateHaiku("lksdjfhlsdhjfgsl;d"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
