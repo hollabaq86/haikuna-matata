@@ -2,10 +2,15 @@ import nltk
 from nltk.corpus import cmudict
 import curses
 from curses.ascii import isdigit
+# import run_text_files
+# import string
 import re
 from random import randrange
 from nltk.probability import FreqDist
-import app
+# from app import db
+import models
+# import run_text_files
+# from nltk.corpus import brown
 
 d = cmudict.dict()
 
@@ -61,6 +66,7 @@ def generateLine(sylCount, base= None):
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==lastWord)
   possibleWords = grabPossibleWords(listOfUnigrams)
   index = randrange(0, len(possibleWords))
+
   adder = possibleWords[index]
   #we think we're getting infinitly stuck in this while loop. to be determined once we can test with this database
   while countSyllables(adder) > sylCount:
@@ -104,9 +110,12 @@ def findFrequency(largeBodyofText):
   for word in uniqueWords:
     print(word, fdist[word])
 
+
+print(generateHaiku("fuck"))
+
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
-print generateHaiku("the")
+# print generateHaiku("the")
 
 

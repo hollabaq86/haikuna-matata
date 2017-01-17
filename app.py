@@ -1,8 +1,10 @@
 from flask import Flask
 from flask import render_template
+from flask import request
 from flask_sqlalchemy import SQLAlchemy
 import os
 # import run_text_files
+	
 
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
@@ -12,12 +14,19 @@ from models import *
 
 @app.route('/')
 def index():
-    return 'Index Page'
+  return render_template('hello.html')
 
 @app.route('/hello')
-@app.route('/hello/<name>')
-def hello(name=None):
-    return render_template('hello.html', name=name)
+def hello():
+  return render_template('hello.html')
+
+@app.route('/haiku', methods=['POST'])
+def haiku():
+  word = request.form['word']
+  processed_word = word.lower()
+  from runner import generateHaiku
+  result = generateHaiku(processed_word).split('\n')
+  return render_template('show.html', word=processed_word, result=result)
 
 if __name__ == '__main__':
-    app.run()
+  app.run()
