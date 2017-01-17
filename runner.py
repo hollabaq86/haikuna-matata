@@ -105,7 +105,6 @@ def formatPossibleWords(unigrams, reqSylCount):
 def grabPossibleWords(baseWord, reqSylCount):
   from models import Unigram
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==baseWord)
-  print listOfUnigrams
   return formatPossibleWords(listOfUnigrams, reqSylCount)
 
 # def identifyPartsOfSpeech(string):

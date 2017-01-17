@@ -30,10 +30,14 @@ $ export DATABASE_URL="postgresql://localhost/haiku"
 https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
 
 
----initial set up local database commands.  run on command line one at a time.
-$ python manage.py db init
-$ python manage.py db migrate
+---to create the tables in your local database, enter the following.
+$ psql
+local_user=# create database haiku;
+local_user=# \q
 $ python manage.py db upgrade
+
+---to seed your local database, enter the following from the command line.
+$ python seed_database.py
 
 --access info from the database
 $ psql

@@ -38,12 +38,16 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poems_1.txt']
-for txtfile in files:
-  print("processing")
+files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poems_1.txt', 'example_poetry/allthetext.txt']
 
-  haikuFile = open(txtfile)
-  haikus = haikuFile.readlines()
-  hashed_haikus = parseIntoProbabilityHash(haikus)
+# files variable passed in must be an array.  If only passing in one file, still must be an array.
+def seedDatabase(files):
+  for txtfile in files:
+    haikuFile = open(txtfile)
+    haikus = haikuFile.readlines()
+    hashed_haikus = parseIntoProbabilityHash(haikus)
   for sourcePair, count in hashed_haikus.items():
+    print("processing")
     createUnigram(sourcePair, count)
+
+seedDatabase(files)
