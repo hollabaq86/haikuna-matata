@@ -1,4 +1,6 @@
 <!doctype html>
+{% extends "layout.html" %}
+ {% block body %}
 <title>Here is your haiku</title>
 {% if result %}
   <h1>{{ result[0] }}</h1>
@@ -7,6 +9,8 @@
 {% else %}
   <h1>You didn't enter a word</h1>
 {% endif %}
+{% endblock %}
+
 
 <!-- god what does not a \nthe sea and the bus is the\n the end we now or
 
