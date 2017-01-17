@@ -45,8 +45,6 @@ def inDatabase(firstWord):
 	if container:
 		return True
 
-
-
 def generateHaiku(firstWord):
 	inDB = inDatabase(firstWord)
 	if inDB:
@@ -61,26 +59,26 @@ def generateHaiku(firstWord):
 		haiku = generateHaiku(firstWord)
 	return haiku
 
-def startGenerateLine(sylCount, base= None):
-	if not base:
-		base = pickRandomWord(sylCount)
-	remainingSylCount = sylCount - countSyllables(base)
-	line = buildLineList(remainingSylCount, base)
-	return line
+def startGenerateLine(sylCount, startingWord= None):
+	if not startingWord:
+		startingWord = pickRandomWord(sylCount)
+	remainingSylCount = sylCount - countSyllables(startingWord)
+	line = buildLineList(remainingSylCount, [startingWord])
+	return " ".join(line)
 
-def buildLineList(sylCount, base):
-  if sylCount == 0:
-    return base
-  lastWord = base.rsplit(None, 1)[-1]
-  possibleWords = grabPossibleWords(lastWord, sylCount)
-  if possibleWords:
-    index = randrange(0, len(possibleWords))
-    adder = possibleWords[index]
-  if not possibleWords:
-    adder = pickRandomWord(sylCount)
-  newBase = base + " " + adder
-  workingSylCount = sylCount - countSyllables(adder)
-  return buildLineList(workingSylCount, newBase)
+def buildLineList(sylCount, wordsFromBefore):
+	if sylCount == 0:
+		return wordsFromBefore
+	lastWord = wordsFromBefore[-1]
+	possibilities = grabPossibleWords(lastWord, sylCount)
+	for possibleWord in possibilities:
+		newWordsFromBefore = [word[:] for word in wordsFromBefore]
+		newWordsFromBefore.append(possibleWord)
+		newSyllableCount = sylCount - countSyllables(possibleWord)
+		result = buildLineList(newSyllableCount, newWordsFromBefore)
+		if result:
+			return result
+	return None
 
 def pickRandomWord(reqSylCount):
 	from models import Unigram
