@@ -69,7 +69,7 @@ def pickRandomWord(reqSylCount):
     if countSyllables(tryWord.word1) <= reqSylCount:
       word = tryWord.word1
       break
-  return tryWord.word1  
+  return tryWord.word1
 
 def formatPossibleWords(unigrams, reqSylCount):
   container = []
@@ -82,7 +82,7 @@ def formatPossibleWords(unigrams, reqSylCount):
 def grabPossibleWords(baseWord, reqSylCount):
   from models import Unigram
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==baseWord)
-  return formatPossibleWords(listOfUnigrams, reqSylCount)     
+  return formatPossibleWords(listOfUnigrams, reqSylCount)
 
 # def identifyPartsOfSpeech(string):
 #   cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
