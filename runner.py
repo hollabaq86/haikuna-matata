@@ -85,13 +85,13 @@ def grabPossibleWords(unigrams):
   return container
 
 def identifyPartsOfSpeech(string):
-  cleanString = re.sub(ur"\b([a-zA-Z]+)\b",' ', string)
+  cleanString = re.sub(ur"[^\w\d'\s]+",' ', string)
   arrayOfWords = nltk.word_tokenize(cleanString)
 
   return nltk.pos_tag(arrayOfWords)
 
 def findFrequency(largeBodyofText):
-  cleanText = re.sub(ur"\b([a-zA-Z]+)\b",' ', largeBodyofText)
+  cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
   arrayOfWords = nltk.word_tokenize(cleanText)
   fdist = FreqDist(arrayOfWords)
   uniqueWords = []
