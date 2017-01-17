@@ -43,22 +43,43 @@ def generateHaiku(firstWord):
   return haiku
 
 def generateLine(sylCount, base= None):
-  if sylCount == 0:
-    return base
-  elif sylCount < 0:
-    return "You fucked up"
-  if base == None:
-    base = pickRandomWord(sylCount)
-  lastWord = base.rsplit(None, 1)[-1]
-  possibleWords = grabPossibleWords(lastWord, sylCount)
-  if possibleWords:
-    index = randrange(0, len(possibleWords))
-    adder = possibleWords[index]
-  if not possibleWords:
-    adder = pickRandomWord(sylCount)
-  newBase = base + " " + adder
-  workingSylCount = sylCount - countSyllables(adder)
-  return generateLine(workingSylCount, newBase)
+  if no base provided, 
+    pick a random word from db that meets syllable requirements
+
+  create empty array(working array), 
+  add base to that array
+  assign last word from the working array to a variable (working word)
+  pull possible next words of working word from the db that meet syllable requirements
+  if there are no possible words,
+    drop the working word from the working array
+    save working word to new variable scrap word
+    repeat from line 51
+  if there are possible words,
+    pick a random word from possible words
+    designate as adder word
+    add adder to working array
+    calculate new required syllable count by subtracting syllables in adder from given syllable count
+  return generate line of new syllable count and adder   
+
+
+
+
+  # if sylCount == 0:
+  #   return base
+  # elif sylCount < 0:
+  #   return "You fucked up"
+  # if base == None:
+  #   base = pickRandomWord(sylCount)
+  # lastWord = base.rsplit(None, 1)[-1]
+  # possibleWords = grabPossibleWords(lastWord, sylCount)
+  # if possibleWords:
+  #   index = randrange(0, len(possibleWords))
+  #   adder = possibleWords[index]
+  # if not possibleWords:
+  #   adder = pickRandomWord(sylCount)
+  # newBase = base + " " + adder
+  # workingSylCount = sylCount - countSyllables(adder)
+  # return generateLine(workingSylCount, newBase)
 
 def pickRandomWord(reqSylCount):
   from models import Unigram
