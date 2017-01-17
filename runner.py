@@ -35,35 +35,32 @@ def countSyllables(potentialHaiku):
 
 def generateHaiku(firstWord):
   haiku = ""
-  haiku += generateLine(4, firstWord)
+  haiku += generateRandomLine(5, firstWord)
   haiku += "\n"
-  haiku += generateLine(6)
+  haiku += generateRandomLine(7)
   haiku += "\n"
-  haiku += generateLine(4)
+  haiku += generateRandomLine(5)
   return haiku
 
 def generateRandomLine(sylCount, startingWord= None):
-  if startingWord is None
+  if not startingWord:
     startingWord = pickRandomWord(sylCount)
-
   remainingSylCount = sylCount - countSyllables(startingWord)
   line = buildLine(remainingSylCount, [startingWord])
-  return line.join(" ")
+  return " ".join(line)
 
 def buildLineList(sylCount, wordsFromBefore):
-  if sylCount == 0
+  if sylCount == 0:
     return wordsFromBefore
-
   lastWord = wordsFromBefore[-1]
-  possibilities = grabPossibleWords(lastWord, sylCount) #a list of possible next words
-
-  for possibileWord in possibilities
-    newWordsFromBefore = wordsFromBefore + possibileWord #new list, should be non destructive
+  possibilities = grabPossibleWords(lastWord, sylCount) 
+  for possibileWord in possibilities:
+    newWordsFromBefore = [word[:] for word in wordsFromBefore]
+    newWordsFromBefore.append(possibileWord) 
     newSyllableCount = sylCount - countSyllables(possibleWord)
     result = buildLineList(newSyllableCount, newWordsFromBefore)
-    if result != None
+    if not result:
       return result
-
   return None  
 
   # if sylCount == 0:
@@ -92,7 +89,7 @@ def pickRandomWord(reqSylCount):
     if countSyllables(tryWord.word1) <= reqSylCount:
       word = tryWord.word1
       break
-  return tryWord.word1  
+  return word  
 
 def formatPossibleWords(unigrams, reqSylCount):
   container = []
