@@ -65,10 +65,10 @@ def startGenerateLine(sylCount, base= None):
 	if not base:
 		base = pickRandomWord(sylCount)
 	remainingSylCount = sylCount - countSyllables(base)
-	line = finishGenerateLine(remainingSylCount, base)
+	line = buildLineList(remainingSylCount, base)
 	return line
 
-def finishGenerateLine(sylCount, base):
+def buildLineList(sylCount, base):
   if sylCount == 0:
     return base
   lastWord = base.rsplit(None, 1)[-1]
@@ -80,7 +80,7 @@ def finishGenerateLine(sylCount, base):
     adder = pickRandomWord(sylCount)
   newBase = base + " " + adder
   workingSylCount = sylCount - countSyllables(adder)
-  return finishGenerateLine(workingSylCount, newBase)
+  return buildLineList(workingSylCount, newBase)
 
 def pickRandomWord(reqSylCount):
 	from models import Unigram
@@ -160,6 +160,7 @@ def identifyPartsOfSpeech(word):
 print(generateHaiku("the"))
 # print("***************")
 print(generateHaiku("lksdjfhlsdhjfgsl;d"))
+print(identifyPartsOfSpeech("and"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
