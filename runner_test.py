@@ -13,27 +13,31 @@ class TestRunnerMethods(unittest.TestCase):
     self.assertTrue(trueHaiku)
     self.assertFalse(falseHaiku)
 
-  def test_generate_random_haiku(self):
-    haiku = runner.generateHaiku('hello')
-    self.assertIsInstance(haiku, basestring)
-    self.assertEqual(haiku, 'Hello, World')
+  #def test_generate_random_haiku(self):
+  #  haiku = runner.generateHaiku('the')
+  #  self.assertIsInstance(haiku, basestring)
+  #  self.assertEqual(haiku, 'Hello, World')
+
+  def test_pick_random_word(self):
+    word = runner.pickRandomWord(1)
+    from models import Unigram
+    queryWord = Unigram.query.filter(Unigram.word1 == word)[0].word1
+    self.assertIsInstance(word, basestring)
+    self.assertEqual(word, queryWord)
 
   # def test_format_possible_words(self):
-    
 
-  #def test_pick_random_word(self):
+  def test_generate_line(self):
+    line = runner.generateLine(4, "the")
+    lineSyllables = runner.countSyllables(line)
+    self.assertEqual(lineSyllables, 5)
 
-
-  # def test_generate_line(self):
-  #   line = runner.generateLine(5, "the")
-  #   lineSyllables = runner.countSyllables(line)
-  #   self.assertEqual(lineSyllables, 5)
-
-  # def test_grab_possible_words(self):
-  #   unigrams = runner.session.query(Unigrams).filter_by(word1 == 'the')
-  #   possibleWords = runner.grabPossibleWords(unigrams)
-  #   self.assertIsInstance(possibleWords, Array)
-  #   self.assertNotEqual(len(possibleWords), 0)
+  def test_grab_possible_words(self):
+    from models import Unigram
+    unigrams = Unigram.query.filter(Unigram.word1 == 'the')
+    possibleWords = runner.grabPossibleWords("the", 1)
+    self.assertIsInstance(possibleWords, list)
+    self.assertEqual(len(possibleWords), 1)
 
 
 if __name__ == '__main__':

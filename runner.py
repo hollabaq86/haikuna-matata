@@ -11,27 +11,27 @@ from random import randrange
 d = cmudict.dict()
 
 def numSylsInWord(word):
-  if word.lower() in d:
-    return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
+	if word.lower() in d:
+		return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
 
 def isHaiku(potentialHaiku):
-  syllableCount = countSyllables(potentialHaiku)
-  if syllableCount == 17:
-    #how do we want to break this down?
-    #what are the other "ifs" that this conditional needs to meet?
-    result = True
-  else:
-    result = False
+	syllableCount = countSyllables(potentialHaiku)
+	if syllableCount == 17:
+		#how do we want to break this down?
+		#what are the other "ifs" that this conditional needs to meet?
+		result = True
+	else:
+		result = False
 
-  return result
+	return result
 
 def countSyllables(potentialHaiku):
-  stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',potentialHaiku)
-  wordsInHaiku = stripPunctuation.split()
-  syllableCount = 0
-  for i in wordsInHaiku:
-    syllableCount += numSylsInWord(i)
-  return syllableCount
+	stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',potentialHaiku)
+	wordsInHaiku = stripPunctuation.split()
+	syllableCount = 0
+	for i in wordsInHaiku:
+		syllableCount += numSylsInWord(i)
+	return syllableCount
 
 def inDatabase(firstWord):
   container = []
@@ -45,45 +45,46 @@ def inDatabase(firstWord):
   if container:
     return True
 
-
-
 def generateHaiku(firstWord):
-  inDB = inDatabase(firstWord)
-  if inDB:
-    haiku = ""
-    haiku += generateLine(4, firstWord)
-    haiku += "\n"
-    haiku += generateLine(6)
-    haiku += "\n"
-    haiku += generateLine(4)
-  if not inDB:
-    firstWord = pickRandomWord(4)
-    haiku = generateHaiku(firstWord)
-  return haiku
+	inDB = inDatabase(firstWord)
+	if inDB:
+	  haiku = ""
+	  haiku += startGenerateLine(4, firstWord)
+	  haiku += "\n"
+	  haiku += startGenerateLine(6)
+	  haiku += "\n"
+	  haiku += startGenerateLine(4)
+	if not inDB:
+	  firstWord = pickRandomWord(4)
+	  haiku = generateHaiku(firstWord)
+	return haiku
 
-def generateLine(sylCount, base= None):
-  if sylCount == 0:
-    return base
-  elif sylCount < 0:
-    return "You fucked up"
-  if base == None:
-    base = pickRandomWord(sylCount)
-  lastWord = base.rsplit(None, 1)[-1]
-  possibleWords = grabPossibleWords(lastWord, sylCount)
-  if possibleWords:
-    index = randrange(0, len(possibleWords))
-    adder = possibleWords[index]
-  if not possibleWords:
-    adder = pickRandomWord(sylCount)
-  newBase = base + " " + adder
-  workingSylCount = sylCount - countSyllables(adder)
-  return generateLine(workingSylCount, newBase)
+def startGenerateLine(sylCount, startingWord= None):
+	if not startingWord:
+		startingWord = pickRandomWord(sylCount)
+	remainingSylCount = sylCount - countSyllables(startingWord)
+	line = buildLineList(remainingSylCount, [startingWord])
+	return " ".join(line)
+
+def buildLineList(sylCount, wordsFromBefore):
+	if sylCount == 0:
+		return wordsFromBefore
+	lastWord = wordsFromBefore[-1]
+	possibilities = grabPossibleWords(lastWord, sylCount) 
+	for possibleWord in possibilities:
+		newWordsFromBefore = [word[:] for word in wordsFromBefore]
+		newWordsFromBefore.append(possibleWord) 
+		newSyllableCount = sylCount - countSyllables(possibleWord)
+		result = buildLineList(newSyllableCount, newWordsFromBefore)
+		if result:
+			return result
+	return None  
 
 def pickRandomWord(reqSylCount):
   from models import Unigram
   lengthDB = Unigram.query.count()
   while True:
-    randomNumPick = randrange(0, lengthDB)
+    randomNumPick = randrange(1, lengthDB)
     tryWord = Unigram.query.filter(Unigram.id == randomNumPick).first()
     if countSyllables(tryWord.word1) <= reqSylCount:
       word = tryWord.word1
