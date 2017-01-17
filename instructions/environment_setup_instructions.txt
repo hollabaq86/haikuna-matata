@@ -28,3 +28,26 @@ $ export DATABASE_URL="postgresql://localhost/haiku"
 
 ---flask setup
 https://realpython.com/blog/python/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+
+
+---initial set up local database commands.  run on command line one at a time.
+$ python manage.py db init
+$ python manage.py db migrate
+$ python manage.py db upgrade
+
+--access info from the database
+$ psql
+\c haiku
+select * from unigrams;
+
+--drop the database
+$ psql
+
+apprentice=# drop database haiku;
+DROP DATABASE
+apprentice=# create database haiku;
+CREATE DATABASE
+apprentice=# \q
+
+run python server localhost:5000
+  python app.py

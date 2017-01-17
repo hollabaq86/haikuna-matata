@@ -1,31 +1,46 @@
 from flask import Flask
+from flask import render_template
+from flask import request
 from flask_sqlalchemy import SQLAlchemy
 import os
-import text_file
-
 
 app = Flask(__name__)
 app.config.from_object(os.environ['APP_SETTINGS'])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
+from models import *
 
-haikuFile = open("haikus.txt")
-haikus = haikuFile.readlines()
+# class Unigram(db.Model):
+# 	__tablename__ = "unigrams"
+# 	id = db.Column(db.Integer, primary_key=True)
+# 	word1 = db.Column('word1', db.String, nullable=False, index=True)
+# 	word2 = db.Column('word2', db.String)
+# 	count = db.Column('count', db.Integer, nullable = False)
 
-hashed_haikus = text_file.parseIntoProbabilityHash(haikus)
-print(hashed_haikus)
-text_file.createUnigrams(hashed_haikus)
+# 	def __init__(self, word1, word2, count):
+# 	    self.word1 = word1
+# 	    self.word2 = word2
+# 	    self.count = count
 
-from flask import render_template
+# 	def __repr__(self):
+# 	    return '<id {}>'.format(self.id)
+
 
 @app.route('/')
 def index():
-    return 'Index Page'
+  return render_template('hello.html')
 
 @app.route('/hello')
-@app.route('/hello/<name>')
-def hello(name=None):
-    return render_template('hello.html', name=name)
+def hello():
+  return render_template('hello.html')
+
+@app.route('/haiku', methods=['POST'])
+def haiku():
+  word = request.form['word']
+  processed_word = word.lower()
+  from runner import generateHaiku
+  result = generateHaiku(processed_word).split('\n')
+  return render_template('show.html', word=processed_word, result=result)
 
 if __name__ == '__main__':
-    app.run()
+  app.run()
