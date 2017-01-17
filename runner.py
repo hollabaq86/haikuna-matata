@@ -101,7 +101,7 @@ def findFrequency(largeBodyofText):
   for word in uniqueWords:
     print(word, fdist[word])
 
-print(generateHaiku("fuck"))
+print(generateHaiku("fucking"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
