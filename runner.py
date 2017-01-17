@@ -124,16 +124,25 @@ def pickRandomWord(reqSylCount):
 			break
 	return tryWord.word1
 
+
+def validThing(unigram):
+	pos = str(identifyPartsOfSpeech(unigram.word2))
+	countSyllables(unigram.word2) == 1 &&
+	pos != 'IN' && pos != "DT"
+
+
 def formatPossibleWords(unigrams, reqSylCount):
 	tempContainer = []
 	container = []
 	if reqSylCount == 1:
-		for each in unigrams:
-			if countSyllables(each.word2) == 1:
-				tempContainer.append(each)
-		for unigram in tempContainer:
-			if str(identifyPartsOfSpeech(unigram.word2)) == 'IN' or str(identifyPartsOfSpeech(unigram.word2)) == 'DT':
-				tempContainer.remove(unigram)
+		tempContainer = [word in unigrams if validThing(unigram)]
+
+		# for each in unigrams:
+		# 	if countSyllables(each.word2) == 1:
+		# 		tempContainer.append(each)
+		# for unigram in tempContainer:
+		# 	if str(identifyPartsOfSpeech(unigram.word2)) == 'IN' or str(identifyPartsOfSpeech(unigram.word2)) == 'DT':
+		# 		tempContainer.remove(unigram)
 		for unigram in tempContainer:
 			for index in range(unigram.count):
 				if countSyllables(unigram.word2) <= reqSylCount:
