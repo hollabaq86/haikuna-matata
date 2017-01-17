@@ -34,7 +34,7 @@ def isHaiku(potentialHaiku):
 
 
 def countSyllables(potentialHaiku):
-  stripPunctuation = re.sub(ur"\b([a-zA-Z]+)\b",' ',potentialHaiku)
+  stripPunctuation = re.sub(ur"[^\w\d'\s]+",' ',potentialHaiku)
   wordsInHaiku = stripPunctuation.split()
   syllableCount = 0
   for i in wordsInHaiku:
