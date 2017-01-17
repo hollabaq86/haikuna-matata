@@ -31,18 +31,19 @@ def haiku():
 @app.route('/train', methods=['POST'])
 def train():
   update = request.form['update']
+  from training import favorUnigram, unfavorUnigram, favorLine, unfavorLine
   if update == "like1":
-    favorUnigram(request.form['line1'])
+    favorLine(request.form['line1'])
   elif update == "like2":
-    favorUnigram(request.form['line2'])
+    favorLine(request.form['line2'])
   elif update == "like3":
-    favorUnigram(request.form['line3'])
+    favorLine(request.form['line3'])
   elif update == "dislike1":
-    unfavorUnigram(request.form['line1'])
+    unfavorLine(request.form['line1'])
   elif update == "dislike2":
-    unfavorUnigram(request.form['line2'])
+    unfavorLine(request.form['line2'])
   else:
-    unfavorUnigram(request.form['line2'])
+    unfavorLine(request.form['line2'])
   return render_template('hello.html')
 
 if __name__ == '__main__':
