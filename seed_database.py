@@ -46,8 +46,8 @@ def seedDatabase(files):
     haikuFile = open(txtfile)
     haikus = haikuFile.readlines()
     hashed_haikus = parseIntoProbabilityHash(haikus)
-  for sourcePair, count in hashed_haikus.items():
     print("processing")
+  for sourcePair, count in hashed_haikus.items():
     createUnigram(sourcePair, count)
 
 seedDatabase(files)
