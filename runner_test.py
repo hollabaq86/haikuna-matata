@@ -18,6 +18,12 @@ class TestRunnerMethods(unittest.TestCase):
     self.assertIsInstance(haiku, basestring)
     self.assertEqual(haiku, 'Hello, World')
 
+  # def test_format_possible_words(self):
+    
+
+  #def test_pick_random_word(self):
+
+
   # def test_generate_line(self):
   #   line = runner.generateLine(5, "the")
   #   lineSyllables = runner.countSyllables(line)
