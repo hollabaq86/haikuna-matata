@@ -42,42 +42,44 @@ def generateHaiku(firstWord):
   haiku += generateLine(4)
   return haiku
 
-def generateLine(sylCount, base= None):
-  if no base provided, 
-    pick a random word from db that meets syllable requirements
+def generateRandomLine(sylCount, startingWord= None):
+  if startingWord is None
+    startingWord = pickRandomWord(sylCount)
 
-  create empty array(working array), 
-  add base to that array
-  assign last word from the working array to a variable (working word)
-  pull possible next words of working word from the db that meet syllable requirements
-  if there are no possible words,
-    drop the working word from the working array
-    save working word to new variable scrap word
-    repeat from line 51
-  if there are possible words,
-    pick a random word from possible words
-    designate as adder word
-    add adder to working array
-    calculate new required syllable count by subtracting syllables in adder from given syllable count
-  return generate line of new syllable count and adder   
+  remainingSylCount = sylCount - countSyllables(startingWord)
+  line = buildLine(remainingSylCount, [startingWord])
+  return line.join(" ")
 
+def buildLineList(sylCount, wordsFromBefore):
+  if sylCount == 0
+    return wordsFromBefore
 
+  lastWord = wordsFromBefore[-1]
+  possibilities = grabPossibleWords(lastWord, sylCount) #a list of possible next words
 
+  for possibileWord in possibilities
+    newWordsFromBefore = wordsFromBefore + possibileWord #new list, should be non destructive
+    newSyllableCount = sylCount - countSyllables(possibleWord)
+    result = buildLineList(newSyllableCount, newWordsFromBefore)
+    if result != None
+      return result
+
+  return None  
 
   # if sylCount == 0:
-  #   return base
+  #   return wordsFromBefore
   # elif sylCount < 0:
   #   return "You fucked up"
-  # if base == None:
-  #   base = pickRandomWord(sylCount)
-  # lastWord = base.rsplit(None, 1)[-1]
+  # if wordsFromBefore == None:
+  #   wordsFromBefore = pickRandomWord(sylCount)
+  # lastWord = wordsFromBefore.rsplit(None, 1)[-1]
   # possibleWords = grabPossibleWords(lastWord, sylCount)
   # if possibleWords:
   #   index = randrange(0, len(possibleWords))
   #   adder = possibleWords[index]
   # if not possibleWords:
   #   adder = pickRandomWord(sylCount)
-  # newBase = base + " " + adder
+  # newwordsFromBefore = wordsFromBefore + " " + adder
   # workingSylCount = sylCount - countSyllables(adder)
   # return generateLine(workingSylCount, newBase)
 
