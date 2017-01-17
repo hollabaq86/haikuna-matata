@@ -164,3 +164,16 @@ print(identifyPartsOfSpeech("and"))
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
 
+
+# NOTES FROM MATT BAKER ABOUT REFACTORING
+# def validThing(unigram):
+# 	pos = str(identifyPartsOfSpeech(unigram.word2))
+# 	countSyllables(unigram.word2) == 1 &&
+# 	pos != 'IN' && pos != "DT"
+# def formatPossibleWords(unigrams, reqSylCount):
+# 	tempContainer = []
+# 	container = []
+# 	if reqSylCount == 1:
+		# tempContainer = [word in unigrams if validThing(unigram)]
+		# for each in unigrams:
+
