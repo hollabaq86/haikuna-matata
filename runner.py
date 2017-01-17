@@ -2,13 +2,10 @@ import nltk
 from nltk.corpus import cmudict
 import curses
 from curses.ascii import isdigit
-# import string
 import re
 from random import randrange
 from nltk.probability import FreqDist
-from app import db
-import models
-# from nltk.corpus import brown
+import app
 
 d = cmudict.dict()
 
@@ -53,6 +50,7 @@ def generateHaiku(firstWord):
 
 
 def generateLine(sylCount, base= None):
+  # from models import Unigram
   if sylCount == 0:
     return base
   elif sylCount < 0:
@@ -60,7 +58,6 @@ def generateLine(sylCount, base= None):
   if base == None:
     base = pickRandomWord(sylCount)
   lastWord = base.rsplit(None, 1)[-1]
-  from models import Unigram
   listOfUnigrams = Unigram.query.filter(Unigram.word1 ==lastWord)
   possibleWords = grabPossibleWords(listOfUnigrams)
   index = randrange(0, len(possibleWords))
@@ -86,7 +83,7 @@ def pickRandomWord(requireSylCount):
   while True:
     randomNumPick = randrange(0, lengthDB)
     tryWord = Unigram.query.filter(Unigram.id == randomNumPick)
-    if countSyllables(tryWord.word1) <= requireSylCount
+    if countSyllables(tryWord.word1) <= requireSylCount:
       break
   return tryWord.word1
 
@@ -107,7 +104,6 @@ def findFrequency(largeBodyofText):
   for word in uniqueWords:
     print(word, fdist[word])
 
-print(generateHaiku("give"))
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
