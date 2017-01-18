@@ -262,8 +262,8 @@ They yell at their detectives. They do interviews for magazines. Every time I se
 movie star on a magazine, I can’t help but feel terribly sorry for her because nobody respects her at
 11
 all, and yet they keep interviewing her. And the interviews all say the same thing.
- They start with what food they are eating in some restaurant. “As ---- gingerly munched her
-Chinese Chicken Salad, she spoke of love.” And all the covers say the same thing: “---- gets to the
+ They start with what food they are eating in some restaurant. “As  gingerly munched her
+Chinese Chicken Salad, she spoke of love.” And all the covers say the same thing: “ gets to the
 bottom of stardom, love, and hissther hit new moviesttelevision showstalbum.”
  I think it’s nice for stars to do interviews to make us think they are just like us, but to tell you the
 truth, I get the feeling that it’s all a big lie. The problem is I don’t know who’s lying. And I don’t
@@ -316,7 +316,7 @@ never forget it even though I was very young. My mom was crying. My sister was c
 brother was using every ounce of strength he had not to cry. And my dad left during one of the final
 moments to make a sandwich. Now, I don’t remember much about the program itself because
 I was too young, but my dad never left to make a sandwich except during commercial breaks, and
-then he usually just sent my mom. I walked to the kitchen, and I saw my dad making a sandwich ...
+then he usually just sent my mom. I walked to the kitchen, and I saw my dad making a sandwich
 and crying. He was crying harder than even my mom. And I couldn’t believe it. When he finished
 making his sandwich, he put away the things in the refrigerator and stopped crying and wiped his
 eyes and saw me.
@@ -329,7 +329,7 @@ end of the episode, he picked me up, turned off the TV, and turned around.
  And my mom said, “The best.”
  And my sister asked, “How long was it on the air?”
  And my brother replied, “Nine years, stupid.”
- And my sister responded, “You ... stupid.”
+ And my sister responded, “You stupid.”
  And my dad said, “Stop it, right now.”
  And my mom said, “Listen to your father.”
  And my brother said nothing.
@@ -339,7 +339,7 @@ end of the episode, he picked me up, turned off the TV, and turned around.
  I went to the library to look up the figures, and I found out that the episode we watched is the
 highest watched anything of television history, which I find amazing because it felt like just the five
 of us.
- You know ... a lot of kids at school hate their parents. Some of them got hit. And some of
+ You know a lot of kids at school hate their parents. Some of them got hit. And some of
 them got caught in the middle of wrong lives. Some of them were trophies for their parents to
 show the neighbors like ribbons or gold stars. And some of them just wanted to drink in peace.
  For me personally, as much as I don’t understand my mom and dad and as much as I feel sorry
@@ -589,7 +589,7 @@ can. Things like the homecoming football game and dance, even if I don’t have 
 was fun to pretend that I was. I found Patrick and Sam sitting in their normal spot in the bleachers,
 and I started acting like I hadn’t seen them in a year even though I had seen them that afternoon in
 lunch when I ate my orange, and they smoked cigarettes.
- “Patrick, is that you? And Sam ... it’s been so long. Who’s winning? God, college is such a trial.
+ “Patrick, is that you? And Sam it’s been so long. Who’s winning? God, college is such a trial.
 My professor is making me read twenty-seven books this weekend, and my girlfr needs me to paint
 signs for her protest rally Tuesday. Let those administrators know we mean business. Dad is busy
 with his golf swing, and Mom has her hands full with tennis. We must do this again. I would stay,
@@ -775,7 +775,7 @@ shoulders and looked me straight in the eye.
  “Why?”
  “Because he’s scared.”
  “Why?”
- “Because he is ... wait ... are you stoned?”
+ “Because he is wait are you stoned?”
  “They said I was downstairs. Sam is making me a milkshake.”
  Patrick tried to keep from laughing.
  “Listen, Charlie. Brad doesn’t want people to know. I need you to promise that you won’t tell
@@ -904,7 +904,7 @@ the look in Patrick’s eyes. Then, she spoke up to the party.
 28
  “Hey, has anyone seen Brad?”
  Nobody at the party had, so a few people went to search for him. They finally found him in
-Patrick’s room ... asleep.
+Patrick’s room asleep.
  Finally, Patrick called Brad’s parents because he was really worried about him. He didn’t tell
 them why, but he said that Brad was really sick at this party and needed to be taken home. Brad’s
 parents did come, and Brad’s father, along with some of the other boys including Patrick, carried
@@ -932,7 +932,7 @@ parents. The grades on these papers are just between us.
  I have decided that maybe I want to write when I grow up. I just don’t know what I would
 write.
  I thought about maybe writing for magazines just so I could see an article that didn’t say things
-like I mentioned before. “As ---- wiped the honey mustard off of her lips, she spoke to me about
+like I mentioned before. “As  wiped the honey mustard off of her lips, she spoke to me about
 her third husband and the healing power of crystals.” But honestly, I think I would be a very bad
 reporter because I can’t imagine sitting across the table from a politician or a movie star and asking
 them questions. I think I would probably just ask for their autograph for my mom or something. I
@@ -1179,15 +1179,13 @@ had to support the family. He talked about the time when he had to go to the mil
 to see if there was any work for him. And he talked about how cold it was. And how hungry he
 was because he made sure his family always ate before him. Things he said we just wouldn’t understand
 because we were lucky. Then, he talked about his daughters, my mom and Aunt Helen.
- “I know how your mom feels about me. I know Helen, too. There was one time ... I went to
-the mill ... no work ... none. ... I came home at two in the morning ... pissed and pissed ... your
-grandmother showed me their report cards ... C-plus average ... and these were smart girls. So, I
-went into their room and I beat some sense into them ... and when it was done and they were crying,
-I just held up their report cards and said ... `This will never happen again.’ She still talks about
-it ... your mother ... but you know something ... it never did happen again ... they went to college
-... both of them. I just wish I could have sent them ... I always wanted to send them. ... I wish
-Helen could have understood that. I think your mother did ... deep down ... she’s a good woman
-... you should be proud of her.”
+ “I know how your mom feels about me. I know Helen, too. There was one time I went to
+the mill no work none. I came home at two in the morning pissed and pissed your
+grandmother showed me their report cards C-plus average and these were smart girls. So, I
+went into their room and I beat some sense into them and when it was done and they were crying,
+I just held up their report cards and said `This will never happen again.’ She still talks about
+it your mother but you know something it never did happen again they went to college both of them. I just wish I could have sent them I always wanted to send them. I wish
+Helen could have understood that. I think your mother did deep down she’s a good woman you should be proud of her.”
  When I told my mom about this, she just looked very sad because he could never say those
 things to her. Not ever. Not even when he walked her down the aisle.
  But this Thanksgiving was different. It was my brother’s football game, which we brought a
@@ -1258,7 +1256,7 @@ Shade of Pale by Procol
 Vega Nights in White Satin by the Moody
  Blues Daydream by Smashing Pumpkins Dusk by Genesis (before Phil Collins was
  even in the band!) MLK by Ubleb Blackbird by the Beatles Landslide by Fleetwood Mac
- And finally ...
+ And finally
  Asleep by the Smiths (again!)
  I spent all night working on it, and I hope Patrick likes it as much as I do. Especially the second
 side. I hope it’s the kind of second side that he can listen to whenever he drives alone and feel like
@@ -1417,7 +1415,7 @@ that Sam gave me. We just sat there quiet for a moment, and she smiled. And I mo
 again, and I wrote something.
  “I love you, too.”
  And Sam looked at the paper, and she looked at me.
- “Charlie ... have you ever kissed a girl?”
+ “Charlie have you ever kissed a girl?”
  I shook my head no. It was so quiet.
  “Not even when you were little?”
  I shook my head no again. And she looked very sad.
@@ -1585,10 +1583,9 @@ like those bratty girls in movies from the 1980’s, and my mom kept saying “Y
 sentence.
  My dad finally called and said that because of the snow, my brother’s plane was going to be very
 late. I just heard my mom’s side of the discussion.
- “But it’s Charlie’s birthday dinner ... I don’t expect you to do anything about it ... did he miss it?
-I’m just asking ... I didn’t say it was your fault ... no ... I can’t keep it warm ... it’ll be dry ... what
-... but it’s his favorite ... well, what am I supposed to feed them ... of course they’re hungry ...
-you’re already an hour late ... well, you could have called ...”
+ “But it’s Charlie’s birthday dinner I don’t expect you to do anything about it did he miss it?
+I’m just asking I didn’t say it was your fault no I can’t keep it warm it’ll be dry what but it’s his favorite well, what am I supposed to feed them of course they’re hungry
+you’re already an hour late well, you could have called”
  I don’t know how long my mom was on the phone because I couldn’t stay at the table and listen.
 I went into my room and read. I wasn’t hungry anymore anyway. I just wanted to be in a quiet
 place. After a little while, my mom came into the room. She said that dad had just called again,
@@ -1677,8 +1674,8 @@ out, though, that my dad slowly started turning the Christmas music on the radio
 volume.
  “You are so full of shit. How would you know anything anyway? You haven’t been to college.
 Kelly didn’t go through anything like that.”
- “Oh, yeah ... like she’d tell you.”
- “Yeah ... she would. We don’t keep secrets.”
+ “Oh, yeah like she’d tell you.”
+ “Yeah she would. We don’t keep secrets.”
  “Oh, you’re such a sensitive new age guy.”
  I wanted them to stop fighting because I was starting to get upset, so I asked another question.
  “Do you talk about books and issues?”
@@ -1693,7 +1690,7 @@ that you always squawk about. Even cheerleaders think about those things. And th
 have fun in the meantime.”
  My sister folded her arms in front of her and started whistling. My brother was too much on a
 roll to stop, though. I noticed that my dad’s neck was getting very red.
- “But there’s another difference between you and her. You see ... Kelly believes in women’s
+ “But there’s another difference between you and her. You see Kelly believes in women’s
 rights so much that she would never let a guy hit her. I guess I can’t say that about you.”
  I swear to God, we almost died. My dad hit those brakes so hard that my brother almost flew
 over the seat. When the smell from the tires started to fade, my dad took a deep breath and turned
@@ -1827,7 +1824,7 @@ her money, she gave her a home to stay in.
 know if I should. I have to talk about it with someone. No one in my family will ever talk about it.
 It’s just something they don’t. I’m talking about the bad thing that happened to Aunt Helen they
 wouldn’t tell me about when I was little.
- Every time it comes to Christmas it’s all I can think about ... deep down. It is the one thing that
+ Every time it comes to Christmas it’s all I can think about deep down. It is the one thing that
 52
 makes me deep down sad.
  I will not say who. I will not say when. I will just say that my aunt Helen was molested. I hate
@@ -1979,11 +1976,11 @@ I didn’t put it in a mailbox that I couldn’t get it back from, I would never
 Then, I started throwing up, and I didn’t stop throwing up until the sun came up. I looked at the
 road and saw a lot of cars, and I knew they were all going to their grandparents’ house. And I knew
 a lot of them would watch my brother play football later that day. And my mind played hopscotch.
- My brother ... football ... Brad ... Dave and his girlfr in my room ... the coats ... the cold ...
-the winter ... “Autumn Leaves” ... don’t tell anyone ... you pervert ... Sam and Craig ... Sam ...
-Christmas ... typewriter ... gift ... Aunt Helen ... and the trees kept moving ... they just wouldn’t
+ My brother football Brad Dave and his girlfr in my room the coats the cold
+the winter “Autumn Leaves” don’t tell anyone you pervert Sam and Craig Sam
+Christmas typewriter gift Aunt Helen and the trees kept moving they just wouldn’t
 56
-stop moving ... so I laid down and made a snow angel.
+stop moving so I laid down and made a snow angel.
  The policemen found me pale blue and asleep.
  I didn’t stop shivering from the cold until a long time after my mom and dad drove me home
 from the emergency room. Nobody got in trouble because these things used to happen to me
@@ -2061,7 +2058,7 @@ it was true.
 58
  “Now, look at the cement on the playground. Is it moving?”
  “Uh-huh.”
- “Okay ... now focus on the piece of paper that’s just sitting there on the ground.”
+ “Okay now focus on the piece of paper that’s just sitting there on the ground.”
  And I focused on the piece of paper that was sitting on the ground.
  “Is the cement moving now?”
  “No. It’s not.”
@@ -2357,7 +2354,7 @@ slow.
  “That’s a laugh. That’s really a laugh.”
  “Do you want me to wake up Mom and Dad then?”
  “No.”
- “Well, maybe they could--”
+ “Well, maybe they could”
  “CHARLIE! SHUT UP! OKAY?! JUST SHUT UP!”
 66
  That’s when she really started crying. I didn’t want to make her feel worse, so I turned to leave
@@ -2527,13 +2524,13 @@ Then, he said yes. I could borrow his car. When my mother came in with coffee, m
 her the whole story while I ate dessert.
  That night, as I was finishing my book, my father came in and sat on the edge of my bed. He
 lit a cigarette and started telling me about sex. He gave me this talk a few years before, but it was
-more biological then. Now, he was saying things like ...
- “I know I’m your old man, but ...”
+more biological then. Now, he was saying things like
+ “I know I’m your old man, but”
  “you can’t be too careful these days,” and
  “wear protection,” and
- “if she says no, then you have to assume she means it ...”
+ “if she says no, then you have to assume she means it”
  “because if you force her to do something she doesn’t want to do, then you’re in big trouble,
-mister ...”
+mister”
  “and even if she says no, and really means yes, then quite frankly she’s playing games and isn’t
 worth the price of dinner.”
  “if you need to talk to somebody, you can come to me, but if you don’t want to do that for
@@ -3144,7 +3141,7 @@ advice and staying away for as long as I did because it made things easier. So, 
  “You remember what I said to Brad?”
  “Yeah. You told him that he should tell Patrick that he was sorry himself.”
  “That goes for Mary Elizabeth, too.”
- “I tried, but she told me ...”
+ “I tried, but she told me”
  “I know you tried. I’m telling you to try again.”
  “Okay.”
  Sam dropped me off. When she was too far away to see me, I started to cry again. Because she
@@ -3167,7 +3164,7 @@ a person who was more open to discussion and didn’t need someone’s permissio
 me. But I was at a party with my friends, so it really didn’t matter that much. I just drank because I
 figured that it was about time to stop smoking so much pot.
  The thing that made the evening tense was Patrick officially quit doing Frank ‘Not Furter in the
-show. He said that he didn’t want to do it anymore ... ever. So, he sat and watched the show in the
+show. He said that he didn’t want to do it anymore ever. So, he sat and watched the show in the
 audience with me, and he said things that were hard to listen to because Patrick usually isn’t unhappy.
  “You ever think, Charlie, that our group is the same as any other group like the football team?
 And the only real difference between us is what we wear and why we wear it?”
@@ -3202,7 +3199,7 @@ said not in front of my house.
  “Your parents don’t know you smoke?”
  “No. Should they?”
  “I guess not.”
- Then, we started driving ... fast.
+ Then, we started driving fast.
  At first, Patrick didn’t say much. He just listened to the music on the tape player. After the second
 song started, I asked him if it was the mix tape I made him for Secret Santa Christmas.
  “I’ve been listening to it all night.”
@@ -3273,18 +3270,18 @@ stomach for the right reasons. It was that great.
  So, Patrick and I shared all the stories we could think of.
  There was a kid named Barry, who used to build kites in art class. Then, after school, he would
 attach firecrackers to the kite and fly it and blow it up. He’s now studying to be an air traffic controller.
- --Patrick’s story via Sam
+ Patrick’s story via Sam
  And then there was this kid named Chip who spent all of his money from allowance and Christmas
 and birthdays to buy bug killing equipment and he would go door to door asking if he could
 kill the bugs for free.
- --my story via my sister
+ my story via my sister
  There was a guy named Carl Burns and everyone called him C.B. And one day C.B. got so
 drunk at a party that he tried to “fuck” the host’s dog.
- --Patrick’s story
+ Patrick’s story
  And there was this guy they called “Action Jack” because supposedly he was caught masturbating
-at a drunk party. And at every pep rally, the kids would clap and chant. Action Jack ... clap
-clap clap ... Action Jack!
- --my story via my brother
+at a drunk party. And at every pep rally, the kids would clap and chant. Action Jack clap
+clap clap Action Jack!
+ my story via my brother
  There were other stories and other names. Second Base Stace, who had breasts in the fourth
 grade and let some of the boys feel them. Vincent, who took acid and tried to flush a sofa down
 the toilet. Sheila, who allegedly masturbated with a hot dog and had to go to the emergency room.
@@ -3489,7 +3486,7 @@ I’m not sure.
 his best friend, who is a newspaper tycoon. And the newspaper tycoon says that the architect is a
 very cold man. The architect replies that if the boat were sinking, and there was only room in the
 lifeboat for one person, he would gladly give up his life for the newspaper tycoon. And then he
-says something like this ...
+says something like this
 96
  “I would die for you. But I won’t live for you.”
  Something like that. I think the idea is that every person has to live for his or her own life and
@@ -3589,7 +3586,7 @@ in a car accident.
  I just got home from school, and my sister is still asleep from the after-prom party the school
 organized. I called over to Patrick and Sam’s, but they’re still asleep, too. Patrick and Sam have a
 cordless phone which always runs out of batteries, and Sam’s mom sounded like a mom in the Peanuts
-cartoons. Wah Wah ... Wuh.
+cartoons. Wah Wah Wuh.
  I had two finals today. One in biology, which I think I got a perfect in. The other in Bill’s class.
 The final was about The Great Gatsby. The only thing hard about it was the fact that he had me
 read the book so long ago, and it was difficult to remember.
@@ -3730,10 +3727,10 @@ that I included all the stories in which I “participated.”
  Then, he asked me about girls, and I told him how I really loved Sam, and how I wondered what
 the lady who wrote The Fountainhead would say about how I came to realize that I loved her.
  After I finished, Bill got very quiet. He cleared his throat.
- “Charlie ... I want to thank you.”
+ “Charlie I want to thank you.”
  “Why?” I said.
  “Because it has been a wonderful experience teaching you.”
- “Oh ... I’m glad.” I didn’t know what else to say.
+ “Oh I’m glad.” I didn’t know what else to say.
  Then, Bill took this really long pause, and his voice sounded like my dad when he wants to have
 a big talk.
  “Charlie,” he said. “Do you know why I gave you all that extra work?”
@@ -3746,7 +3743,7 @@ I was wondering if you were aware of that?”
  “I guess so. I don’t know.” I felt really strange. I didn’t know where this was coming from. I
 just wrote some essays.
  “Charlie. Please don’t take this the wrong way. I’m not trying to make you feel uncomfortable.
-I just want you to know that you’re very special ... and the only reason I’m telling you is that I don’t
+I just want you to know that you’re very special and the only reason I’m telling you is that I don’t
 know if anyone else ever has.”
  I looked up at him. And then I didn’t feel strange. I felt like I wanted to cry. He was being so
 nice to me, and the way his girlfr looked, I knew that this meant a lot to him. And I didn’t know
@@ -3787,7 +3784,7 @@ bus. I’m glad school buses don’t have seat belts, or else I wouldn’t have 
  The one thing I noticed was how different everyone looked. When we were all little, we used to
 sing songs on the bus ride home from the last day of school. The favorite song was a Pink Floyd
 song, I found out later, called Another Brick in the Wall, Part II. But there was this other song we
-loved even more because it ended with a swear. It went like this ...
+loved even more because it ended with a swear. It went like this
  No more pencils ar no more books ar no more teachers’ dirty looks ar when the teacher rings
 the bell ar drop your books and run like hell.
  When we finished, we looked at the bus driver for a tense second. Then, we all laughed because
@@ -3828,9 +3825,9 @@ to pick me up. I just sat there, hoping it would go away. But it didn’t.
  “Where did you meet him, honey?” my mom asked.
  The room turned pins and needles quiet. And I did my best impersonation of myself when I
 can’t remember something. And here’s what’s going on inside my head.
- Okay ... he came to school to have a talk with the class ... no ... my sister would know it was a
-lie ... I met him at the Big Boy ... he was with his family ... no ... my dad would scold me for bothering
-the “poor man” ... he said it on a news cast ... but I said I talked to him ... wait ...
+ Okay he came to school to have a talk with the class no my sister would know it was a
+lie I met him at the Big Boy he was with his family no my dad would scold me for bothering
+the “poor man” he said it on a news cast but I said I talked to him wait
  “In the park. I was there with Patrick,” I said.
  My dad said, “Was he there with his family? Did you bother the poor man?”
  “No. He was alone.”
@@ -3875,8 +3872,8 @@ black people were in the school.
 about my brother. This made my grandfather call my brother over to talk about it. This was smart
 106
 on my mom’s part because my brother is the only person who can get my grandfather to stop making
-a scene because he’s really direct about it. After the story, this is what happened ...
- “Jesus. Look at these bleachers. How many colored people--” My brother cut him off.
+a scene because he’s really direct about it. After the story, this is what happened
+ “Jesus. Look at these bleachers. How many colored people” My brother cut him off.
  “Okay, Grandpa. Here’s the deal. If you embarrass us one more time, I’m going to drive you
 back to the nursing home, and you’ll never see your granddaughter give a speech.” My brother is
 real tough.
@@ -3958,8 +3955,8 @@ call. I went to the phone.
  “When are you coming over?” she asked. “Now!” I said.
  Then, my father, who was drinking a whiskey sour, growled, “You’re not going anywhere until
 your relatives leave. You hear me?”
- “Uh, Sam ... I have to wait for my relatives to leave,” I said.
- “Okay ... we’ll be here until seven. Then, we’ll call you from wherever we are.” Sam really
+ “Uh, Sam I have to wait for my relatives to leave,” I said.
+ “Okay we’ll be here until seven. Then, we’ll call you from wherever we are.” Sam really
 sounded happy.
  “Okay, Sam. Congratulations!”
  “Thanks, Charlie. Bye.”
@@ -4118,17 +4115,17 @@ though she wanted to know. She wasn’t bitter. She was sad, though. But it was 
 sad. The kind of sad that just takes time.
  On the night before she left, we were all there at Sam and Patrick’s house. Bob, Alice, Mary
 Elizabeth (without Peter), and I. We just sat on the rug in the “games” room, remembering things.
- Remember the show where Patrick did this ... or remember when Bob did this ... or Charlie ...
-or Mary Elizabeth ... or Alice ... or Sam ...
+ Remember the show where Patrick did this or remember when Bob did this or Charlie
+or Mary Elizabeth or Alice or Sam
  The inside jokes weren’t jokes anymore. They had become stories. Nobody brought up the bad
 names or the bad times. And nobody felt sad as long as we could postpone tomorrow with more
 nostalgia.
  After a while, Mary Elizabeth and Bob and Alice left, saying they would be back in the morning
 to see Sam off. So, it was just me, Patrick, and Sam. Just sitting there. Not saying much. Until we
 started our own remember when.
- Remember when Charlie first came to us at the football game ... and remember when Charlie
-let the air out of Dave’s tires at the homecoming dance ... and remember the poem ... and the mix
-tape ... and Punk Rocky in color ... and remember when we all felt infinite ...
+ Remember when Charlie first came to us at the football game and remember when Charlie
+let the air out of Dave’s tires at the homecoming dance and remember the poem and the mix
+tape and Punk Rocky in color and remember when we all felt infinite
  After I said that, we all got quiet and sad. In the silence, I remembered this one time that I never
 told anybody about. The time we were walking. Just the three of us. And I was in the middle. I
 don’t remember where we were walking to or where we were walking from. I don’t even remember
@@ -4154,10 +4151,9 @@ but was looking forward to the football games. She was just getting more and mor
 she turned around.
  “Why didn’t you ask me out when the whole Craig thing happened?”
  I just sat there. I didn’t know what to say. She said it soft.
- “Charlie ... after that thing with Mary Elizabeth at the party and us dancing at the club and everything
-...”
+ “Charlie after that thing with Mary Elizabeth at the party and us dancing at the club and everything”
  I didn’t know what to say. Honestly, I was lost.
- “Okay, Charlie ... I’ll make this easy. When that whole thing with Craig happened, what did you
+ “Okay, Charlie I’ll make this easy. When that whole thing with Craig happened, what did you
 think?” She really wanted to know.
  I said, “Well, I thought a lot of things. But mostly, I thought that your being sad was much
 more important to me than Craig not being your boyfriend anymore. And if it meant that I would
@@ -4226,7 +4222,7 @@ and she touched me.
  That’s when I stopped her.
  “What’s wrong?” she asked. “Did that hurt?”
  I shook my head. It felt good actually. I didn’t know what was wrong.
- “I’m sorry. I didn’t mean to--”
+ “I’m sorry. I didn’t mean to”
  “No. Don’t be sorry,” I said.
  “But, I feel bad,” she said.
  “Please don’t feel bad. It was very nice,” I said. I was starting to get really upset.
@@ -4599,9 +4595,9 @@ that she would mention that then, because it didn't have to do with anything, bu
 she was looking for something to talk about that wasn't the obvious thing. I said, 'The
 mailperson is a mailwoman.' She nodded, but not exactly at me, and she asked if I'd given
 the mailwoman a key. I nodded yes, because I never used to lie to her before everything
-happened. I didn't have a reason to. 'Why did you do that?' she asked. So I told her, 'Stan –
+happened. I didn't have a reason to. 'Why did you do that?' she asked. So I told her, 'Stan
 ' And she said, 'Who?' And I said, 'Stan the doorman. Sometimes he runs around the corner
-for coffee, and I want to be sure all of my packages get to me, so I thought, if Alicia – '
+for coffee, and I want to be sure all of my packages get to me, so I thought, if Alicia '
 'Who?'
 'The mail-woman. If she had a key, she could leave things inside our door.'
 'But you can't give a key to a stranger.'
@@ -4660,8 +4656,8 @@ business?' He said, 'We'll open something.' I thought about that my second time 
 when the renter and I were on our way to dig up Dad's empty coffin.
 A great game that Dad and I would sometimes play on Sundays was Reconnaissance Expedition.
 Sometimes the Reconnaissance Expeditions were extremely simple, like when he
-told me to bring back something from every decade in the twentieth century – I was clever
-and brought back a rock – and sometimes they were incredibly complicated and would go
+told me to bring back something from every decade in the twentieth century I was clever
+and brought back a rock and sometimes they were incredibly complicated and would go
 on for a couple of weeks. For the last one we ever did, which never finished, he gave me a
 map of Central Park. I said, 'And?' And he said, 'And what?' I said, 'What are the clues?'
 He said, 'Who said there had to be clues?'
@@ -4699,7 +4695,7 @@ but wish I didn't. I put all of the evidence in a bag and marked on a map where 
 When I got home, I examined the evidence in my laboratory under my microscope, one
 8
 piece at a time: a bent spoon, some screws, a pair of rusty scissors, a toy car, a pen, a key
-ring, broken glasses for someone with incredibly bad eyesÃ¢Â€Â¦ I brought them to Dad,
+ring, broken glasses for someone with incredibly bad eyes  I brought them to Dad,
 who was reading the New York Times at the kitchen table, marking the mistakes with his
 red pen. 'Here's what I've found,' I said, pushing my pussy off the table with the tray of
 evidence. Dad looked at it and nodded. I asked, 'So?' He shrugged his shoulders like he
@@ -4712,14 +4708,14 @@ that's how tricky he could be. It was in an article about the girl who had disap
 how everyone thought the congressman who was humping her had killed her. A few
 months later they found her body in Rock Creek Park, which is in Washington, D.C., but
 by then everything was different, and no one cared anymore, except for her parents.
- – statement, read to the hundreds of gathered press from a makeshift media center
+ statement, read to the hundreds of gathered press from a makeshift media center
 off the back of the family home, Levy's father adamantly restated his confidence
 that his daughter would be found. 'We will not stop looking until we are given a
 definitive reason to stop looking, namely, Chandra's return.' During the brief question
 and answer period that followed, a reporter from El Pais asked Mr. Levy if by
 'return' he meant 'safe return.' Overcome with emotion, Mr. Levy was unable to
 speak, and his lawyer took the microphone. 'We continue to hope and pray for
-Chandra's safety, and will do everything within –
+Chandra's safety, and will do everything within
 It wasn't a mistake! It was a message to me!
 I went back to the park every night for the next three nights. I dug up a hair clip, and a roll
 of pennies, and a thumbtack, and a coat hanger, and a 9V battery, and a Swiss Army knife,
@@ -4770,7 +4766,7 @@ and opened it. The letter inside was typed, obviously, because Stephen Hawking
 can't use his hands, because he has amyotrophic lateral sclerosis, which I know about, unfortunately.
 
 Thank you for your letter. Because of the large volume of mail I receive, I am unable
-to write personal responses. Nevertheless, know that I read and save every letter, -
+to write personal responses. Nevertheless, know that I read and save every letter,
 with the hope of one day being able to give each the proper response it deserves.
 Until that day,
 Most sincerely,
@@ -4904,24 +4900,24 @@ WHY I'M NOT WHERE YOU ARE
 To my unborn child: I haven't always been silent, I used to talk and talk and talk and talk,
 I couldn't keep my mouth shut, the silence overtook me like a cancer, it was one of my first
 meals in America, I tried to tell the waiter, 'The way you just handed me that knife, that
-reminds me of – ' but I couldn't finish the sentence, her name wouldn't come, I tried again,
+reminds me of ' but I couldn't finish the sentence, her name wouldn't come, I tried again,
 it wouldn't come, she was locked inside me, how strange, I thought, how frustrating, how
 pathetic, how sad, I took a pen from my pocket and wrote 'Anna' on my napkin, it happened
 again two days later, and then again the following day, she was the only thing I
 wanted to talk about, it kept happening, when I didn't have a pen, I'd write 'Anna' in the
-air – backward and right to left – so that the person I was speaking with could see, and
-when I was on the phone I'd dial the numbers – 2, 6, 6, 2 – so that the person could hear
+air backward and right to left so that the person I was speaking with could see, and
+when I was on the phone I'd dial the numbers 2, 6, 6, 2 so that the person could hear
 what I couldn't, myself, say. 'And' was the next word I lost, probably because it was so
 close to her name, what a simple word to say, what a profound word to lose, I had to say
 'ampersand,' which sounded ridiculous, but there it is, 'I'd like a coffee ampersand something
 sweet,' nobody would choose to be like that. 'Want' was a word I lost early on, which
-is not to say that I stopped wanting things – I wanted things more – I just stopped being
+is not to say that I stopped wanting things I wanted things more I just stopped being
 able to express the want, so instead I said 'desire,' 'I desire two rolls,' I would tell the baker,
 but that wasn't quite right, the meaning of my thoughts started to float away from me, like
 leaves that fall from a tree into a river, I was the tree, the world was the river. I lost 'come'
 one afternoon with the dogs in the park, I lost 'fine' as the barber turned me toward the
-mirror, I lost 'shame' – the verb and the noun in the same moment; it was a shame. I lost
-'carry', I lost the things I carried – 'daybook,' 'pencil,' 'pocket change,' 'wallet' – I even lost
+mirror, I lost 'shame' the verb and the noun in the same moment; it was a shame. I lost
+'carry', I lost the things I carried 'daybook,' 'pencil,' 'pocket change,' 'wallet' I even lost
 'loss.' After a time, I had only a handful of words left, if someone did something nice for
 me, I would tell him, 'The thing that comes before 'you're welcome,' if I was hungry, I'd
 point at my stomach and say, 'I am the opposite of full,' I'd lost 'yes,' but I still had 'no,' so
@@ -4983,8 +4979,8 @@ apartment, I used them as doorstops and paperweights, I stacked them if I needed
 something, I slid them under the legs of wobbly tables, I used them as trivets and coasters,
 15
 to line the birdcages and to swat insects from whom I begged forgiveness, I never thought
-of my books as being special, only necessary, I might rip out a page – 'I'm sorry, this is the
-smallest I've got' – to wipe up some mess, or empty a whole day to pack up the emergency
+of my books as being special, only necessary, I might rip out a page 'I'm sorry, this is the
+smallest I've got' to wipe up some mess, or empty a whole day to pack up the emergency
 light bulbs, I remember spending an afternoon with Mr. Richter in the Central Park Zoo, I
 went weighted down with food for the animals, only someone who'd never been an animal
 would put up a sign saying not to feed them, Mr. Richter told a joke, I tossed hamburger
@@ -5023,14 +5019,14 @@ Or ever, if I'm being frank. It gives me stomachaches, to be perfectly frank. So
 rush in that department. But the weather, now that won't stick around. Or at least it never
 has. And I should tell you also that my doctor says getting out is good for me. My eyes are
 crummy, and he says I don't get out nearly enough, and that if I got out a little more, if I
-were a little less afraidÃ¢Â€Â¦' She was extending a hand that I didn't know how to take,
+were a little less afraid ' She was extending a hand that I didn't know how to take,
 so I broke its fingers with my silence, she said, 'You don't want to talk to me, do you?' I
 took my daybook out of my knapsack and found the next blank page, the second to last. 'I
 16
 don't speak,' I wrote. 'I'm sorry.' She looked at the piece of paper, then at me, then back at
 the piece of paper, she covered her eyes with her hands and cried, tears seeped between
 her fingers and collected in the little webs, she cried and cried and cried, there weren't any
-napkins nearby, so I ripped the page from the book – 'I don't speak. I'm sorry.' – and used
+napkins nearby, so I ripped the page from the book 'I don't speak. I'm sorry.' and used
 it to dry her cheeks, my explanation and apology ran down her face like mascara, she took
 my pen from me and wrote on the next blank page of my daybook, the final one:
 Please marry me
@@ -5058,7 +5054,7 @@ between letters, violet beads for breaks between words, and long and short piece
 between the beads for long and short beeps, which are actually called blips, I think, or
 something. Dad would have known. It took me nine hours to make, and I had thought
 about giving it to Sonny, the homeless person who I sometimes see standing outside the
-Alliance FranÃƒÂ§oise, because he puts me in heavy boots, or maybe to Lindy, the neat
+Alliance, because he puts me in heavy boots, or maybe to Lindy, the neat
 old woman who volunteers to give tours at the Museum of Natural History, so I could be
 something special to her, or even just to someone in a wheelchair. But instead I gave it to
 Mom. She said it was the best gift she'd ever received. I asked her if it was better than the
@@ -5072,8 +5068,8 @@ would have run away, and if she had said no, I would have asked if they heavy-pe
 each other, which I know about. I wanted to tell her she shouldn't be playing Scrabble yet.
 Or looking in the mirror. Or turning the stereo any louder than what you needed just to
 hear it. It wasn't fair to Dad, and it wasn't fair to me. But I buried it all inside me. I made
-her other Morse code jewelry with Dad's messages – a necklace, an anklet, some dangly
-earrings, a tiara – but the bracelet was definitely the most beautiful, probably because it
+her other Morse code jewelry with Dad's messages a necklace, an anklet, some dangly
+earrings, a tiara but the bracelet was definitely the most beautiful, probably because it
 was the last, which made it the most precious.
 'Mom?'
 'Yes?'
@@ -5144,8 +5140,8 @@ In bed that night I invented a special drain that would be underneath every pill
 York, and would connect to the reservoir. Whenever people cried themselves to sleep, the
 tears would all go to the same place, and in the morning the weatherman could report if
 the water level of the Reservoir of Tears had gone up or down, and you could know if
-New York was in heavy boots. And when something really terrible happened – like a nuclear
-bomb, or at least a biological weapons attack – an extremely loud siren would go off,
+New York was in heavy boots. And when something really terrible happened like a nuclear
+bomb, or at least a biological weapons attack an extremely loud siren would go off,
 telling everyone to get to Central Park to put sandbags around the reservoir.
 Anyway.
 The next morning I told Mom that I couldn't go to school, because I was too sick. It was the
@@ -5219,7 +5215,7 @@ When I got back to the apartment, Stan said, 'You've got mail!'
 Dear Osk,
 Hello, lad! Thanks for your glorious letter and the bulletproof drumsticks, which I
 hope I'll never have to use! I have to confess, I've never thought too much about
-giving lessonsÃ¢Â€Â¦
+giving lessons 
 I hope you like the enclosed T-shirt, which I took the liberty of signing for you.
 Your mate,
 Ringo
@@ -5240,13 +5236,13 @@ seconds), and everyone has to live somewhere, and most apartments have two locks
 the front, and to at least some of the bathrooms, and maybe to some other rooms, and obviously
 to dressers and jewelry boxes. Also there are offices, and art studios, and storage
 facilities, and banks with safe-deposit boxes, and gates to yards, and parking lots. I figured
-that if you included everything – from bicycle locks to roof latches to places for cufflinks –
+that if you included everything from bicycle locks to roof latches to places for cufflinks
 there are probably about 18 locks for every person in New York City, which would mean
 about 162 million locks, which is a crevasse-load of locks.
-'Schell residenceÃ¢Â€Â¦Hi, MomÃ¢Â€Â¦A little bit, I guess, but still pretty
-sickÃ¢Â€Â¦NoÃ¢Â€Â¦Uh-huhÃ¢Â€Â¦Uh-huhÃ¢Â€Â¦I guessÃ¢Â€Â¦I think I'll order
-IndianÃ¢Â€Â¦But stillÃ¢Â€Â¦OK. Uh-huh. I willÃ¢Â€Â¦I knowÃ¢Â€Â¦I
-knowÃ¢Â€Â¦Bye.'
+'Schell residence Hi, Mom A little bit, I guess, but still pretty
+sick No Uh-huh Uh-huh I guess I think I'll order
+Indian But still OK. Uh-huh. I will I know I
+know Bye.'
 I timed myself and it took me 3 seconds to open a lock. Then I figured out that if a baby is
 born in New York every 50 seconds, and each person has 18 locks, a new lock is created in
 New York every 2.777 seconds. So even if all I did was open locks, I'd still be falling behind
@@ -5269,10 +5265,10 @@ is always the best kind, although fortunately it isn't the only kind. Then I fou
 there was a place called Black in every state in the country, and actually in almost every
 country in the world. In France, for example, there is a place called Noir. So that wasn't
 very helpful. I did a few other searches, even though I knew they would only hurt me, because
-I couldn't help it. I printed out some of the pictures I found – a shark attacking a girl,
+I couldn't help it. I printed out some of the pictures I found a shark attacking a girl,
 someone walking on a tightrope between the Twin Towers, that actress getting a blowjob
 from her normal boyfriend, a soldier getting his head cut off in Iraq, the place on the wall
-where a famous stolen painting used to hang – and I put them in Stuff That Happened to Me,
+where a famous stolen painting used to hang and I put them in Stuff That Happened to Me,
 my scrap-book of everything that happened to me.
 The next morning I told Mom I couldn't go to school again. She asked what was wrong. I
 told her, 'The same thing that's always wrong.'
@@ -5282,7 +5278,7 @@ told her, 'The same thing that's always wrong.'
 'About Dad?'
 'About everything.' She sat down on the bed next to me, even though I knew she was in a
 hurry. 'What's everything?' I started counting on my fingers: 'The meat and dairy products
-in our refrigerator, fistfights, car accidents, Larry – '
+in our refrigerator, fistfights, car accidents, Larry '
 'Who's Larry?'
 'The homeless guy in front of the Museum of Natural History who always says 'I promise
 it's for food' after he asks for money.' She turned around and I zipped her dress while I
@@ -5290,9 +5286,9 @@ kept counting. 'How you don't know who Larry is, even though you probably see hi
 the time, how Buckminster just sleeps and eats and goes to the bathroom and has no raison
 d'etre, the short ugly guy with no neck who takes tickets at the IMAX theater, how the sun
 is going to explode one day, how every birthday I always get at least one thing I already
-have, poor people who get fat because they eat junk food because it's cheaperÃ¢Â€Â¦'
+have, poor people who get fat because they eat junk food because it's cheaper '
 That was when I ran out of fingers, but my list was just getting started, and I wanted it to
-be long, because I knew she wouldn't leave while I was still going. 'Ã¢Â€Â¦domesticated
+be long, because I knew she wouldn't leave while I was still going. ' domesticated
 animals, how I have a domesticated animal, nightmares, Microsoft Windows, old people
 who sit around all day because no one remembers to spend time with them and they're
 embarrassed to ask people to spend time with them, secrets, dial phones, how Chinese
@@ -5300,7 +5296,7 @@ waitresses smile even when there's nothing funny or happy, and also how Chinese 
 own Mexican restaurants but Mexican people never own Chinese restaurants, mirrors,
 tape decks, my unpopularity at school, Grandma's coupons, storage facilities, people who
 don't know what the Internet is, bad handwriting, beautiful songs, how there won't be
-humans in fifty years – '
+humans in fifty years '
 'Who said there won't be humans in fifty years?' I asked her, 'Are you an optimist or a pessimist?'
 She looked at her watch and said, 'I'm optimistic.'
 'Then I have some bad news for you, because humans are going to destroy each other as
@@ -5431,10 +5427,10 @@ spell the name again?'
 'Either he didn't buy anything or he paid cash.'
 'Shiitake, hold on.'
 'Excuse me?'
-'Oskar SchellÃ¢Â€Â¦Hi, MomÃ¢Â€Â¦Because I'm in the bathroomÃ¢Â€Â¦Because it
-was in my pocketÃ¢Â€Â¦Uh-huh. Uh-huh. A little, but can I call you back when I'm not
-going to the bathroom? Like in half an hour?Ã¢Â€Â¦That's personalÃ¢Â€Â¦I
-guessÃ¢Â€Â¦Uh-huhÃ¢Â€Â¦Uh-huhÃ¢Â€Â¦OK, MomÃ¢Â€Â¦YuhÃ¢Â€Â¦Bye.'
+'Oskar Schell Hi, Mom Because I'm in the bathroom Because it
+was in my pocket Uh-huh. Uh-huh. A little, but can I call you back when I'm not
+going to the bathroom? Like in half an hour? That's personal I
+guess Uh-huh Uh-huh OK, Mom Yuh Bye.'
 'Well then, I have another question.'
 'You're saying that to me or to the phone?'
 'You. How long have those pads been by the displays?'
@@ -5518,8 +5514,8 @@ our greeting from the first phone onto it. I wrapped up the old phone in the sca
 that Grandma was never able to finish because of my privacy, and I put that in a grocery
 bag, and I put that in a box, and I put that in another box, and I put that under a bunch of
 stuff in my closet, like my jewelry workbench and albums of foreign currencies.
-That night when I decided that finding the lock was my ultimate raison d'etre – the raison
-that was the master over all other raisons – I really needed to hear him.
+That night when I decided that finding the lock was my ultimate raison d'etre the raison
+that was the master over all other raisons I really needed to hear him.
 I was extremely careful not to make any noise as I took the phone out of all of its protections.
 Even though the volume was way down, so Dad's voice wouldn't wake Mom, he
 still filled the room, like how a light fills a room even when it's dim.
@@ -5559,7 +5555,7 @@ pretty lonely to be anyone.'
 'That's true.'
 'Maybe she needs an imaginary friend.'
 'But I'm real,' I said. 'Yes, and she loves spending time with you. But you have school to go
-to, and friends to hang out with, and Hamlet rehearsals, and hobby shops – '
+to, and friends to hang out with, and Hamlet rehearsals, and hobby shops '
 'Please don't call them hobby shops.'
 'I just mean you can't be around all the time. And maybe she wants a friend her own age.'
 'How do you know her imaginary friend is old?'
@@ -5621,7 +5617,7 @@ have you ever finished a candy bar and not wanted more? Over.'
 'Pencils for men.'
 'Yes, yes.'
 'And bigger mencils that are easier to hold, in case your fingers are fat, like mine, and you
-could probably even train the birds that save you to take shiitakes in the portable pocket –
+could probably even train the birds that save you to take shiitakes in the portable pocket
 '
 'I don't understand.'
 'On your birdseed shirt.'
@@ -5703,11 +5699,11 @@ that it takes a normal person to fall asleep. We need enormous pockets, pockets 
 enough for our families, and our friends, and even the people who aren't on our lists, people
 we've never met but still want to protect. We need pockets for boroughs and for cities,
 a pocket that could hold the universe.
-Eight minutes thirty-two secondsÃ¢Â€Â¦
+Eight minutes thirty-two seconds 
 But I knew that there couldn't be pockets that enormous. In the end, everyone loses everyone.
 There was no invention to get around that, and so I felt, that night, like the turtle that
 everything else in the universe was on top of.
-Twenty-one minutes eleven secondsÃ¢Â€Â¦
+Twenty-one minutes eleven seconds 
 As for the key, I put it on the string next to my apartment key and wore it like a pendant.
 As for me, I was awake for hours and hours. Buckminster curled up next to me, and I conjugated
 for a while so I wouldn't have to think about things.
@@ -6016,9 +6012,9 @@ changed it!'
 'Well, I'm not talking about painting the Mona Lisa or curing cancer. I'm just talking about
 moving that one grain of sand one millimeter.'
 'Yeah?'
-'If you hadn' done it, human history would have been one wayÃ¢Â€Â¦'
+'If you hadn' done it, human history would have been one way '
 'Uh-huh?'
-'But you did do it, soÃ¢Â€Â¦?' I stood on the bed, pointed my fingers at the fake stars, and
+'But you did do it, so ?' I stood on the bed, pointed my fingers at the fake stars, and
 screamed: 'I changed the course of human history!'
 'That's right.'
 'I changed the universe!'
@@ -6061,10 +6057,10 @@ one of those times. I walked across Amsterdam Avenue, and Columbus Avenue, and C
 Park, and Fifth Avenue, and Madison Avenue, and Park Avenue, and Lexington Avenue,
 and Third Avenue, and Second Avenue. When I was exactly halfway across the Fiftyninth
 Street Bridge, I thought about how a millimeter behind me was Manhattan and a
-millimeter in front of me was Queens. So what's the name of the parts of New York – exactly
+millimeter in front of me was Queens. So what's the name of the parts of New York exactly
 halfway through the Midtown Tunnel, exactly halfway over the Brooklyn Bridge, the
 exact middle of the Staten Island Ferry when it's exactly halfway between Manhattan and
-Staten Island – that aren't in any borough?
+Staten Island that aren't in any borough?
 I took a step forward, and it was my first time in Queens.
 I walked through Long Island City, Woodside, Elmhurst, and Jackson Heights. I shook my
 tambourine the whole time, because it helped me remember that even though I was going
@@ -6098,7 +6094,7 @@ know Thomas Schell?'
 'Obviously.'
 'Goodbye,' the voice said. 'But I'm just trying to find out about this key.'
 'Goodbye.'
-'But – '
+'But '
 'Goodbye.' Disappointment #2.
 I sat back down and started to cry in the lobby of an apartment building in Corona. I
 wanted to press all of the buttons and scream curse words at everybody who lived in the
@@ -6192,7 +6188,7 @@ for a while. 'I don't think so. Should it?'
 'Yes.'
 'Fascinating.'
 'Listen, I don't know what it is that you need, but if it has to do with that envelope, I'm
-sure I can't help – '
+sure I can't help '
 'I'm extremely thirsty,' I said, touching my throat, which is the universal sign for thirsty.
 'There's a deli on the corner.'
 'Actually, I'm diabetic and I need some sugar asap.' Lie #35. 'Do you mean A.S.A.P.?'
@@ -6284,7 +6280,7 @@ This past year she started playing them back.'
 stronger memories than other mammals.'
 'Yes. I think I knew that.'
 'So this woman wanted to see just how good their memories actually are. She'd play the
-call of an enemy that was recorded a bunch of years earlier – a call they'd heard only once
+call of an enemy that was recorded a bunch of years earlier a call they'd heard only once
 – and they'd get panicky, and sometimes they'd run. They remembered hundreds of calls.
 Thousands. There might not even be a limit. Isn't that fascinating?'
 'It is.'
@@ -6338,7 +6334,7 @@ understand, and walked away. Abby pretended to ignore it, but I didn't. 'Who was
 to her and I put my hand on her shoulder, like Dad used to do with me. I asked her what
 she was feeling, because that's what he would ask. 'You must think this is very unusual,'
 she said. 'I think a lot of things are very unusual,' I said. She asked, 'How old are you?' I
-told her twelve – lie #59 – because I wanted to be old enough for her to love me. 'What's a
+told her twelve lie #59 because I wanted to be old enough for her to love me. 'What's a
 twelve-year-old doing knocking on the doors of strangers?'
 'I'm trying to find a lock. How old are you?'
 'Forty-eight.'
@@ -6356,8 +6352,8 @@ again. 'But this is your last name, right?' She looked at the writing, and I cou
 that she recognized something about it. Or I thought I could see it. But then she said, 'I'm
 sorry. I don't think I can help you.'
 'And what about the key?'
-'What key?' I realized I hadn't even shown it to her yet. All of that talking – about dust,
-about elephants – and I hadn't gotten to the whole reason I was there.
+'What key?' I realized I hadn't even shown it to her yet. All of that talking about dust,
+about elephants and I hadn't gotten to the whole reason I was there.
 49
 I pulled the key out from under my shirt and put it in her hand. Because the string was
 still around my neck, when she leaned in to look at the key, her face came incredibly close
@@ -6391,7 +6387,7 @@ Grandpa's camera, she put her hand in front of her face for some reason. I didn'
 want to force her to explain herself, so I thought of a different picture I could take, which
 would be more truthful, anyway. 'Here's my card,' I told her, when the cap was back on
 the lens, 'in case you remember anything about the key or just want to talk.'
-Ã¢Â€Â¢ OSKAR SCHELL Ã¢Â€Â¢
+ OSKAR SCHELL 
 INVENTOR, JEWELRY DESIGNER, JEWELRY FABRICATOR, AMATEUR
 ENTOMOLOGIST, FRANCOPHILE, VEGAN, ORIGAMIST, PACIFIST,
 PERCUSSIONIST, AMATEUR ASTRONOMER, COMPUTER CONSULTANT,
@@ -6427,8 +6423,8 @@ room with me. 'Why not?'
 feelings is another of my raisons d'etre. 'Just privacy,' I said. She put her hands on her
 stomach and said, 'From me?' She agreed to wait outside, but only if I held a ball of yarn,
 which went under the bathroom door and was connected to the scarf she was knitting.
-Every few seconds she would give it a tug, and I had to tug back – undoing what she'd just
-done – so that she could know I was OK.
+Every few seconds she would give it a tug, and I had to tug back undoing what she'd just
+done so that she could know I was OK.
 She was taking care of me when I was four, chasing me around the apartment like she was
 a monster, and I cut my top lip against the end of our coffee table and had to go to the
 hospital. Grandma believes in God, but she doesn't believe in taxis, so I bled on my shirt
@@ -6482,9 +6478,9 @@ and Dad put one in the crib so they could hear me crying, and sometimes, instead
 to the crib, Dad would just talk into it, which would help me get to sleep. I asked Mom
 why he kept those. She said, 'Probably for when you have kids.'
 'What the?'
-'That's what Dad was like.' I started to realize that a lot of the stuff he'd saved – boxes and
+'That's what Dad was like.' I started to realize that a lot of the stuff he'd saved boxes and
 52
-boxes of Legos, the set of How It Works books, even the empty photo albums – was probably
+boxes of Legos, the set of How It Works books, even the empty photo albums was probably
 for when I had kids. I don't know why, but for some reason that made me angry.
 Anyway, I put new batteries in the two-way radios, and I thought it would be a fun way
 for me and Grandma to talk. I gave her the baby one, so she wouldn't have to figure out
@@ -6522,13 +6518,13 @@ must have weighed a ton. But she never gave that one to me, and she never mentio
 'Oskar.'
 'I'm OK.'
 One afternoon, I mentioned to Grandma that I was considering starting a stamp collection,
-and the next afternoon she had three albums for me and – 'because I love you so much it
-hurts me, and because I want your wonderful collection to have a wonderful beginning' –
+and the next afternoon she had three albums for me and 'because I love you so much it
+hurts me, and because I want your wonderful collection to have a wonderful beginning'
 53
 a sheet of stamps of Great American Inventors.
 'You've got Thomas Edison,' she said, pointing at one of the stamps, 'and Ben Franklin,
 Henry Ford, Eli Whitney, Alexander Graham Bell, George Washington Carver, Nikola
-Tesla, whoever that is, the Wright Brothers, J. Robert Oppenheimer – '
+Tesla, whoever that is, the Wright Brothers, J. Robert Oppenheimer '
 'Who's he?'
 'He invented the bomb.'
 'Which bomb?'
@@ -6604,7 +6600,7 @@ toothbrushes they give you at the dentist, and three baseballs that Dad had caug
 games, which he wrote the dates on. What were the dates? My brain opened a box with
 old atlases (where there were two Germanys and one Yugoslavia) and souvenirs from
 business trips, like Russian dolls with dolls inside them with dolls inside them with dolls
-inside themÃ¢Â€Â¦Which of those things had Dad kept for when I had kids?
+inside them Which of those things had Dad kept for when I had kids?
 It was 2:36 A.M. I went to Mom's room. She was sleeping, obviously. I watched the sheets
 breathe when she breathed, like how Dad used to say that trees inhale when people ex-
 55
@@ -6673,8 +6669,8 @@ thought we could have a beautiful reunion, although we had hardly known each oth
 Dresden. It didn't work. We've wandered in place, our arms outstretched, but not toward
 each other, they're marking off distance, everything between us has been a rule to govern
 our life together, everything a measurement, a marriage of millimeters, of rules, when she
-gets up to go to the shower, I feed the animals – that's a rule – so she doesn't have to be
-self-conscious, she finds things to keep herself busy when I undress at night – rule – she
+gets up to go to the shower, I feed the animals that's a rule so she doesn't have to be
+self-conscious, she finds things to keep herself busy when I undress at night rule she
 goes to the door to make sure it's locked, she double-checks the oven, she tends to her collections
 in the china cabinet, she checks, again, the curlers that she hasn't used since we
 met, and when she gets undressed, I've never been so busy in my life. Only a few months
@@ -6704,7 +6700,7 @@ morning the Nothing vase cast a Something shadow, like the memory of someone you
 lost, what can you say about that, at night the Nothing light from the guest room spilled
 under the Nothing door and stained the Something hallway, there's nothing to say. It became
 difficult to navigate from Something to Something without accidentally walking
-through Nothing, and when Something – a key, a pen, a pocketwatch – was accidentally
+through Nothing, and when Something a key, a pen, a pocketwatch was accidentally
 left in a Nothing Place, it never could be retrieved, that was an unspoken rule, like nearly
 all of our rules have been. There came a point, a year or two ago, when our apartment was
 more Nothing than Something, that in itself didn't have to be a problem, it could have
@@ -6788,7 +6784,7 @@ their trunks, I waited for hours, I saw your mother in one of the second-floor w
 she was just a girl, she looked back at me, but I didn't see Anna. A leaf fell, it was yellow
 like paper, I had to go home, and then, the next day, I had to go back to her. I skipped my
 classes, the walk happened so quickly, my neck strained from hiding my face, my arm
-brushed the arm of someone passing – a strong, solid arm – and I tried to imagine whom it
+brushed the arm of someone passing a strong, solid arm and I tried to imagine whom it
 belonged to, a farmer, a stoneworker, a carpenter, a bricklayer. When I got to her house I
 hid beneath one of the back windows, a train rattled past in the distance, people coming,
 people leaving, soldiers, children, the window shook like an eardrum, I waited all day, did
@@ -6887,9 +6883,9 @@ there in the room, ended our suffering, they would have found us floating face-d
 two thousand white pages, or buried under the salt of my evaporated tears, I remembered,
 just then and far too late, that years before I had pulled the ribbon from the machine, it
 had been an act of revenge against the typewriter and against myself, I'd pulled it into one
-long thread, unwinding the negative it held – the future homes I had created for Anna, the
-letters I wrote without response – as if it would protect me from my actual life. But worse
-– it's unspeakable, write it! – I realized that your mother couldn't see the emptiness, she
+long thread, unwinding the negative it held the future homes I had created for Anna, the
+letters I wrote without response as if it would protect me from my actual life. But worse
+– it's unspeakable, write it! I realized that your mother couldn't see the emptiness, she
 couldn't see anything. I knew that she'd had difficulty, I'd felt her grasp my arm when we
 walked, I'd heard her say, 'My eyes are crummy,' but I thought it was a way to touch me,
 another figure of speech, why didn't she ask for help, why, instead, did she ask for all of
@@ -6910,7 +6906,7 @@ The first time Anna and I made love was behind her father's shed, the previous o
 been a farmer, but Dresden started to overtake the surrounding villages and the farm was
 divided into nine plots of land, Anna's family owned the largest. The walls of the shed col-
 62
-lapsed one autumn afternoon – 'a leaf too many,' her father joked – and the next day he
+lapsed one autumn afternoon 'a leaf too many,' her father joked and the next day he
 made new walls of shelves, so that the books themselves would separate inside from outside.
 (The new, overhanging roof protected the books from rain, but during the winter the
 pages would freeze together, come spring, they let out a sigh.) He made a little salon of the
@@ -7103,7 +7099,7 @@ auditions because my boots were too heavy to go to school that day, so I got the
 Yorick. At first that made me self-conscious. I suggested to Mrs. Rigley that maybe I could
 just play tambourine in the orchestra or something. She said, 'There is no orchestra.' I said,
 'Still.' She told me, 'It'll be terrific. You'll wear all black, and the makeup crew will paint
-your hands and neck black, and the costume crew will create some sort of a papier-mâché
+your hands and neck black, and the costume crew will create some sort of a papier-mché
 skull for you to wear over your head. It'll really give the illusion that you don't have a
 body.' I thought about that for a minute, and then I told her my better idea. 'What I'll do is,
 I'll invent an invisibility suit that has a camera on my back that takes video of everything
@@ -7157,7 +7153,7 @@ your songs?'
 Backstage, before closing night, Jimmy Snyder imitated Grandma to the rest of the cast
 and crew. I guess I hadn't realized how loud she was. I had gotten so angry at myself for
 noticing her, but I was wrong, it was her fault. Everyone noticed. Jimmy did her exactly
-right – the way she swatted her left hand at something funny, like there was a fly in front
+right the way she swatted her left hand at something funny, like there was a fly in front
 of her face. The way she tilted her head, like she was concentrating incredibly hard on
 something, and how she sneezed and told herself, 'God bless me.' And how she cried and
 said, 'That's sad,' so everyone could hear it.
@@ -7196,7 +7192,7 @@ it was because I felt so close and alone that night. I just couldn't be dead any
 ME:
 Alas, poor Hamlet [I take JIMMY SNYDER's face into my hand] I knew him, Horatio.
 JIMMY SNYDER:
-But YorickÃ¢Â€Â¦you're onlyÃ¢Â€Â¦a skull.
+But Yorick you're only a skull.
 ME:
 So what? I don't care. Screw you.
 JIMMY SNYDER:
@@ -7206,7 +7202,7 @@ which is the universal sign for 'improvise.']
 ME:
 I knew him, Horatio; a jerk of infinite stupidity, a most excellent masturbator in the sec-
 69
-ond-floor boys' bathroom – I have proof. Also, he's dyslexic.
+ond-floor boys' bathroom I have proof. Also, he's dyslexic.
 JIMMY SNYDER:
 [Can't think of anything to say]
 ME:
@@ -7222,8 +7218,8 @@ ME:
 You are guilty of having abused those less strong than you: of making the lives of nerds
 like me and Toothpaste and The Minch almost impossible, of imitating mental retards, of
 prank-calling people who get almost no phone calls anyway, of terrorizing domesticated
-animals and old people – who, by the way, are smarter and more knowledgeable than you
-– of making fun of me just because I have a pussyÃ¢Â€Â¦And I've seen you litter, too.
+animals and old people who, by the way, are smarter and more knowledgeable than you
+– of making fun of me just because I have a pussy And I've seen you litter, too.
 JIMMY SNYDER:
 I never prank-called any retards.
 ME:
@@ -7239,7 +7235,7 @@ And you have amyotrophic lateral sclerosis.
 JIMMY SNYDER:
 Huh?
 ME:
-On behalf of the deadÃ¢Â€Â¦[I pull the skull off my head. Even though it's made of papiermâché
+On behalf of the dead [I pull the skull off my head. Even though it's made of papiermché
 it's really hard. I smash it against JIMMY SNYDER's head, and I smash it again. He falls
 to the ground, because he is unconscious, and I can't believe how strong I actually am. I smash his
 head again with all my force and blood starts to come out of his nose and ears. But I still don 't feel
@@ -7364,7 +7360,7 @@ sandwich, which freaked me out, but I was very polite and just said, 'Jose.'
 'Pardon?'
 'Jose.'
 'I'm sorry. I don't understand what that means.'
-'Jose. As in, 'No wayÃ¢Â€Â¦' She said, 'I know what I am.' I nodded my head, even
+'Jose. As in, 'No way ' She said, 'I know what I am.' I nodded my head, even
 though I didn't know what she was talking about or what it had to do with anything.
 'Even if I don't like what I am, I know what I am. My children like what they are, but they
 don't know what they are. So tell me which is worse.'
@@ -7377,10 +7373,10 @@ luck,' and put her hands on my cheeks, and kissed the top of my head.
 That was Saturday, and it was depressing.
 Dear Oskar Schell,
 Thank you for your contribution to the American Diabetes Foundation. Every dollar
-– or, in your case, fifty cents – counts.
+– or, in your case, fifty cents counts.
 I have enclosed some additional literature about the Foundation, including our mission
 statement, a brochure featuring past activities and successes, as well as some
-information about our future goals, both short- and long-term.
+information about our future goals, both short and long-term.
 Thank you, once more, for contributing to this urgent cause. You are saving lives.
 With gratitude,
 Patricia Roxbury President,
@@ -7811,7 +7807,7 @@ turned them off, which was possible. We looked at each other.
 Then, out of nowhere, a flock of birds flew by the window, extremely fast and incredibly
 close. Maybe twenty of them. Maybe more. But they also seemed like just one bird, because
 somehow they all knew exactly what to do. Mr. Black grabbed at his ears and made
-a bunch of weird sounds. He started crying – not out of happiness, I could tell, but not out
+a bunch of weird sounds. He started crying not out of happiness, I could tell, but not out
 of sadness, either.
 'Are you OK?' I whispered.
 The sound of my voice made him cry more, and he nodded his head yes.
@@ -8583,7 +8579,7 @@ hold on, and then I called down to Mr. Black from the stairwell, 'I don't think 
 English!'
 'Well, what does she speak?'
 'What do you speak?' I asked her, and then I realized how dumb my question was, so I
-tried a different approach: 'Parlez-vous Français?'
+tried a different approach: 
 'Espanol,' she said. 'Espanol,' I hollered down. 'Terrific!' he hollered back. 'I picked up a little
 Espanol along the way!' So I brought her wheelchair to the stairwell, and they hollered
 to each other, which was kind of weird, because their voices were traveling back and forth
@@ -8666,8 +8662,8 @@ about this key?'
 Dear Oskar Schell,
 I am responding on behalf of Dr. Kaley, who is currently in the Congo on a research
 expedition. She asked that I pass on her appreciation for your enthusiasm about her
-work with elephants. Given that I am already her assistant – and budget limitations
-being what they are, as I'm sure you've experienced – she isn't now able to take on
+work with elephants. Given that I am already her assistant and budget limitations
+being what they are, as I'm sure you've experienced she isn't now able to take on
 anyone else. But she did want me to tell you that should your interest and availability
 remain, there might be a project next fall in Sudan that she will need help with.
 (The grant proposals are just now going through.)
@@ -8718,7 +8714,7 @@ The week was incredibly boring, except for when I remembered the key. Even thoug
 knew that there were 161,999,999 locks in New York that it didn't open, I still felt like it
 opened everything. Sometimes I liked to touch it just to know that it was there, like the
 pepper spray I kept in my pocket. Or the opposite of that. I adjusted the string so the keys
-– one to the apartment, one to I-didn't-know-what – rested against my heart, which was
+– one to the apartment, one to I-didn't-know-what rested against my heart, which was
 nice, except the only thing was that it felt too cold sometimes, so I put a Band-Aid on that
 part of my chest, and the keys rested on that.
 Monday was boring.
@@ -8751,7 +8747,7 @@ life.'
 'I'm extremely emotional right now.'
 'What emotions are you feeling?'
 'All of them.'
-'LikeÃ¢Â€Â¦'
+'Like '
 'Right now I'm feeling sadness, happiness, anger, love, guilt, joy, shame, and a little bit of
 humor, because part of my brain is remembering something hilarious that Toothpaste
 once did that I can't talk about.'
@@ -8973,8 +8969,8 @@ there? Pick up. Please! Pick up. I'm underneath a table. Hello? Sorry. I have a 
 113
 napkin wrapped around my face. Hello? No. Try the other. Hello? Sorry. People are
 getting crazy. There's a helicopter circling around, and. I think we're going to go up
-onto the roof. They say there's going to be some sort of evacuation – I don't know,
-try that one – they say there's going to be some son of evacuation from up there,
+onto the roof. They say there's going to be some sort of evacuation I don't know,
+try that one they say there's going to be some son of evacuation from up there,
 which makes sense if. The helicopters can get close enough. It makes sense. Please
 pick up. I don't know. Yeah, that one. Are you there? Try that one.
 Why didn't he say goodbye?
@@ -9057,7 +9053,7 @@ it was the silence of my life. I found Anna in her room, 'Hi.'
 'Don't turn away from me.' She wouldn't look at me. I asked, 'What's happened?' I'd never
 seen her cry before. I told her, 'Don't cry.' She said, 'Don't touch me.' I asked, 'What is it?'
 She said, 'Will you please shut up!' We sat on her bed in silence. The silence pressed down
-on us like a hand. I said, 'Whatever it is – ' She said 'I'm pregnant.' I can't write what we
+on us like a hand. I said, 'Whatever it is ' She said 'I'm pregnant.' I can't write what we
 said to each other then. Before I left, she said, 'Please be overjoyed.' I told her I was, of
 course I was, I kissed her, I kissed her stomach, that was the last time I ever saw her. At
 9:30 that night, the air-raid sirens sounded, everyone went to the shelters, but no one hurried,
@@ -9070,7 +9066,7 @@ dropped clusters of red flares to light up the blackness for whatever was to com
 was alone on the street, the red flares fell around me, thousands of them, knew that something
 unimaginable was about to happen, was thinking of Anna, I was overjoyed. I ran
 downstairs four steps at a time, they saw the look on my face, before I had time to say anything
-– what would I have said? – we heard a horrible noise, rapid, approaching explosions,
+– what would I have said? we heard a horrible noise, rapid, approaching explosions,
 like an applauding audience running toward us, then they were atop us, we were
 thrown to the corners, our cellar filled with fire and smoke, more powerful explosions, the
 walls lifted from the floor and separated just long enough to let light flood in before banging
@@ -9230,8 +9226,8 @@ THE SIXTH BOROUGH
  a sixth borough?'
 'I've been trying to tell you.'
 'No more interruptions. I promise.'
-'Well, you won't read about it in any of the history books, because there's nothing – save
-for the circumstantial evidence in Central Park – to prove that it was there at all. Which
+'Well, you won't read about it in any of the history books, because there's nothing save
+for the circumstantial evidence in Central Park to prove that it was there at all. Which
 makes its existence very easy to dismiss. But even though most people will say they have
 no time for or reason to believe in the Sixth Borough, and don't
  believe in the Sixth Borough, they will still use the word 'believe.'
@@ -9241,7 +9237,7 @@ one person on earth could go from Manhattan to the Sixth Borough without getting
 wet. A huge party was made of the yearly leap. Bagels were strung from island to island
 on special spaghetti, samosas were bowled at baguettes, Greek salads were thrown like
 confetti. The children of New York captured fireflies in glass jars, which they floated between
-the boroughs. The bugs would slowly asphyxiate – '
+the boroughs. The bugs would slowly asphyxiate '
 'Asphyxiate?'
 'Suffocate.'
 'Why didn't they just punch holes into the lids?'
@@ -9253,7 +9249,7 @@ the river shimmered as the jumper crossed it.'
 River. He would run the entire width of Manhattan, as New Yorkers rooted him on from
 opposite sides of the street, from the windows of their apartments and offices, and from
 the branches of trees. Second Avenue, Third Avenue, Lexington, Park, Madison, Fifth
-Avenue, Columbus, Amsterdam, Broadway, Seventh, Eighth, Ninth, TenthÃ¢Â€Â¦And
+Avenue, Columbus, Amsterdam, Broadway, Seventh, Eighth, Ninth, Tenth And
 when he leapt, New Yorkers cheered from the banks of both Manhattan and the Sixth Borough,
 cheering the jumper on and cheering each other on. For those few moments that the
 jumper was in the air, every New Yorker felt capable of flight.
@@ -9262,7 +9258,7 @@ jumper was in the air, every New Yorker felt capable of flight.
 not how the jumper got from one borough to the other, but how he stayed between them
 for so long.'
 'That's true.'
-'One year – many, many years ago – the end of the jumper's big toe skimmed the surface
+'One year many, many years ago the end of the jumper's big toe skimmed the surface
 of the river, causing a little ripple. People gasped as the ripple traveled out from the Sixth
 Borough back toward Manhattan, knocking the jars of fireflies against one another like
 wind chimes.
@@ -9277,7 +9273,7 @@ for the jumper's foot.
 'I bet his heart wasn't in it,' said another. 'You just can't expect to jump that far without
 some serious feeling.'
 'No,' the jumper said to all of the speculation. 'None of that's right. I jumped just fine.'
-'The revelation – '
+'The revelation '
 'Revelation?'
 'Realization.'
 'Oh yeah.'
@@ -9288,8 +9284,8 @@ New York City spoke it aloud, everyone sighed in agreement: 'The Sixth Borough i
 !'
 'A millimeter at a time, the Sixth Borough receded from New York. One year, the long
 jumper's entire foot got wet, and after a number of years, his shin, and after many, many
-years – so many years that no one could remember what it was like to celebrate without
-anxiety – the jumper had to reach out his arms and grab at the Sixth Borough fully extended,
+years so many years that no one could remember what it was like to celebrate without
+anxiety the jumper had to reach out his arms and grab at the Sixth Borough fully extended,
 and then he couldn't touch it at all. The eight bridges between Manhattan and the
 Sixth Borough strained and finally crumbled, one at a time, into the water. The tunnels
 were pulled too thin to hold anything at all.
@@ -9300,7 +9296,7 @@ and threw them from one office building into another; those fireflies in glass j
 had once been used merely for decorative purposes during the festivals of the leap, were
 121
 now found in every room of every home, taking the place of artificial light.
-'The very same engineers who dealt with the Leaning Tower of PisaÃ¢Â€Â¦which was
+'The very same engineers who dealt with the Leaning Tower of Pisa which was
 where?'
 'Italy
 !'
@@ -9390,7 +9386,7 @@ would give the wanting believer something to hold on to.'
 Like the placement of certain tanks at the zoo, which correspond to the holes left by the
 gigantic hooks that pulled the park from borough to borough.'
 'Jose.'
-'There is a tree – just twenty-four paces due east of the entrance to the merry-go-round –
+'There is a tree just twenty-four paces due east of the entrance to the merry-go-round
 into whose trunk are carved two names. There is no record of them in the phone books or
 censuses. They are absent from all hospital and tax and voting documentation. There is no
 evidence whatsoever of their existence, other than the proclamation on the tree. Here's a
@@ -9423,8 +9419,8 @@ moves across the planet, it acts like a frame, displaying what lies beneath it.'
 'Really?'
 'The sidewalks are covered in ice, the stained glass of the public library is straining under
 the weight of the snow. There are frozen fountains in frozen neighborhood parks, where
-frozen children are frozen at the peaks of their swings – the frozen ropes holding them in
-flight. Livery horses – '
+frozen children are frozen at the peaks of their swings the frozen ropes holding them in
+flight. Livery horses '
 'What's that?'
 'The horses that pull the carriages in the park.'
 'They're inhumane.'
@@ -9824,7 +9820,7 @@ write anything, like he didn't know if he was a stranger or not. 'Are you older 
 He showed me his left hand, which had YES tattooed on it. 'Do you have a criminal
 record?' He showed me his right hand, which had NO. 'What other languages do you
 speak?' He wrote, 'German. Greek. Latin.'
-'Parlez-vous franÃƒÂ§ais?' He opened and closed his left hand, which I think meant un feu
+ He opened and closed his left hand, which I think meant un feu
 .
 I went in.
 There was writing on the walls, writing everywhere, like, 'I wanted so much to have a life,'
@@ -9878,9 +9874,9 @@ at his shirt. I pointed at the N and said 'New,' and the Y and said 'York.' He l
 or embarrassed, or surprised, or maybe even mad. I couldn't tell what he was feeling,
 because I couldn't speak the language of his feelings. 'I not know was New York. In
 Chinese, ny
- mean 'you.' Thought was 'I love you.' It was then that I noticed the 'IÃ¢Â™Â¥NY' poster
-on the wall, and the 'IÃ¢Â™Â¥NY' flag over the door, and the 'IÃ¢Â™Â¥NY' dishtowels,
-and the 'IÃ¢Â™Â¥NY' lunchbox on the kitchen table. I asked him, 'Well, then why do you
+ mean 'you.' Thought was 'I love you.' It was then that I noticed the poster
+on the wall, and the flag over the door, and the dishtowels,
+and the lunchbox on the kitchen table. I asked him, 'Well, then why do you
 love everybody so much?'
 Georgia Black, in Staten Island, had turned her living room into a museum of her husband's
 life. She had pictures of him from when he was a kid, and his first pair of shoes,
@@ -9948,7 +9944,7 @@ with the hope of one day being able to give each the proper response it deserves
 Until that day,
 Most sincerely,
 Stephen Hawking
-The week passed quickly. Iris Black. Jeremy Black. Kyle Black. Lori BlackÃ¢Â€Â¦Mark
+The week passed quickly. Iris Black. Jeremy Black. Kyle Black. Lori Black Mark
 Black was crying when he opened the door and saw us, because he had been waiting for
 someone to come back to him, so every time someone knocked on the door, he couldn't
 stop himself from hoping it might be that person, even though he knew he shouldn't hope.
@@ -9989,7 +9985,7 @@ fascinating, and I normally would have taken some notes, but I needed all of my 
 for being brave. I squeezed Mr. Black's hand, and I couldn't stop inventing: the elevator
 cables snapping, the elevator falling, a trampoline at the bottom, us shooting back
 up, the roof opening like a cereal box, us flying toward parts of the universe that not even
-Stephen Hawking was sure aboutÃ¢Â€Â¦
+Stephen Hawking was sure about 
 When the elevator door opened, we got out on the observation deck. We didn't know who
 to look for, so we just looked around for a while. Even though I knew the view was incredibly
 beautiful, my brain started misbehaving, and the whole time I was imagining a
@@ -10046,7 +10042,7 @@ I found Mr. Black, who was looking at Central Park. I told him I was ready to go
 'We can come back another day.'
 'But we're already here.'
 'I don't feel like it.'
-'It'll just take a few – '
+'It'll just take a few '
 'I want to go home.' He could probably tell that I was about to cry. 'OK,' he said, 'let's go
 home.'
 We got at the end of the line for the elevator.
@@ -10081,9 +10077,9 @@ you in a very special tour of this very special building?'
 She smiled, took a huge breath in, and then started walking while she talked. 'Construction
 on the Empire State Building began in March of 1930, on the site of the old WaldorfAstoria
 Hotel, at 350 Fifth Avenue at Thirty-fourth Street. It was completed one year and
-forty-five days later – seven million man-hours of work, including Sundays and holidays.
-Everything about the building was designed to expedite its construction – prefabricated
-materials were used as much as possible – and as a result, work progressed at a rate of
+forty-five days later seven million man-hours of work, including Sundays and holidays.
+Everything about the building was designed to expedite its construction prefabricated
+materials were used as much as possible and as a result, work progressed at a rate of
 about four and a half stories each week. The entire framework took less than half a year to
 complete.' That was less time than how long I'd been searching for the lock.
 She took a breath.
@@ -10118,7 +10114,7 @@ emergency brakes.' Mr. Black gave my hand a squeeze. 'And speaking of elevators,
 are seventy of them in the building, including the six freight elevators. They travel at
 speeds from 600 to 1,400 feet per minute. Or, if you so choose, you can walk the 1,860 steps
 from the street level to the top.' I asked if you could also take the stairs down.
-'On a clear day like this, you can see for eighty miles – well into Connecticut. Since the observatory
+'On a clear day like this, you can see for eighty miles well into Connecticut. Since the observatory
 opened to the public in 1931, almost 110 million visitors have enjoyed the
 breathtaking vision of the city beneath them. Each year, over 3.5 million people are
 whisked to the eighty-sixth floor to be where Gary Grant waited in vain for Deborah Kerr
@@ -10269,7 +10265,7 @@ angry at herself for forgetting her sadness.
 It was already 2:32 P.M. when I finished walking the 1,860 stairs down to the lobby, and I
 was exhausted, and Mr. Black seemed exhausted, too, so we went straight home. When we
 145
-got to Mr. Black's door – this was just a few minutes ago – I was already making plans for
+got to Mr. Black's door this was just a few minutes ago I was already making plans for
 next weekend, because we had to go to Far Rockaway, and Boerum Hill, and Long Island
 City, and if we had time also to Dumbo, but he interrupted me and said, 'Listen. Oskar?'
 'That's my name, don't wear it out.'
@@ -10283,7 +10279,7 @@ I told him, 'I don't understand.'
 I kicked his door and told him, 'You're breaking your promise.'
 I pushed him and shouted, 'It isn't fair!'
 I got on my tiptoes and put my mouth next to his ear and shouted, 'Fuck you!'
-No. I shook his handÃ¢Â€Â¦
+No. I shook his hand 
 'And then I came straight here, and now I don't know what to do.'
 As I had been telling the renter the story, he kept nodding his head and looking at my
 face. He stared at me so hard that I wondered if he wasn't listening to me at all, or if he
@@ -10431,9 +10427,9 @@ What about Kevlar overalls?
 What about skyscrapers made with moving parts, so they could rearrange themselves
 149
 when they had to, and even open holes in their middles for planes to fly through?
-What aboutÃ¢Â€Â¦
-What aboutÃ¢Â€Â¦
-What aboutÃ¢Â€Â¦
+What about 
+What about 
+What about 
 And then a thought came into my brain that wasn't like the other thoughts. It was closer to
 me, and louder. I didn't know where it came from, or what it meant, or if I loved it or
 hated it. It opened up like a fist, or a flower.
@@ -10459,14 +10455,14 @@ doorman, 'Do you want to see me again, or should I go away?' The next morning th
 was a note written on the window, 'Don't go away,' which meant something, but it didn't
 mean 'I want to see you again.' I gathered a handful of pebbles and tossed them at her
 window, nothing happened, I tossed some more, but she didn't come to the window, I
-wrote a note in my daybook – 'Do you want to see me again?' – I ripped it out and gave it
+wrote a note in my daybook 'Do you want to see me again?' I ripped it out and gave it
 to the doorman, the next morning I went back, I didn't want to make her life any harder
 than it was, but I didn't want to give up either, there was a note on the window, 'I don't
 want to want to see you again,' which meant something, but it didn't mean yes. I gathered
 150
 pebbles from the street and threw them at her window, hoping she would hear me and
-know what I meant, I waited, she didn't come to the window, I wrote a note – 'What
-should I do?' – and gave it to the doorman, he said, 'I'll make sure she gets it,' I couldn't
+know what I meant, I waited, she didn't come to the window, I wrote a note 'What
+should I do?' and gave it to the doorman, he said, 'I'll make sure she gets it,' I couldn't
 say, 'Thank you.' The next morning I went back, there was a note on her window, the first
 note, 'Don't go away,' I gathered pebbles, I threw them, they tapped like fingers against
 the glass, I wrote a note, 'Yes or no?' for how long could it go on? The next day I found a
@@ -10479,7 +10475,7 @@ pal,' but I knew I wasn't lucky, he handed me a key. I rode the elevator up, the
 open, the smell brought back to me what for forty years I had struggled not to remember
 but couldn't forget. I put the key in my pocket, 'Only the guest room!' she called from our
 bedroom, the room in which we used to sleep and dream and make love. That was how
-we began our second life togetherÃ¢Â€Â¦When I got off the plane, after eleven hours of
+we began our second life together When I got off the plane, after eleven hours of
 travel and forty years away, the man took my passport and asked me the purpose of my
 visit, I wrote in my daybook, 'To mourn,' and then, 'To mourn
  try to live,' he gave me a look and asked if I would consider that business or pleasure, I
@@ -10518,57 +10514,13 @@ come back, and what I needed to do with the time I had left. I told her because 
 her to believe me and understand, and because I thought I owed it to her, and to myself,
 and to you, or was it just more selfishness? I broke my life down into letters, for love I
 pressed '5, 6, 8, 3,' for death, '3, 3, 2, 8, 4,' when the suffering is subtracted from the joy,
-what remains? What, I wondered, is the sum of my life? '6,9,6, 2, 6, 3,4, 7, 3, 5,4, 3, 2, 5, 8, 6,
-2, 6, 3,4, 5, 8, 7, 8, 2, 7, 7,4, 8, 3, 3. 2 8, 8,4, 3, 2,4, 7, 7, 6, 7, 8, 4, 6, 3, 3, 3, 8, 6, 3,4, 6, 3, 6, 7, 3,4,
-6, 5, 3, 5, 7! 6,4, 3,2,2, 6, 7,4, 2, 5, 6, 3, 8, 7, 2, 6, 3,4, 3? 5, 7, 6, 3, 5, 8,6, 2, 6 3.4. 5. 8. 7.8, 2, 7,
-7,4,8, 3, 9, 2, 8, 8,4, 3, 2,4, 7, 7,6, 7,8,4,6, 3, 3, 4. 5, 7, 6, 7, 8,4, 6, 3, 5, 5, 2, 6, 9, 4, 6, 5, 6, 7, 5, 4,
-6! 5, 2, 6, 2, 6, 5, 9, 5, 2? 6, 9,6, 2, 6, 5,4, 7, 5, 5,4, 5, 2, 5, 2, 6,4, 6, 2,4, 5, 2, 7, 2, 2, 7, 7,4, 2, 5. 5,
-2, 9, 2, 4, 5, 2,6! 4, 2, 2, 6, 5,4, 2, 5, 7,4, 5, 2, 5, 2,6, 2, 6, 5, 4, 5, 2, 7,2, 2, 7, 7,4, 2, 5, 5, 2, 2, 2,4, 5,
-2! 7, 2, 2, 7, 7,4, 2, 5, 5, 2, 2, 2,4, 5, 2, 4, 7, 2, 2, 7, 2,4, 6, 5, 5, 5, 2, 6, 5,4, 6, 5, 6, 7, 5,4! 4, 3, 2, 4,
-3, 3, 6, 3, 8, 4! 6, 3, 3, 3, 8,6, 3, 9, 6, 3, 6, 6, 3, 4, 6, 5, 3, 5, 3! 2, 2, 3, 3, 2,6, 3,4, 2, 5, 6, 3,8, 3, 2,6,
-3,4, 3? 5,6, 8, 3? 5, 3,6, 3, 5, 8, 6, 2, 6, 3,4, 5, 8, 3, 8, 2, 3, 4, 8, 3, 3, 2, 8! 3, 3,4, 8, 3, 3, 2- 8, 3,4- 3.
-2,4, 7, 6, 6, 7, 8,4, 6, 8, 3, 8, 8, 6, 3,4, 6, 3! 2, 2, 7, 7,4, 2, 5, 5, 2, 9, 2,4, 5, 2,6! 4, 2, 2,6, 5,4, 2, 5,
-7,4, 5. 6, 5, 5, 2, 6, 2, 6, 3, 4, 5, 8, 3, 8, 2, 3, 3, 4, 8, 3, 9, 2, 8, 8, 4, 3, 2,4, 3, 3, 6. 3- 8, 4, 6, 3, 3, 3,
-8! 4, 3, 2,4, 3, 3, 6, 3, 8, 4! 6, 3, 3, 3, 8, 6, 3, 9, 6, 3, 6, 6, 3,4, 6, 5, 3, 5, 3! 2, 2, 3, 3, 2, 6, 3,4, 2, 5, 6,
-3, 8, 3, 2, 6, 3,4, 3? 5, 6, 8, 3? 5. 3. 6. 3. S 8,6, 2, 6, 3,4, 5, 8, 3, 8, 2, 3, 3,4, -8, 3, 3, 2, 8! 2, 7, 2,4, 6,
-5. 5- 5. 2 6, 5, 4, 6, 5, 6, 7, 5,4! 6, 5, 5, 5, 7! 6, 4, 5, 2, 2, 6, 7, 4, 2, 5, 6, 5, 2, 6! 2, 6, 5,4, 5? 5, 7, 6,
-5, 5, 2, 6, 2, 6, 5,4, 5, 2, 7, 2, 2, 7, 7,4, 2, 5, 9, 2, 2, 2,4, 5, 2,4, 5, 5, 6, 5, 2,4,6, 5, 5, 5, 2! 4, 5, 2,4, 5,
-5,6, 5! 5, 6, 8, 3? 5, 5. 6, 5, 5, 2, 6, 2, 6, 3,4, 5, 8, 3, 8, 2, 3, 3,4, 8, 3, 9, 2, 8, 8,4, 3, 2,4, 3,4, 6. 5,
-5,5,2! 4, 5, 2,4, 5, 5, 6, 5! 6, 5,4, 5? 4, 5? 5, 5, 6, 5, 5, 2, 6, 2,6, 3,4, 5, 8, 3, 8, 2, 3, 3,4, 8, 3, 9, 2, 8,
-8,4, 3, 2,4, 3, 3, 6, 3, 8,4,6, 3, 3, 3, 8! 4, 3, 2,4, 3, 3, 6, 3, 8,4! 6, 3, 3, 3, 6, 7,4, 2, 5, 6, 3, 8, 7, 2, 6,
-3,4, 3? 5, 7, 6, 3. 5, 8, 6, 2, 6, 3,4, 5, 8, 7, 8, 2, 7, 7,4, 8, 3, 3, 2, 8! 7, 7,4, 8, 3, 3, 2, 8, 3, 4. 3. 2- 4- 7.
-6, 6- 7. 8,4, 6, 8, 3, 8, 8, 6, 3,4, 6, 3, 6, 7, 3,4, 6, 7, 7, 4, 8, 3, 3, 9, 8, 8,4, 3, 2,4, 5, 7, 6, 7, 8,4, 6, 3,
-5, 5, 2, 6, 9,4, 6, 5, 6, 7, 5,4, 6! 5, 4,5,2,7,2, 2,7,7,4,2, 5, 5, 2, 2,2,4,5,2! 7,2, 2, 7, 7,4,2,5, 5,2, 2, 2,4,
-5, 2,4, 7, 2, 2, 7, 2,4,6, 5, 5,5,2,6, 5,4,6, 5, 6, 7, 5,4! 6, 5, 5, 5, 7! 6, 4, 5, 2, 2,6, 7,4, 2, 5,6, 5, 2,6!
-2,6, 5,4, 5? 5, 7,6, 5, 5, 2,6, 2,6, 5,4, 5, 2, 7,2,2,7,7,4,2,5,9,2, 2,2,4, 5,2,4! 5,6,8,3? 5,5,6,
-5,2,4,6,5,5,5,2! 4. 5.2.4. 5. 5.6. 5! 8,6, 3,9,6, 3,6,6, 3,4,6, 5, 3, 5, 3, 2, 2, 3,3,2,6, 3,4, 2, 5,6, 3, 8, 3,
-2, 6, 3,4, 3? 5, 6, 8, 3? 5, 3, 6, 3, 5, 8, 6, 2, 6, 3,4, 5, 8, 3, 8, 2,3,3,4. 8, 3. 3. 2,8! 3, 3,4,8, 3, 3, 2, 8,
-3,4, 3, 2,4, 7,6,6, 7, 8,4,6, 8, 3, 8,8,6, 3,4,6, 3! 2, 2, 7, 7,4,6, 7,4, 2, 5,6, 3,8, 7, 2,6, 3,4, 3? 5, 7,6, 3,
-5, 8,6, 2,6, 3,4, 5, 8, 7,8, 2, 7, 7,4, 8, 3, 3, 2,8! 7, 7,4, 8, 3, 3, 2,8, 3,4, 3, 2, 4, 7,6,6, 7,8,4,6,8, 3,8,
-8,6, 3,4,6, 3,6, 7, 3,4,6, 7, 7,4, 8, 3, 3,9, 8,8, 4. 3.2,4' 5. 7.6.7.8,4.6 3.5.5 2,6,9,4,6,5,6, 7,5,4,6! 5,
-2,6,2,6,5, 9, 5, 2? 6, 9,6, 2,6, 5,4, 7, 5, 5,4, 5, 2,5,2,6,4,6, 2,4, 5, 2, 7, 2, 2, 7, 7,4, 2, 5, 5, 2,9, 2,4, 5,
-2,6! 4, 2, 2,6, 5,4, 2, 5, 7,4, 5, 2, 5, 2,6, 2,6, 5,4, 5, 2, 7.2, 2,7,7,4, 2,5, 5, 2, 2,2,4,5, 2! 7, 2, 2,
-7,7,4,2, 5, 5,2,2, 2,4,5,2,4, 7. 2, 2, 7, 2,4,6, 5, 5,5,2,6, 5,4,6, 5,6, 7, 5,4! 6, 5, 5, 5, 7! 6,4, 5, 2, 2,6,
-7,4, 2,5,6, 5, 2,6! 2,6, 5,4, 5? 5, 7,6, 5, 5, 2,6, 2,6, 5,4, 5, 2, 7, 2, 2, 7, 7, 4. 2. 5. 9. 2. 2, 2,4, 5, 2,4! 5,
-6, 8, 3? 5, 5, 6, 5, 2,4, 6, 5, 5, 5, 2! 4, 5, 2,4, 5. 5.6 5! 2.5. S. 2,9.2,4.5.2,6! 4,2,2,6,5,4,2! 5,5,6,5,5,
-2,6, 2,6, 3, 4. 5.8. 3 8, 2, 3, 3,4,8, 3, 9, 2, 8, 8,4, 3,2,4, 3, 3,6, 3,8,4,6, 3, 3, 3,8! 4, 3.2.4. 3. 3.6. 3.8,4!
-152
-6, 3, 3, 3, 8,6, 3,9,6, 3,6,6, 3,4,6, 5, 3, 5, 3! 2, 2, 3, 3, 2, 6, 3,4, 2, 5, 6, 3, 8, 3, 2, 6, 3,4, 3? 5, 6, 8, 3?
-5, 3,6, 3, 5, 8, 6, 2, 6, 3, 4.5.8. 3.8. 2, 3, 3.4.8, 3.3.2, 8! 2, 7, 2,4,6, 5, 5, 5, 2,6, 5,4,6, 5,6, 7, 5, 4! 6.
-5. 5, 5. 7! 6,4, 5, 2, 2, 6, 7,4, 2, 5,6, 5, 2, 6! 2,6, 5, 4, 5? 5, 7, 6, 5, 5, 2,6, 2,6, 5,4, 5, 2, 7, 2, 2, 7, 7,4,
-2, 5,9, 2, 2, 2,4, 5,2,4, 5, 5, 6, 5, 2,4,6, 5, 5, 5, 2! 4, 5, 2,4, 5, 5,6, 5! 5, 6, 8, 3? 5, 5, 6, 5, 5, 2,6, 2, 6,
-3, 4, 5, 8, 3, 8,2,3, 3,4,8,3,9,2,8,8,4, 3, 2,4, 3, 3,6, 3,8,4,6,3,3, 3,8! 4, 3, 2,4, 3, 3,6, 3, 8,4, 6, 3! 5,6,
-8, 3? 5,6, 8, 3? 5, 6, 8, 3! 4, 2, 2, 6, 5,4, 2, 5, 7,4, 5, 2, 5, 2,6, 2,6, 5,4, 5, 2, 7, 2, 2, 7,4, 5, 2,4,6, 3,
-5,8,6, 2,6, 3,4, 5, 8, 7, 8, 2, 7. 7.4.8. 3. 3. 2, 8! 7, 7,4, 8, 3, 3, 2, 8, 3,4, 3, 2,4, 7,6,6, 7, 8,4,6,8, 3, 8,
-8,6, 3,4,6, 3,6, 7, 3,4, 6, 7, 7,4, 8, 3, 3,9, 8, 8,4, 3, 2,4, 5, 7,6, 7, 8,4, 6, 3, 5, 5, 2,6,9,4,6, 5,6, 7,
-5,4,6! 5, 2,6, 2,6, 5,9, 5, 2? 6,9,6, 2,6, 5,4, S.6. 5.2,4,6,5,5. 5, 2,7.4.2,5.5,2.2,2,4,5,2! 7,2, 2,7,
-7,4,2,5, 5, 2, 2,2,4,5,2,4, 7, 2, 2,7, 2,4,6, 5, 5,5, 2,6, 5,4,6,5,6, 7, 5,4! 6, 5, 5, 5, 7!'
+what remains? What, I wondered, is the sum of my life? 
 It took me a long time, I don't know how long, minutes, hours, my heart got tired, my finger
 did, I was trying to destroy the wall between me and my life with my finger, one press
 at a time, my quarter ran out, or she hung up, I called again, '4, 7,4, 8, 7, 3, 2, 5, 5,9,9,6, 8?'
 She said, 'Is this a joke?' A joke, it wasn't a joke, what is a joke, was it a joke? She hung up,
 I called again, '8, 4, 4, 7, 4, 7, 6, 6, 8, 2, 5, 6, 5, 3!' She asked, 'Oskar?' That was the first time I
-ever heard his nameÃ¢Â€Â¦I was in Dresden's train station when I lost everything for the
+ever heard his name I was in Dresden's train station when I lost everything for the
 second time, I was writing you a letter that I knew I never would send, sometimes I wrote
 from there, sometimes from here, sometimes from the zoo, I didn't care about anything except
 for the letter I was writing to you, nothing else existed, it was like when I walked to
@@ -10605,10 +10557,10 @@ watcher, father, dishwasher, Vietnam veteran, new mother, avid reader, only chil
 chess player, soccer coach, brother, analyst, maitre d', black belt, CEO, bridge
 partner, architect, plumber, public relations executive, father, artist in residence, urban
 planner, newlywed, investment banker, chef, electrical engineer, new father who had a
-cold that morning and thought about calling in sickÃ¢Â€Â¦and then one day I saw it,
+cold that morning and thought about calling in sick and then one day I saw it,
 Thomas Schell, my first thought was that I had died. 'He leaves behind a wife and son,' I
 thought, my son, I thought, my grandson, I thought and thought and thought, and then I
-stopped thinkingÃ¢Â€Â¦When the plane descended and I saw Manhattan for the first
+stopped thinking When the plane descended and I saw Manhattan for the first
 time in forty years, I didn't know if I was going up or down, the lights were stars, I didn't
 recognize any of the buildings, I told the man, 'To mourn
 try to live,' I declared nothing, I called your mother but I couldn't explain myself, I called
@@ -10634,7 +10586,7 @@ doorman, he said, 'Who's this for?' I wrote, 'Mrs. Schell,' he said, 'There is n
 wrote, 'There is,' he said, 'Believe me, I'd know if there was a Airs. Schell in this building,'
 but I'd heard her voice on the phone, could she have moved and kept the number, how
 would I find her, I needed a phone book. I wrote '3D' and showed it to the doorman. He
-said, 'Ms. Schmidt,' I took back my book and wrote, 'That was her maiden name.'Ã¢Â€Â¦I
+said, 'Ms. Schmidt,' I took back my book and wrote, 'That was her maiden name.' I
 lived in the guest room, she left me meals by the door, I could hear her footsteps and
 sometimes I thought I heard the rim of a glass against the door, was it a glass I once drank
 water from, had it ever touched your lips? I found my daybooks from before I left, they
@@ -10696,7 +10648,7 @@ she stared at our hands between her legs, I felt like I was killing something, s
 belt and unzipped my pants, she reached her hand under my underpants, 'I'm nervous,' I
 said, by smiling, 'It's OK,' she said, 'I'm sorry,' I said, by smiling, 'It's OK,' she said, she
 closed the door behind her, then opened it and asked, 'Did you ever make a sculpture of
-me in your head?'Ã¢Â€Â¦There won't be enough pages in this book for me to tell you
+me in your head?' There won't be enough pages in this book for me to tell you
 what I need to tell you, I could write smaller, I could slice the pages down their; edges to
 make two pages, I could write over my own writing, but then what? Every afternoon
 someone would come to the apartment, I could hear the door opening, and the footsteps,
@@ -10750,7 +10702,7 @@ in his voice, in my voice, in your voice, I needed to talk to him, but what did 
 I'm your grandfather, I love you, I'm sorry? Maybe I needed to tell him the things I couldn't
 tell you, give him all the letters that were supposed to be for your eyes. But she would
 never give me her permission, and I wouldn't betray her, so I started to think about other
-waysÃ¢Â€Â¦What am I going to do, I need more room, I have things I need to say, my
+ways What am I going to do, I need more room, I have things I need to say, my
 words are pushing at the walls of the paper's edge, the next day, your mother came to the
 guest room and posed for me, I worked the clay with YES and NO, I made it soft, I pressed
 my thumbs into her cheeks, bringing her nose forward, leaving my thumbprints, I carved
@@ -10800,7 +10752,7 @@ you he was your son, how did you know?'
 'I knew because he was my son.' She put her hand on my chest, over my heart, I put my
 hands on her thighs, I put my hands around her, she undid my pants, 'I'm nervous,' despite
 everything I wanted, the sculpture was looking more and more like Anna, she closed
-the door behind her, I'm running out of roomÃ¢Â€Â¦I spent most of my days walking
+the door behind her, I'm running out of room I spent most of my days walking
 around the city, getting to know it again, I went to the old Columbian Bakery but it wasn't
 there anymore, in its place was a ninety-nine-cent store where everything cost more than
 ninety-nine, cents. I went by the tailor shop where I used to get my pants taken in, but
@@ -10854,7 +10806,7 @@ go of books, I went up to him. 'I don't speak,' I wrote, 'I'm sorry.' He wrapped
 arms around me and squeezed, I could feel his heart beating against my heart, they were
 trying to beat in unison, without saying a word he turned around and rushed away from
 me, out of the store, into the street, I'm almost sure it wasn't him, I want an infinitely long
-blank book and the rest of timeÃ¢Â€Â¦The next day, Oskar and the old man went to the
+blank book and the rest of time The next day, Oskar and the old man went to the
 Empire State Building, I waited for them on the street. I kept looking up, trying to see him,
 my neck was burning, was he looking down at me, were we sharing something without
 either of us knowing it? After an hour, the elevator doors opened and the old man came
@@ -10863,7 +10815,7 @@ out, was he going to leave Oskar up there, so high up, so alone, who would keep 
 I hated him. I started to write something, he came up to me and grabbed me by the collar.
 'Listen,' he said, 'I don't know who you are, but I've seen you following us, and I don't like
 it. Not a bit. This is the only time I'm going to tell you to stay away.' My book had fallen to
-the floor, so I couldn't say anything. 'If I ever see you again, anywhere near that boy – ' I
+the floor, so I couldn't say anything. 'If I ever see you again, anywhere near that boy ' I
 pointed at the floor, he let go of my collar, I picked up the book and wrote, 'I'm Oskar's
 grandfather. I don't speak. I'm sorry.'
 'His grandfather?' I flipped back and pointed at what I'd been writing, 'Where is he?'
@@ -10882,7 +10834,7 @@ home, the apartment was empty. I thought about packing my bags, I thought about 
 out a window, I sat on the bed and thought, I thought about you. What kind of food
 did you like, what was your favorite song, who was the first girl you kissed, and where,
 and how, I'm running out of room, I want an infinitely long blank book and forever, I
-don't Ã‚Â know how much time passed, it didn't matter, I'd lost all of my reasons to keep
+don't, know how much time passed, it didn't matter, I'd lost all of my reasons to keep
 track. Someone rang the bell, I didn't get up, I didn't care who it was, I wanted to be alone,
 on the other side of the window. I heard the door open and I heard his voice, my reason,
 'Grandma?' He was in the apartment, it was just the two of us, grandfather and grandson.
@@ -10926,7 +10878,7 @@ SORRY
 HEAR ME
 MUCH
 HAPPENS,
-REMEMBER –
+REMEMBER
 The message was cut off, you sounded so calm, you didn't sound like someone who was
 about to die, I wish we could have sat across a table and talked about nothing for hours, I
 wish we could have wasted time, I want an infinitely blank book and the rest of time. I
@@ -11007,7 +10959,7 @@ pouch of my overalls.
 But then, even though I'd gotten what I wanted, I went to the S drawer. Antonin Scalia, G.
 L. Scarborough, Lord Leslie George Scarman, Maurice Sceve, Anne Wilson Schaef, Jack
 Warner Schaefer, Iris Scharmel, Robert Haven Schauffler, Barry Scheck, Johann Schemer,
-Jean de SchelandreÃ¢Â€Â¦And then I saw it: Schell.
+Jean de Schelandre And then I saw it: Schell.
 At first I was relieved, because I felt like everything I'd done had been worth it, because I'd
 made Dad into a Great Man who was bio-graphically significant and would be remembered.
 But then I examined the card, and I saw that it wasn't Dad.
@@ -11082,7 +11034,7 @@ on the old phone.
 Message one. Saturday, 11:52 A.M.
 Hi, this is a message for Oskar Schell. Oskar, this is Abby Black. You were just over
 at my apartment asking about the key. I wasn't completely honest with you, and I
-think I might be able to help. Please give –
+think I might be able to help. Please give
 And then the message was cut off.
 Abby was the second Black I had gone to, eight months before. She lived in the narrowest
 house in New York. I told her she was pretty. She cracked up. I told her she was pretty.
@@ -11262,7 +11214,7 @@ don't know any Schells.'
  have.'
 I told him, 'I found a little envelope that had your name on it, and I thought maybe it was
 your wife, who I know is now your ex-wife, but she said she didn't know what it was, and
-your name is William, and I wasn't anywhere near the Ws yet – '
+your name is William, and I wasn't anywhere near the Ws yet '
 'My wife?'
 'I went and talked to her.'
 'Talked to her where?'
@@ -11349,7 +11301,7 @@ hear about death. It was all anyone talked about, even when no one was actually 
 about it. 'I needed to figure out what to do with all of his things. Books, furniture, clothes.'
 'Didn't you want to keep them?'
 'I didn't want any of it.' I thought that was weird, because Dad's things were all I wanted.
-'So to make a long story short – '
+'So to make a long story short '
 'You don't have to make a long story short.'
 'I had an estate sale. I shouldn't have been there. I should have hired someone to take care
 of it. Or I should have given it all away. Instead I was in the position of telling people that
@@ -11376,7 +11328,7 @@ Ten pages. I only barely knew him. We hadn't talked in fifty years. It was the m
 letter I'd ever read.' I asked him if I could see it. He said, 'I don't think it was meant to
 be shared.' I told him it would mean a lot to me. He said, 'He mentions you in it.' I told
 him I understood.
-'I looked through my father's Rolodex – '
+'I looked through my father's Rolodex '
 'What's that?'
 'Phone book. I called every name. His cousins, his business partners, people I'd never
 heard of. He'd written to everyone. Every single person. Some let me see their letters. Others
@@ -11400,12 +11352,12 @@ didn't want to do.'
 'Why not?'
 'It was too painful.'
 'I would have been extremely curious.'
-'My wife – my ex-wife – said I was being crazy not to read it.'
+'My wife my ex-wife said I was being crazy not to read it.'
 'That wasn't very understanding of her.'
 'She was right, though. It was crazy. It was unreasonable. I was being childish.'
 'Yeah, but you were his child.'
 173
-'But I was his child. That's right. I'm babbling. To make a long story short – '
+'But I was his child. That's right. I'm babbling. To make a long story short '
 'Don't make it short,' I said, because even though I wanted him to tell me about my dad
 instead of his, I also wanted to make the story as long as I could, because I was afraid of its
 end. He said, 'I read it. Maybe I was expecting something confessional. I don't know.
@@ -11470,7 +11422,7 @@ night out.'
 The tuxedo
 .
 'What else did he say?'
-'What else did he sayÃ¢Â€Â¦'
+'What else did he say'
 'Anything.'
 'He had a great laugh. I remember that. It was good of him to laugh, and to make me
 laugh. He was laughing for my sake.'
@@ -11503,7 +11455,7 @@ about him, not even his name. For a few weeks I'd go over to the neighborhood on
 way home from work, even though it wasn't on my way. It was an hour out of my way. I'd
 walk around looking for him. I put up a few signs when I realized what had happened: 'To
 the man who bought the vase at the estate sale on Seventy-fifth Street this weekend, please
-contactÃ¢Â€Â¦' But this was the week after September 11. There were posters everywhere.'
+contact' But this was the week after September 11. There were posters everywhere.'
 
 'My mom put up posters of him.'
 'What do you mean?'
@@ -11512,7 +11464,7 @@ contactÃ¢Â€Â¦' But this was the week after September 11. There were poste
 'It's OK.'
 'I don't know what to say.'
 'You don't have to say anything.'
-'I didn't see the posters. If I hadÃ¢Â€Â¦Well, I don't know what if I had.'
+'I didn't see the posters. If I had Well, I don't know what if I had.'
 'You would have been able to find us.'
 'I guess that's right.'
 'I wonder if your posters and my mom's posters were ever close to each other.'
@@ -11811,8 +11763,8 @@ You know?
 Of course I know.
 He flipped back to, Why didn't you say anything?
 Why didn't you?
-The alphabet went z, y, x, wÃ¢Â€Â¦
-The clocks went tock-tick, tock-tickÃ¢Â€Â¦
+The alphabet went z, y, x,
+The clocks went tock-tick, tock-tick
 He wrote, I was with him last night. That's where I was. I buried the letters.
 What letters?
 The letters I never sent.
@@ -12427,8 +12379,8 @@ room, although blessedly out of the
 sunshine, was only modestly cooler. The
 room surprised me: I'd pictured plush
 carpet, wood-paneled walls, Victorian
-furniture. Aside from one luxury — a
-private bathroom — I got a box.
+furniture. Aside from one luxury a
+private bathroom I got a box.
 With cinder-block walls coated thick
 with layers of white paint and a greenand-white-checkered
 linoleum floor, the
@@ -12491,8 +12443,8 @@ Sunday." Our rooms had no phone lines,
 but my parents had requested I be placed
 in a room near one of Culver Creek's
 five pay phones.
-They hugged me again — Mom, then
-Dad — and it was over. Out the back
+They hugged me again Mom, then
+Dad and it was over. Out the back
 window, I watched them drive the
 winding road off campus. I should have
 felt a gooey, sentimental sadness,
@@ -12529,10 +12481,10 @@ again with the baptism and weeping and
 all that, but it couldn't feel much better
 than being born again as a guy with no
 known past. I thought of the people I'd
-read about — JohnF.
+read about JohnF.
 Kennedy, James Joyce, Humphrey
-Bogart — who went to boarding school,
-and their adventures — Kennedy, for
+Bogart who went to boarding school,
+and their adventures Kennedy, for
 example, loved pranks. I thought of the
 Great Perhaps and the things that might
 happen and the people I might meet and
@@ -12574,7 +12526,7 @@ Unfortunately, the shower seemed to
 have been designed for someone
 approximately three feet, seven inches
 tall, so the cold water hit my lower rib
-cage — with all the force of a dripping
+cage with all the force of a dripping
 faucet. To wet my sweat-soaked face, I
 had to spread my legs and squat
 significantly. Surely, John F. Kennedy
@@ -12663,7 +12615,7 @@ grow. Where are you from, by the way?"
 "That's pretty amazing, the countries
 thing," I said.
 "Yeah, everybody's got a talent. I can
-memorize things. And you can…?"
+memorize things. And you can ?"
 "Urn, I know a lot of people's last
 words." It was an indulgence, learning
 last words. Other people had chocolate;
@@ -12679,7 +12631,7 @@ Chip.
 "Right, well, he'd been sick for a
 while and his nurse said to him, 'You
 seem to be feeling better this morning/
-and Ibsen looked at her and said, Òn the
+and Ibsen looked at her and said, On the
 contrary,' and then he died."
 Chip laughed. "That's morbid. But I
 like it."
@@ -12701,7 +12653,7 @@ year. He liked "the Creek," as he called
 it, but "You have to be careful here, with
 students and with teachers. And I do hate
 being careful." He smirked. I hated being
-careful, too — or wanted to, at least.
+careful, too or wanted to, at least.
 He told me this while ripping
 through his duffel bag, throwing clothes
 into drawers with reckless abandon.
@@ -12749,9 +12701,9 @@ up my PlayStation 2 on top of his
 footlocker. "I know the leather's got
 some cracks, but come on. That's a damn
 nice couch." The leather had more than a
-few cracks — it was about 30 percent
+few cracks it was about 30 percent
 baby blue faux leather and 70 percent
-foam — but it felt damn good to me
+foam but it felt damn good to me
 anyway.
 "All right," he said. "We're about
 done." He walked over to his desk and
@@ -12789,7 +12741,7 @@ hot shit at public school so you'll be hot
 shit here, you'd best not be seen with me.
 You did go to public school, didn't
 you?"
-"Uh…" I said. Absentmindedly, I
+"Uh " I said. Absentmindedly, I
 began picking at the cracks in the couch's
 leather, digging my fingers into the
 foamy whiteness.
@@ -12805,7 +12757,7 @@ shit."
 Chip. Call me the Colonel."
 I stifled a laugh. "The Colonel?"
 "Yeah. The Colonel. And we'll call
-you…hmm. Pudge."
+you hmm. Pudge."
 "Huh?"
 "Pudge," the Colonel said. "Because
 you're skinny. It's called irony, Pudge.
@@ -12844,8 +12796,8 @@ and fast.
 "So first day of summer, I'm in grand
 old Vine Station with this boy named
 Justin and we're at his house watching
-TV on the couch — and mind you, I'm
-already dating Jake — actually I'm still
+TV on the couch and mind you, I'm
+already dating Jake actually I'm still
 dating him, miraculously enough, but
 Justin is a friend of mine from when I
 was a kid and so we're watching TV and
@@ -12914,7 +12866,7 @@ Adirondack swing. I made the obligatory
 joke: "Don't grab my boob." The
 Colonel gave an obligatory laugh, then
 asked, "Want a smoke?" I had never
-smoked a cigarette, but when in Rome…
+smoked a cigarette, but when in Rome 
 "Is it safe here?"
 "Not really," he said, then lit a
 cigarette and handed it to me. I inhaled.
@@ -13070,7 +13022,7 @@ her silhouette except for when she
 smoked, when the burning cherry of the
 cigarette washed her face in pale red
 light. But even in the dark, I could see
-her eyes — fierce emeralds. She had the
+her eyes fierce emeralds. She had the
 kind of eyes that predisposed you to
 supporting her every endeavor. And not
 just beautiful, but hot, too, with her
@@ -13095,7 +13047,7 @@ Her mouth close enough to me that I
 could feel her breath warmer than the
 air, she said, "That's the mystery, isn't it?
 Is the labyrinth living or dying? Which is
-he trying to escape — the world or the
+he trying to escape the world or the
 end of it?" I waited for her to keep
 talking, but after a while it became
 obvious she wanted an answer.
@@ -13134,11 +13086,11 @@ non-Week day Warrior named Janice.
 He dumped her after a month because
 she was too rich for his poverty-soaked
 blood, but whatever. We pulled our first
-prank that year — we filled Classroom 4
+prank that year we filled Classroom 4
 with a thin layer of marbles. We've
 progressed some since then, of course."
 She laughed. So Chip became the
-Colonel — the military-style planner of
+Colonel the military-style planner of
 their pranks, and Alaska was ever
 Alaska, the larger-than-life creative
 force behind them.
@@ -13186,7 +13138,7 @@ fielding my endless questions about
 Alaska.
 What's her story? "She's from Vine
 Station. You could drive past it without
-noticing — and from what I understand,
+noticing and from what I understand,
 you ought to. Her boyfriend's at
 Vanderbilt on scholarship. Plays bass in
 some band. Don't know much about her
@@ -13260,11 +13212,11 @@ beany crunch.
 "God," Takumi said to me, "there's
 nothing like watching a man eat his first
 bufriedo."
-I didn't say much — partly because
+I didn't say much partly because
 no one asked me any questions and
 partly because I just wanted to eat as
 much as I could. But Takumi felt no such
-modesty — he could, and did, eat and
+modesty he could, and did, eat and
 chew and swallow while talking.
 The lunch discussion centered on the
 girl who was supposed to have been
@@ -13273,7 +13225,7 @@ boyfriend, Paul, who had been a
 Weekday Warrior. They'd gotten kicked
 out in the last week of the previous
 school year, I learned, for what the
-Colonel called "the Trifecta" — they
+Colonel called "the Trifecta" they
 were caught committing three of Culver
 Creek's expellable offenses at once.
 Lying naked in bed together ("genital
@@ -13282,7 +13234,7 @@ drunk (#2), they were smoking a joint
 (#3) when the Eagle burst in on them.
 Rumors had it that someone had ratted
 them out, and Takumi seemed intent on
-finding out who — intent enough,
+finding out who intent enough,
 anyway, to shout about it with his mouth
 jam-packed with bufriedo.
 "Paul was an asshole," the Colonel
@@ -13302,7 +13254,7 @@ Colonel laughed again, and I wondered
 why he wouldn't stand up for his
 girlfriend. I wouldn't have cared if my
 girlfriend was a Jaguar-driving Cyclops
-with a beard — I'd have been grateful
+with a beard I'd have been grateful
 just to have someone to make out with.
 That evening, when the Colonel
 dropped by Room 43 to pick up the
@@ -13312,7 +13264,7 @@ didn't really care when he didn't invite
 me out with him. In public school, I'd
 known plenty of people who made it a
 habit to hate this kind of person or that
-kind — the geeks hated the preps, etc. —
+kind the geeks hated the preps, etc. 
 and it always seemed like a big waste of
 time to me. The Colonel didn't tell me
 where he'd spent the afternoon, or where
@@ -13325,7 +13277,7 @@ The Final Days, a book about Richard
 Nixon and Watergate. For dinner, I
 microwaved a refrigerated bufriedo the
 Colonel had snuck out of the cafeteria. It
-reminded me of nights in Florida —
+reminded me of nights in Florida 
 except with better food and no airconditioning.
 Lying in bed and reading
 felt pleasantly familiar.
@@ -13388,8 +13340,8 @@ again, but I knew that neither fight nor
 flight had ever worked for me before.
 They took me a roundabout way to the
 fake beach, andthen I knew what would
-happen — a good, old-fashioned
-dunking in the lake — and I calmed
+happen a good, old-fashioned
+dunking in the lake and I calmed
 down. I could handle that.
 When we reached the beach, they
 told me to put my arms at my sides, and
@@ -13401,7 +13353,7 @@ shoulder to my wrists. Then they threw
 me down on the ground; the sand from
 the fake beach cushioned the landing, but
 I still hit my head. Two of them pulled
-my legs together while the other one —
+my legs together while the other one 
 Kevin, I'd figured output his angular,
 strong-jawed face up so close to mine
 that the gel-soaked spikes of hair
@@ -13418,7 +13370,7 @@ Sinking. Sinking, but instead of
 feeling panic or anything else, I realized
 that "Please guys, don't" were terrible
 last words. But then the great miracle of
-the human species — our buoyancy —
+the human species our buoyancy 
 came through, and as I felt myself
 floating toward the surface, I twisted and
 turned as best I could so that the warm
@@ -13435,8 +13387,8 @@ to die, "facedown in soaking-wet white
 boxers" is pretty high up there. So
 instead I rolled my eyes and craned my
 neck back, my eyes almost underwater,
-until I saw that the shore — not ten feet
-away — was directly behind my head. I
+until I saw that the shore not ten feet
+away was directly behind my head. I
 began to swim, an armless silver
 mermaid, using only my hips to generate
 motion, until finally my ass scraped
@@ -13456,7 +13408,7 @@ against my chest and rip the tape off.
 I wrapped myself in the sandy towel.
 I didn't want to go back to my room and
 see Chip, because I had no idea what
-Kevin had meant — maybe if I went
+Kevin had meant maybe if I went
 back to the room, they'd be waiting for
 me and they'd get me for real; maybe I
 needed to show them, "Okay. Got your
@@ -13575,8 +13527,8 @@ I went to bed wearing a T-shirt,
 shorts, and socks. No matter how
 miserably hot it got, I resolved, I would
 sleep in my clothes every night at the
-Creek, feeling — probably for the first
-time in my life — the fear and
+Creek, feeling probably for the first
+time in my life the fear and
 excitement of living in a place where
 you never know what's going to happen
 or when.
@@ -13599,8 +13551,8 @@ face.
 "I've got to hand it to them," he said
 finally. "That was pretty clever."
 "What?" I asked.
-"Last night — before they woke you
-up, I guess — they pissed in my shoes."
+"Last night before they woke you
+up, I guess they pissed in my shoes."
 "Are you sure?" I said, trying not to
 laugh.
 "Do you care to smell?" he asked,
@@ -13645,13 +13597,13 @@ sat directly across from me in the circle
 of desks, but she didn't look at me once
 the entire class, even though I could
 notice little but her. Maybe she could be
-mean…but the way she talked that first
-night about getting out of the labyrinth —
+mean but the way she talked that first
+night about getting out of the labyrinth 
 so smart. And the way her mouth curled
 up on the right side all the time, like she
 was preparing to smirk, like she'd
 mastered the right half of the Mona
-Lisa's inimitable smile…
+Lisa's inimitable smile 
 From my room, the student
 population seemed manageable, but it
 overwhelmed me in the classroom area,
@@ -13698,7 +13650,7 @@ Takumi just shook his head. "Yeah,
 well, she didn't know the whole story.
 And people are moody, dude. You gotta
 get used to living with people. You
-could have worse friends than—" The
+could have worse friends than" The
 Colonel cut him off. "Enough with the
 psychobabble, MC Dr. Phil. Let's talk
 counterinsurgency." People were starting
@@ -13709,7 +13661,7 @@ Just, here, just put X's where they're
 sitting," and he ripped a sheet of paper
 out of his notebook and drew a square
 for each desk. As people filed in, I saw
-one of them — the tall one with
+one of them the tall one with
 immaculately spiky hairKevin. Kevin
 stared down the Colonel as he walked
 past, but in trying to stare, he forgot to
@@ -13790,7 +13742,7 @@ one, in the same way that historical
 events are important whether or not you
 personally lived through them. And then
 he assigned us fifty pages of reading for
-the next day — from a book called
+the next day from a book called
 Religious Studies.
 That afternoon, I had two classes and
 two free periods. We had nine fiftyminute
@@ -13842,8 +13794,8 @@ wearing much last night." I just glared at
 her.
 "C'mon, Pudge. I'm teasing. You
 have to be tough here. I didn't know how
-bad it was — and I'm sorry, and they'll
-regret it — but you have to be tough."
+bad it was and I'm sorry, and they'll
+regret it but you have to be tough."
 And then she left. That was all she had
 to say on the subject. She's cute, I
 thought, but you don't need to like a girl
@@ -13865,7 +13817,7 @@ with such vigor that his breathing nearly
 duplicated Dr. Hyde's.
 "I have a date," he explained. "This
 is an emergency." He paused to catch his
-breath. "Do you know" — breath—"how
+breath. "Do you know" breath"how
 to iron?"
 I walked over to the pink shirt. It
 was wrinkled like an old woman who'd
@@ -13924,7 +13876,7 @@ Sara looked awfully nice in her blue
 summer dress. Her long, pale blond hair
 was pulled up into a twist, with a strand
 of hair falling down each side of her
-face. She looked like a movie star — a
+face. She looked like a movie star a
 bitchy one.
 "Look, I did my best. We don't all
 have maids to do our ironing."
@@ -13950,8 +13902,8 @@ with you," the Colonel said.
 "Fine. Have a great night." Sara
 slammed the door so hard that a sizable
 biography of Leo Tolstoy (last words:
-"The truth is…I care a great deal…what
-they…") fell off my bookshelf and
+"The truth is I care a great deal what
+they ") fell off my bookshelf and
 landed with a thud on our checkered
 floor like an echo of the slamming door.
 "AHHHHH!!!!!!!!!!!"he screamed.
@@ -14002,7 +13954,7 @@ On both sides of the phone, dozens
 of phone numbers and esoteric notes
 were written in pen and marker
 (205.555.1584; Tommy to airport
-4:20;773.573.6521; JG — Kuf s?).
+4:20;773.573.6521; JG Kuf s?).
 Calling the pay phone required a great
 deal of patience. I picked up on about
 the ninth ring.
@@ -14039,7 +13991,7 @@ having committed the Trifecta.
 her?" I asked.
 "Nine months. We never got along. I
 mean, I didn't even briefly like her. Like,
-my mom and my dad — my dad would
+my mom and my dad my dad would
 get pissed, and then he would beat the
 shit out of my mom. And then my dad
 would be all nice, and they'd have like a
@@ -14063,7 +14015,7 @@ and Marya and then blamed me to cover
 their tracks. Anyway, it's a good night
 for staying in. Staying in with Pudge and
 ambrosia."
-"I still—" I said, wanting to say that
+"I still" I said, wanting to say that
 I didn't understand how you could kiss
 someone who believed you were a rat if
 being a rat was the worst thing in the
@@ -14102,7 +14054,7 @@ clothe the hill, and just as I would never
 think to notice a particular cotton thread
 in the magnificently tight orange tank top
 Alaska wore that day, I couldn't see the
-trees for the forest — everything so
+trees for the forest everything so
 intricately woven together that it made
 no sense to think of one tree as
 independent from that hill. And then I
@@ -14124,7 +14076,7 @@ or writing notes to one another.
 "Urn, I was just looking outside at
 the, uh, at the hill and thinking about, um,
 the trees and the forest, like you were
-saying earlier, about the way—" The
+saying earlier, about the way" The
 Old Man, who obviously did not tolerate
 vocalized rambling, cut me off. "I'm
 going to ask you to leave class, Mr.
@@ -14198,7 +14150,7 @@ is a plain fact of human physiology that it
 becomes impossible to join in her clover
 search. I'd gotten in enough trouble
 already for looking where I wasn't
-supposed to, but still…
+supposed to, but still 
 After perhaps two minutes of
 combing through a clover patch with her
 long, dirty fingernails, Alaska grabbed a
@@ -14250,16 +14202,16 @@ fall: Their
 still-green leaves were beginning to
 droop.
 We came to a rickety wooden bridge
-— just thick plywood laid over a
-concrete foundation — over Culver
+just thick plywood laid over a
+concrete foundation over Culver
 Creek, the winding rivulet that doubled
 back over and over again through the
 outskirts of campus. On the far side of
 the bridge, there was a tiny path leading
 down a steep slope. Not even a path so
-much as a series of hints — a broken
+much as a series of hints a broken
 branch here, a patch of stomped-down
-grass there — that people had come this
+grass there that people had come this
 way before. As we walked down single
 file, Alaska, the Colonel, and Takumi
 each held back a thick maple branch for
@@ -14319,7 +14271,7 @@ people's problems and get some of your
 own." Takumi started up again, but
 Alaska raised her hand as if to swat the
 conversation away.
-I said nothing — I hadn't known
+I said nothing I hadn't known
 Marya, and anyway, "listening quietly"
 was my general social strategy.
 "Anyway," Alaska said to me. "I
@@ -14393,7 +14345,7 @@ Dinner in the cafeteria the next night
 was meat loaf, one of the rare dishes that
 didn't arrive deep-fried, and, perhaps as
 a result, meat loaf was Maureen's
-greatest failure — a stringy, gravy-
+greatest failure a stringy, gravy-
 soaked concoction that did not much
 resemble a loaf and did not much taste
 like meat. Although I'd never ridden in
@@ -14404,10 +14356,10 @@ any money, and I didn't have much
 either, what with constantly paying for
 his extravagant cigarette habit.
 So instead the Colonel and I
-reheated two-day-old bufriedos —
+reheated two-day-old bufriedos 
 unlike, say, french fries, a microwaved
 bufriedo lost nothing of its taste or its
-satisfying crunch — after which the
+satisfying crunch after which the
 Colonel insisted on attending the Creek's
 first basketball game of the season.
 "Basketball in the fall?" I asked the
@@ -14427,11 +14379,11 @@ hated people who played them, and I
 hated people who watched them, and I
 hated people who didn't hate people
 who watched or played them. In third
-grade — the very last year that one
-could play T-ball — my mother wanted
+grade the very last year that one
+could play T-ball my mother wanted
 me to make friends, so she forced me
 onto the Orlando Pirates. I made friends
-all right — with a bunch of
+all right with a bunch of
 kindergartners, which didn't really
 bolster my social standing with my
 peers.
@@ -14503,7 +14455,7 @@ and so we usually came out of the season
 with a single victory.
 When we arrived, the gym was
 packed with most every Culver Creek
-student — I noticed, for instance, the
+student I noticed, for instance, the
 Creek's three goth girls reapplying their
 eyeliner as they sat on the top row of the
 gym's bleachers. I'd never attended a
@@ -14807,7 +14759,7 @@ MTV on a drearily cloudy Saturday.
 Furnished with couches left behind by
 previous generations of Culver Creek
 students, the TV room had the musty air
-of dust and mildew — and, perhaps for
+of dust and mildew and, perhaps for
 that reason, was almost perennially
 unoccupied. Alaska took a sip of
 Mountain Dew and grabbed my hand in
@@ -14905,9 +14857,9 @@ you going, but you never do it. You just
 use the future to escape the present."
 I guess that made sense. I had
 imagined that life at the Creek would be
-a bit more exciting than it was — in
+a bit more exciting than it was in
 reality, there'd been more homework
-than adventure — but if I hadn't
+than adventure but if I hadn't
 imagined it, I would never have gotten to
 the Creek at all.
 She turned back to the TV, a
@@ -15021,7 +14973,7 @@ right to overturn the Jury's verdict (just
 like in the real American court system),
 but he almost never did.
 I made my way to Classroom 4 right
-after my last class — forty minutes
+after my last class forty minutes
 early, just to be safe. I sat in the hall
 with my back against the wall and read
 my American history textbook (kind of
@@ -15034,7 +14986,7 @@ nervous.
 don't talk," she told me.
 "You don't need to be nervous. But
 this is the seventh time I've been caught
-smoking. I just don't want — whatever.
+smoking. I just don't want whatever.
 I don't want to upset my dad."
 "Does your mom smoke or
 something?" I asked.
@@ -15061,9 +15013,9 @@ I heard Alaska sigh. "The Colonel's
 doing his Napoleon walk."
 "It's all good," the Colonel told me.
 "Just don't say anything."
-We walked in— two of us wearing
+We walked intwo of us wearing
 ties, and two of us wearing ratty T-shirts
-— and the Eagle banged an honest-toGod
+and the Eagle banged an honest-toGod
 gavel against the podium in front of
 him. The Jury sat in a line behind a
 rectangular table. At the front of the
@@ -15108,8 +15060,8 @@ After a couple minutes, the Eagle
 came out and motioned for us to come
 back inside.
 "Alaska and Chip," a member of the
-Jury said, "you get ten work hours —
-doing dishes in the cafeteria — and
+Jury said, "you get ten work hours 
+doing dishes in the cafeteria and
 you're both officially one problem away
 from a phone call home. Takumi and
 Miles, there's nothing in the rules about
@@ -15132,7 +15084,7 @@ after dark with the door closed, and 2.
 smoking a cigarette as she sat on the
 mostly foam couch. She had stuffed a
 towel into the bottom of our door and
-insisted it was safe, but I worried —
+insisted it was safe, but I worried 
 about the cigarette and the "girlfriend."
 "All I have to do now," she said, "is
 convince you to like her and convince
@@ -15215,10 +15167,10 @@ make."
 eighty-seven days
 before
 Our triple-and-a-half date started off
-well enough. I was in Alaska's room —
+well enough. I was in Alaska's room 
 for the sake of getting me a girlfriend,
 she'd agreed to iron a green button-down
-shirt for me — when Jake showed up.
+shirt for me when Jake showed up.
 With blond hair to his shoulders, dark
 stubble on his cheeks, and the kind of
 faux-ruggedness that gets you a career as
@@ -15299,8 +15251,8 @@ tried to remember I was ostensibly on a
 date with someone else.
 Harsden Academy's star player was
 a six-foot-seven Goliath named Travis
-Eastman that everyone — even his
-mother, I suspect — called the Beast.
+Eastman that everyone even his
+mother, I suspect called the Beast.
 The first time the Beast got to the freethrow
 line, the Colonel could not keep
 himself from swearing while he taunted:
@@ -15318,13 +15270,13 @@ margin of twenty-four points and the
 Beast at the foul line, the Colonel looked
 at Takumi and said, "It's time." Takumi
 and the Colonel stood up as the crowd
-went, "Shhh…"
+went, "Shhh "
 "I don't know if this is the best time
 to tell you this," the Colonel shouted at
 the Beast, "but Takumi here hooked up
 with your girlfriend just before the
 game."
-That made everyone laugh — except
+That made everyone laugh except
 the Beast, who turned from the free
 throw line and walked calmly, with the
 ball, toward us.
@@ -15380,11 +15332,11 @@ And then I leaned forward and threw
 up onto Lara's pants. I can't say why I
 didn't lean backward or to the side. I
 leaned forward and aimed my mouth
-toward her jeans — a nice, buttflattering
+toward her jeans a nice, buttflattering
 pair of jeans, the kind of pants
 a girl wears when she wants to look nice
 but not look like she is trying to look
-nice — and I threw up all over them.
+nice and I threw up all over them.
 Mostly peanut butter, but also clearly
 some corn.
 "Oh!" she said, surprised and
@@ -15399,8 +15351,8 @@ mild concussion," I recited. While
 Takumi went to get the Eagle and Lara
 changed pants, I lay on the concrete
 sidewalk. The Eagle came back with the
-school nurse, who diagnosed me with —
-get this — a concussion, and then
+school nurse, who diagnosed me with 
+get this a concussion, and then
 Takumi drove me to the hospital with
 Lara riding shotgun. Apparently I lay in
 the back and slowly repeated the words
@@ -15608,7 +15560,7 @@ where, why, or what."
 right now. All right, I should go." She
 pursed her lips and exhaled slowly, like
 the way the Colonel blew out smoke.
-"What—"Then I stopped myself and
+"What"Then I stopped myself and
 reworded. "Did I do something?" I
 asked.
 She gathered her tray and stood up
@@ -15617,7 +15569,7 @@ sweetie."
 Her "sweetie" felt condescending,
 not romantic, like a boy enduring his
 first biblical rainstorm couldn't possibly
-understand her problems — whatever
+understand her problems whatever
 they were. It took a sincere effort not to
 roll my eyes at her, though she wouldn't
 have even noticed as she walked out of
@@ -15648,7 +15600,7 @@ have some rain. So prepare yourselves."
 He stood in front of his chair, leaned
 back cautiously, grabbed it with both
 hands, and collapsed into the chair with
-a series of quick, shallow breaths —
+a series of quick, shallow breaths 
 like a woman in labor.
 "Although it isn't due for more than
 two months, you'll be receiving your
@@ -15677,9 +15629,9 @@ words Filius Dei. The Son of God.
 time in which gods had sons. It was not
 so unusual to be a son of God. The
 miracle, at least in that time and in that
-place, was that Jesus — a peasant, a
+place, was that Jesus a peasant, a
 Jew, a nobody in an empire ruled
-exclusively by somebodies — was the
+exclusively by somebodies was the
 son of that God, the all-powerful God of
 Abraham and Moses. That God's son
 was not an emperor. Not even a trained
@@ -15693,7 +15645,7 @@ ultimate nobility: King of Kings. Class
 over. You can pick up a copy of your
 final exam on the way out. Stay dry." It
 wasn't until I stood up to leave that I
-noticed Alaska had skipped class —
+noticed Alaska had skipped class 
 how could she skip the only class worth
 attending? I grabbed a copy of the final
 for her.
@@ -15709,8 +15661,8 @@ said as we jogged home through the rain,
 class. What's your most important
 question?"
 After thirty seconds of running, I was
-already winded. "What happens…to
-us…when we die?"
+already winded. "What happens to
+us when we die?"
 "Christ, Pudge, if you don't stop
 running, you're going to find out." He
 slowed to a walk. "My question is: Why
@@ -15756,7 +15708,7 @@ crunchier.
 I stayed by the classrooms that
 afternoon, lying on my stomach in the
 newly dry grass and reading for
-American history — the Civil War, or as
+American history the Civil War, or as
 it was known around these parts, the
 War Between the States. To me, it was
 the war that spawned a thousand good
@@ -15797,10 +15749,10 @@ the library. So if they have a reason to
 try and one-up her, they'll try. And that's
 pretty ingenious, to divert water from the
 gutter to her room. I mean, I don't want
-to admire it…"
+to admire it "
 I laughed. "Yeah. That will be tough
 to top." I unwrapped the cream pie and
-bit into it. Mmm…hundreds of delicious
+bit into it. Mmm hundreds of delicious
 calories per bite.
 "She'll think of something," he said.
 "Pudge," he said. "Hmm. Pudge, you
@@ -15834,8 +15786,8 @@ told me at least part of the truth, that
 right at the end of school last year, she
 tried to sneak off campus one night after
 lights-out to go visit Jake and then got
-busted. She said she was careful — no
-headlights or anything — but the Eagle
+busted. She said she was careful no
+headlights or anything but the Eagle
 caught her, and she had a bottle of wine
 in her car, so she was fucked. And the
 Eagle took her into his house and gave
@@ -15856,12 +15808,12 @@ boys. I didn't believe it could be Alaska,
 either, until I figured out that she was the
 only person on campus who could've
 known what Marya was doing. I
-suspected Paul's roommate, Longwell —
+suspected Paul's roommate, Longwell 
 one of the guys who pulled the armlessmermaid
 bit on you. Turns out he was at
 home that night. His aunt had died. I
 checked the obit in the paper. Hollis
-Burnis Chase — hell of a name for a
+Burnis Chase hell of a name for a
 woman."
 "So the Colonel doesn't know?" I
 asked, stunned. I put out my cigarette,
@@ -15914,7 +15866,7 @@ know what to do when the time came.
 fifty-eight days
 before
 About a week later I woke up at 6:30
-—6:30 on a Saturday! — to the sweet
+—6:30 on a Saturday! to the sweet
 melody of Decapitation: automatic
 gunfire blasted out above the menacing,
 bass-heavy background music of the
@@ -15945,7 +15897,7 @@ I rolled back toward the wall and
 pulled the comforter over my head. I
 didn't know whether to trust Alaska, and
 I'd certainly had enough of her
-unpredictability — cold one day, sweet
+unpredictability cold one day, sweet
 the next; irresistibly flirty one moment,
 resistibly obnoxious the next. I preferred
 the Colonel: At least when he was
@@ -15962,7 +15914,7 @@ against my hip. Her underwear, her
 jeans, the comforter, my corduroys, and
 my boxers between us, I thought. Five
 layers, and yet I felt it, the nervous
-warmth of touching — a pale reflection
+warmth of touching a pale reflection
 of the fireworks of one mouth on
 another, but a reflection nonetheless.
 And in the almost-ness of the moment, I
@@ -16050,11 +16002,11 @@ Sunday afternoons, so when my mom
 heard my voice, she instantly
 overreacted. "What's wrong, Miles? Are
 you okay?"
-"I'm fine, Mom. I think — if it's okay
+"I'm fine, Mom. I think if it's okay
 with you, I think I might stay here for
 Thanksgiving. A lot of my friends are
-staying" — lie—"and I have a lot of
-work to do" — double lie. "I had no
+staying" lie"and I have a lot of
+work to do" double lie. "I had no
 idea how hard the classes would be,
 Mom" truth.
 "Oh, sweetie. We miss you so much.
@@ -16068,9 +16020,9 @@ even though every single Thanksgiving I
 politely declined to include it on my
 plate.
 "I know, Mom. I miss you guys, too.
-But I really want to do well here" —
-truth—"and plus it's really nice to have,
-like, friends" — truth.
+But I really want to do well here" 
+truth"and plus it's really nice to have,
+like, friends" truth.
 I knew that playing the friend card
 would sell her on the idea, and it did. So
 I got her blessing to stay on campus after
@@ -16081,8 +16033,8 @@ I spent the morning at the computer,
 flipping back and forth between my
 religion and English papers. There were
 only two weeks of classes before exams
-— the coming one and the one after
-Thanksgiving — and so far, the best
+the coming one and the one after
+Thanksgiving and so far, the best
 personal answer I had to "What happens
 to people after they die?" was "Well,
 something. Maybe."
@@ -16134,7 +16086,7 @@ had bought plane tickets to England
 immediately after I called and were
 planning to spend Thanksgiving in a
 castle on their second honeymoon.
-"Oh, that — that's awesome," I said,
+"Oh, that that's awesome," I said,
 and then quickly got off the phone
 because I did not want her to hear me
 cry.
@@ -16221,7 +16173,7 @@ through the soft black dirt at the edge of
 the woods, and before I could get very
 far, my fingers scratched glass, and I dug
 around the glass until I pulled out a
-bottle of pink wine — Strawberry Hill,
+bottle of pink wine Strawberry Hill,
 it was called, I suppose because if it had
 not tasted like vinegar with a dash of
 maple syrup, it might have tasted like
@@ -16239,7 +16191,7 @@ and I take mine and bury it."
 wine consumption has risen a bit this
 semester, so we'll need to take a trip
 tomorrow. This is the last bottle." She
-unscrewed the cap — no corks here —
+unscrewed the cap no corks here 
 sipped, and handed it to me. "Don't
 worry about the Eagle tonight," she said.
 "He's just happy most everyone's
@@ -16272,7 +16224,7 @@ smile made me think that maybe I would
 like novels better if Alaska Young read
 them to me. After a while, she put down
 the book, and I felt warm but not drunk
-with the bottle resting between us — my
+with the bottle resting between us my
 chest touching the bottle and her chest
 touching the bottle but us not touching
 each other, and then she placed her hand
@@ -16344,21 +16296,21 @@ the wax from all my little candles. God,
 it was boring. I counted the ceiling tiles.
 Sixty-seven down, eighty-four across.
 Talk about suffering! Absolute torture."
-"I'm really tired. I—" I said, and then
+"I'm really tired. I" I said, and then
 she cut me off.
 "Poor Pudge. Oh, poor poor Pudge.
 Do you want me to climb into bed with
 you and cuddle?"
-"Well, if you're offering—" "NO!
+"Well, if you're offering" "NO!
 UP! NOW!"
 She took me behind a wing of
-Weekday Warrior rooms—50 to 59—
+Weekday Warrior rooms 50 to 59 
 and stopped in front of a window,
 placed her palms flat against it, and
 pushed up until the window was half
 open, then crawled inside. I followed.
 "What do you see, Pudge?"
-I saw a dorm room — the same
+I saw a dorm room the same
 cinder-block walls, the same
 dimensions, even the same layout as my
 own. Their couch was nicer, and they
@@ -16395,7 +16347,7 @@ shower, I found a dozen bottles of
 shampoo and conditioner. In the
 medicine cabinet, I found a cylindrical
 bottle of something called Rewind. I
-opened it — the bluish gel smelled like
+opened it the bluish gel smelled like
 flowers and rubbing alcohol, like a
 fancy hair salon. (Under the sink, I also
 found a tub of Vaseline so big that it
@@ -16446,8 +16398,8 @@ branch back for me.
 forty-nine days
 forty-nine days
 before
-Two days later — Monday, the first
-real day of vacation — I spent the
+Two days later Monday, the first
+real day of vacation I spent the
 morning working on my religion final
 and went to Alaska's room in the
 afternoon. She was reading in bed.
@@ -16464,7 +16416,7 @@ good," I said.
 "Pretty good? Sure, and bufriedos
 are pretty good. Sex is pretty fun. The
 sun is pretty hot. Jesus, it says so much
-about love and brokenness — it's
+about love and brokenness it's
 perfect."
 "Mm-hmm." I nodded
 unenthusiastically.
@@ -16480,13 +16432,13 @@ looking at porn with Alaska had a
 certain appeal.
 We started with the 50s wing of
 dorms and made our way backward
-around the hexagon — she pushed open
+around the hexagon she pushed open
 the back windows while I looked out
 and made sure no one was walking by.
 I'd never been in most people's
 rooms. After three months, I knew most
 people, but I regularly talked to very few
-— just the Colonel and Alaska and
+just the Colonel and Alaska and
 Takumi, really. But in a few hours, I got
 to know my classmates quite well.
 Wilson Carbod, the center for the
@@ -16500,8 +16452,8 @@ believed was the Colonel's future
 girlfriend, collected Cabbage Patch
 Kids. I don't mean that she collected
 Cabbage Patch Kids when she was, like,
-five. She collected them now — dozens
-of them — black, white, Latino, and
+five. She collected them now dozens
+of them black, white, Latino, and
 Asian, boys and girls, babies dressed
 like farmhands and budding
 businessmen. A senior Weekday
@@ -16531,7 +16483,7 @@ to socialize even less than I did. After
 crawling into their room, Alaska looked
 around for a moment, then walked to the
 bookshelf. She stared at it, then pulled
-out the King James Bible, and there — a
+out the King James Bible, and there a
 purple bottle of Maui Wowie wine
 cooler.
 "How clever," she said as she
@@ -16636,7 +16588,7 @@ Alabama, a crisp and cold one. As I
 walked to Alaska's room that morning,
 the frosty grass of the dorm circle
 crunched beneath my shoes. You don't
-run into frost much in Florida — and I
+run into frost much in Florida and I
 jumped up and down like I was stomping
 on bubble wrap. Crunch. Crunch.
 Crunch.
@@ -16686,7 +16638,7 @@ her bed. She looked at it for a moment,
 then handed me a white one and a
 lighter.
 We spent all morning burning
-candles — well, and occasionally
+candles well, and occasionally
 lighting cigarettes off the burning
 candles after we stuffed a towel into the
 crack at the bottom of her door. Over the
@@ -16723,7 +16675,7 @@ mother heard that we were on campus
 and couldn't bear the thought of leaving
 us family less for Thanksgiving. The
 Colonel didn't seem too keen on the
-whole idea—"I'm going to have to sleep
+whole idea"I'm going to have to sleep
 in a tent," he said, and I laughed.
 Except it turns out he did have to
 sleep in a tent, a nice four-person green
@@ -16739,11 +16691,11 @@ wasn't even a particularly big trailer. I
 could just barely stand up to my full
 height without scraping the ceiling. Now
 I understood why the Colonel was short
-— he couldn't afford to be any taller.
+he couldn't afford to be any taller.
 The place was really one long room,
 with a full-size bed in the front, a
 kitchenette, and a living area in the back
-with a TV and a small bathroom — so
+with a TV and a small bathroom so
 small that in order to take a shower, you
 pretty much had to sit on the toilet.
 "It ain't much," the Colonel's mom
@@ -16786,9 +16738,9 @@ ank-pray to an-play."
 "Your mom doesn't know pig Latin?"
 I smirked.
 "Not if I talk fast. Christ, be quiet."
-The food — fried okra, steamed corn
+The food fried okra, steamed corn
 on the cob, and pot roast that was so
-tender it fell right off the plastic fork —
+tender it fell right off the plastic fork 
 convinced me that Dolores was an even
 better cook than Maureen. Culver
 Creek's okra had less grease, more
@@ -16830,8 +16782,8 @@ for you, biscuits with gravy, pumpkin pie
 for dessert, and a glass of red wine for
 each of us. "I believe," Dolores said,
 "that yer s'posed to drink white with
-turkey, but — now I don't know 'bout
-y'all — but I don't s'pose I give a shit."
+turkey, but now I don't know 'bout
+y'all but I don't s'pose I give a shit."
 We laughed and drank our wine, and
 then after the meal, we each listed our
 gratitudes. My family always did that
@@ -16865,8 +16817,8 @@ hair, that her job was steady and her
 coworkers were nice, that she had a
 place to sleep and a boy who loved her.
 I sat in the back of the hatchback on
-the drive home — and that is how I
-thought of it: home — and fell asleep to
+the drive home and that is how I
+thought of it: home and fell asleep to
 the highway's monotonous lullaby.
 forty-four days
 before
@@ -16904,7 +16856,7 @@ for the Colonel. On the way home,
 Alaska said, "You like knock-knock
 jokes?"
 "Knock-knock jokes?" I asked. "You
-mean like, 'Knock knock…"
+mean like, 'Knock knock "
 "Who's there?" replied Alaska.
 "Who."
 "Who Who?"
@@ -16930,7 +16882,7 @@ was dribbling down her chin.
 "What's wrong?" I asked. She picked
 up a Kleenex from the coffee table and
 wiped at her face.
-"I don't…" she started, and then a
+"I don't " she started, and then a
 sob came like a tsunami, her cry so loud
 and childlike that it scared me, and I got
 up, sat down next her, and put my arm
@@ -16958,7 +16910,7 @@ couldn't trust me on my own. And I don't
 blame him. I don't even trust me."
 "It took guts to tell him," I said.
 "I have guts, just not when it counts.
-Will you — um," and she sat up straight
+Will you um," and she sat up straight
 and then moved toward me, and I raised
 my arm as she collapsed into my skinny
 chest and cried. I felt bad for her, but
@@ -16995,10 +16947,10 @@ sullen bitch."
 And there was something to that,
 truth be told.
 Christmas We all went home for
-Christmas break — even purportedly
+Christmas break even purportedly
 homeless Alaska.
 I got a nice watch and a new wallet
-—"grown-up gifts," my dad called them.
+"grown-up gifts," my dad called them.
 But mostly I just studied for those two
 weeks. Christmas vacation wasn't really
 a vacation, on account of how it was our
@@ -17043,8 +16995,8 @@ than anyone I knew, talked with me
 about the books I was reading for
 English class, and my mom insisted that I
 sit with her in the kitchen and learn how
-to make simple dishes — macaroni,
-scrambled eggs — now that I was
+to make simple dishes macaroni,
+scrambled eggs now that I was
 "living on my own." Never mind that I
 didn't have, or want, a kitchen. Never
 mind that I didn't like eggs or macaroni
@@ -17088,7 +17040,7 @@ class has done its prank and won't be
 waiting for it when it actually comes."
 Every year, the junior and senior classes
 pulled off a prank at some point in the
-year — usually something lame, like
+year usually something lame, like
 Roman candles in the dorm circle at five
 in the morning on a Sunday.
 "Is there always a pre-prank?" I
@@ -17096,7 +17048,7 @@ asked.
 "No, you idiot," the Colonel said. "If
 there was always a pre-prank, then the
 Eagle would expect two pranks. The last
-time a pre-prank was used — hmm. Oh,
+time a pre-prank was used hmm. Oh,
 right: 1987. When the pre-prank was
 cutting off electricity to campus, and then
 the actual prank was putting five hundred
@@ -17122,7 +17074,7 @@ Buterskaya."
 "The Lara Buterskaya I puked on?"
 "She's just shy. She still likes you."
 Alaska laughed. "Puking made you look
-— vulnerable."
+vulnerable."
 "Very perky boobs," the Colonel
 said. "Are you bringing Takumi for me?"
 "You need to be single for a while."
@@ -17142,7 +17094,7 @@ you skipped third grade," Alaska said.
 answered.
 "So," I said, "what's our pre-prank?"
 "The Colonel and I will work that
-out. No need to get you into trouble —
+out. No need to get you into trouble 
 yet."
 "Oh. Okay. Um, I'm gonna go for a
 cigarette, then."
@@ -17182,7 +17134,7 @@ heaven and a hell, though there's a lot of
 disagreement within both religions over
 what, exactly, will get you into one
 afterlife or the other. Buddhists are more
-complicated — because of the Buddha's
+complicated because of the Buddha's
 doctrine of anatta, which basically says
 that people don't have eternal souls.
 Instead, they have a bundle of energy,
@@ -17191,10 +17143,10 @@ migrating from one body to another,
 reincarnating endlessly until it
 eventually reaches enlightenment.
 I never liked writing concluding
-paragraphs to papers — where you just
+paragraphs to papers where you just
 repeat what you've already said with
 phrases like In summation, a n d To
-conclude. I didn't do that — instead I
+conclude. I didn't do that instead I
 talked about why I thought it was an
 important question. People, I thought,
 wanted security. They couldn't bear the
@@ -17222,7 +17174,7 @@ identical white button-down shirts and
 thirty identical black ties in his closet. I
 pictured him waking up in the morning,
 staring at his closet, and thinking,
-Hmm…hmm…how about a white shirt
+Hmm hmm how about a white shirt
 and a black tie? Talk about a guy who
 could use a wife.
 "I'm taking Miles and Takumi home
@@ -17240,12 +17192,12 @@ usually speak with one.
 your mom," the Eagle said to the
 Colonel.
 Takumi looked at me with poorly
-disguised panic, and I felt lunch — fried
-chicken — rising in my stomach. But the
+disguised panic, and I felt lunch fried
+chicken rising in my stomach. But the
 Colonel just smiled. "Sure thing."
 "Chip and Miles and Takumi will be
-at your house this weekend?…Yes,
-ma'am…. Ha!…Okay. Bye now." The
+at your house this weekend? Yes,
+ma'am . Ha! Okay. Bye now." The
 Eagle looked upat the Colonel. "Your
 mom is a wonderful woman." The Eagle
 smiled.
@@ -17337,7 +17289,7 @@ genius. Because I am not," Takumi said.
 I'm the computer genius. The rest of you
 are muscle and distraction. We won't get
 expelled even if we get caught because
-there are no expellable offenses here —
+there are no expellable offenses here 
 well, except for the five bottles of
 Strawberry Hill in Alaska's backpack,
 and that will be well hidden. We're just,
@@ -17372,7 +17324,7 @@ nervously.
 He stopped and opened his bag.
 "Not here, dude," I said. "We have to
 go to the Eagle's."
-"I know. I know. Just — hold on."
+"I know. I know. Just hold on."
 He pulled out a thick headband. It was
 brown, with a plush fox head on the
 front. He put it on hishead.
@@ -17435,7 +17387,7 @@ up, but I just kept getting up and running
 beside Takumi, away from the
 classrooms and the dorm circle. We ran
 like we had golden shoes. I ran like a
-cheetah — well, like a cheetah that
+cheetah well, like a cheetah that
 smoked too much. And then, after
 precisely one minute of running, Takumi
 stopped and ripped open his backpack.
@@ -17516,7 +17468,7 @@ clearing now, and if the Eagle was
 behind us, he could see us. We got to the
 south corner of the lake and started
 running along the shore. The lake wasn't
-all that big — maybe a quarter mile
+all that big maybe a quarter mile
 long, so we didn't have far to go when I
 saw it.
 The swan.
@@ -17829,7 +17781,7 @@ got gout / oh shit now my rhyming got all
 whack / Lara help me out and pick up the
 slack."
 Lara rhymed quietly and nervously
-— and with even more flagrant
+and with even more flagrant
 disregard for the beat than me. "My
 name's Lara and I'm from Romania /
 thees is pretty hard, um, I once visited
@@ -18015,9 +17967,9 @@ a mortgage either. I'm buying it with cash
 money, and I am driving my mom there,
 and I'm going to open her side of the car
 door and she'll get out and look at this
-house — this house is like picket fence
+house this house is like picket fence
 and two stories and everything, you
-know — and I'm going to hand her the
+know and I'm going to hand her the
 keys to her house and I'll say, 'Thanks.'
 Man, she helped fill out my application
 to this place.
@@ -18035,7 +17987,7 @@ As she unscrewed the next bottle,
 Alaska smiled at the Colonel. "You won
 that round. Now what's your worst day?"
 "Worst day was when my dad left.
-He's old — he's like seventy now — and
+He's old he's like seventy now and
 he was old when he married my mom,
 and he still cheated on her. And she
 caught him, and she got pissed, so he hit
@@ -18115,11 +18067,11 @@ saw what she looked like, I mean other
 than in pictures, was at her funeral. She
 had a Buddhist funeral, and they
 cremated her, but before they did she
-was on this, like — well, it's not really
+was on this, like well, it's not really
 Buddhist. I mean, religion is
 complicated there, so it's a little
 Buddhist and a little Shinto, but y'all
-don't care — point being that she was on
+don't care point being that she was on
 this, like, funeral pyre or whatever. And
 that's the only time I ever saw her, was
 just before they burned her up. That was
@@ -18140,8 +18092,8 @@ buddy."
 Alaska lay on her back, her hands
 locked behind her head. She spoke softly
 and quickly, but the quiet day was
-becoming a quieter night — the bugs
-gone now with the arrival of winter —
+becoming a quieter night the bugs
+gone now with the arrival of winter 
 and we could hear her clearly.
 "The day after my mom took me to
 the zoo where she liked the monkeys and
@@ -18175,8 +18127,8 @@ argued. I was too surprised and
 uncomfortable to talk, trying to fit this
 into what I knew about Alaska's family.
 Her mom told her the knock-knock joke
-— when Alaska was six. Her mom used
-to smoke — but didn't anymore,
+when Alaska was six. Her mom used
+to smoke but didn't anymore,
 obviously.
 "Yeah. I was a little kid. Little kids
 can dial 911. They do it all the time.
@@ -18221,14 +18173,14 @@ through the silence and my drunkenness,
 I caught a glimpse of her as she might
 have been. She must have come to feel
 so powerless, I thought, that the one
-thing she might have done — pick up the
-phone and call an ambulance — never
+thing she might have done pick up the
+phone and call an ambulance never
 even occurred to her. There comes a
 time when we realize that our parents
 cannot save themselves or save us, that
 everyone who wades through time
 eventually gets dragged out to sea by the
-undertow — that, in short, we are all
+undertow that, in short, we are all
 going.
 So she became impulsive, scared by
 her inaction into perpetual action. When
@@ -18269,8 +18221,8 @@ was a good plan, but when I tried to
 actually get my arm out of the mummy
 bag, I flailed around like a fish out of
 water, and nearly dislocated my
-shoulder. She was laughing — and not
-with me, at me — but we still didn't
+shoulder. She was laughing and not
+with me, at me but we still didn't
 speak. Having passed the point of no
 return, I slid my hand into her sleeping
 bag anyway, and she stifled a giggle as
@@ -18363,10 +18315,10 @@ Lara as she groggily extricated herself
 from the sleeping bag.
 We packed everything quickly, threw
 our empty bottles into the tall grass of
-the field — littering was an unfortunate
+the field littering was an unfortunate
 necessity at the Creek, since no one
 wanted to throw an empty bottle of
-booze in a campus trash can — and
+booze in a campus trash can and
 walked away from the barn. Lara
 grabbed my hand and then shyly let go.
 Alaska looked like a train wreck, but
@@ -18437,7 +18389,7 @@ Colonel said casually. Kevin's now
 sported a crew cut, a small patch of
 short blue hair on each side of his head,
 just above the ear. His lower lip jutted
-out — the morning's first dip. He walked
+out the morning's first dip. He walked
 over to ourcoffee table, picked up a can
 of Coke, and spit into it.
 "You almost didn't get me. I noticed
@@ -18452,8 +18404,8 @@ didn't. The short hair accentuated his
 features, specifically his too-closetogether
 beady eyes, which did not stand
 up well to accentuation. The Colonel
-was trying hard to look tough — ready
-for whatever Kevin might do — but it's
+was trying hard to look tough ready
+for whatever Kevin might do but it's
 hard to look tough when you're only
 wearing an orange towel.
 "Truce?"
@@ -18469,7 +18421,7 @@ Kevin walked out, the Colonel said,
 shit." Kevin just closed the door behind
 him. The Colonel grabbed the can,
 opened the door, and threw it at Kevin
-— missing him by a good margin.
+missing him by a good margin.
 "Jeez, go easy on the guy."
 "No truce yet. Pudge."
 I spent that afternoon with Lara. We
@@ -18510,7 +18462,7 @@ thought I would explode. I never thought.
 I mean, from Alaska, hearing that stuff
 was one thing. But to hear her sweet
 little Romanian voice go so sexy all of
-the sudden…
+the sudden 
 "No," I said. "I never have."
 "Think it would be fun?"
 DO I!?!?!?!?!?!?!"Urn. yeah. I mean,
@@ -18556,10 +18508,10 @@ her head up and down, but wouldn't that
 choke her? So I just stayed quiet.
 "Should I, like, bite?"
 "Don't bite! I mean, I don't think. I
-think — I mean, that felt good. That was
+think I mean, that felt good. That was
 nice. I don't know if there's something
 else."
-"I mean, you deedn't—" "Urn. Maybe
+"I mean, you deedn't" "Urn. Maybe
 we should ask Alaska."
 So we went to her room and asked
 Alaska. She laughed and laughed. Sitting
@@ -18583,8 +18535,8 @@ There was little to do on the first day
 of the semester, but she read for her
 English class. I picked up a biography of
 Argentinian revolutionary Che Guevara
-— whose face adorned a poster on the
-wall — that Lara's roommate had on her
+whose face adorned a poster on the
+wall that Lara's roommate had on her
 bookshelf, then I lay down next to Lara
 on the bottom bunk. I began at the end, as
 I sometimes did with biographies I had
@@ -18595,7 +18547,7 @@ the Bolivian army, Guevara said,
 "Shoot, coward. You are only going to
 kill a man." I thought back to Simon
 Bolivar's last words in Garcia
-Marquez's novel—"How will I ever get
+Marquez's novel"How will I ever get
 out of this labyrinth!"
 South American revolutionaries, it
 would seem, died with flair. I read the
@@ -18807,7 +18759,7 @@ you in that car when you are upset.
 We did not say: We insist on going
 with you.
 We did not say: This can wait until
-tomorrow. Anything — everything —
+tomorrow. Anything everything 
 can wait.
 We walked to our bathroom,
 grabbed the three strings of leftover
@@ -18817,8 +18769,8 @@ would work again.
 But it worked well enough. The
 Eagle tore out of his house as soon as the
 first string of firecrackers started
-popping — he was waiting for us, I
-suppose — and we headed for the
+popping he was waiting for us, I
+suppose and we headed for the
 woods and got him in deeply enough that
 he never heard her drive away. The
 Colonel and I doubled back, wading
@@ -18897,7 +18849,7 @@ for Dr. Hyde and excitement about
 Alaska, remembering the up-close sight
 of her mouth whispering, "To be
 continued?"
-And it did not occur to me — not
+And it did not occur to me not
 even when Dr. Hyde shuffled into the
 gym, taking tiny, slow steps toward the
 Colonel and me.
@@ -18967,7 +18919,7 @@ the hell is wrong with you? And then
 comes the puke, finally, splashing onto
 the trash. And here is whatever of her I
 had left in my mouth, here in this trash
-can. And then it comes again, more —
+can. And then it comes again, more 
 and then okay, calm down, okay,
 seriously, she's not dead.
 She's not dead. She's alive. She's
@@ -19064,8 +19016,8 @@ I can't catch my breath. I feel afraid,
 like someone has told me they're going
 to kick my ass after school and now it's
 sixth period and I know full well what's
-coming. It is so cold today — literally
-freezing — and I imagine running to the
+coming. It is so cold today literally
+freezing and I imagine running to the
 creek and diving in headfirst, the creek
 so shallow that my hands scrape against
 the rocks, and my body slides into the
@@ -19097,8 +19049,8 @@ as much as Alaska, said, "I've had
 eighteen straight whiskeys. I do believe
 that's a record," before dying. Alaska's
 favorite was playwright Eugene O'Neill:
-"Born in a hotel room, and — God
-damnit— died in a hotel room." Even
+"Born in a hotel room, and God
+damnitdied in a hotel room." Even
 car-accident victims sometimes have
 time for last words. Princess Diana said,
 "Oh God. What's happened?" Movie star
@@ -19148,14 +19100,14 @@ picked up the line then.
 "Well, talk quieter," she said, and so
 it took some time before I could say
 anything, and then once I could, it took
-some time to say the words in order —
+some time to say the words in order 
 my friend Alaska died in a car crash. I
 stared at the numbers and messages
 scrawled on the wall by the phone.
 "Oh, Miles," Mom said. "I'm so
 sorry, Miles. Do you want to come
 home?"
-"No," I said. "I want to be here…I
+"No," I said. "I want to be here I
 can't believe it," which was still partly
 true.
 "That's just awful," my dad said.
@@ -19169,8 +19121,8 @@ disembowel the Colonel and me.
 my mom asked.
 "I just needed you to pick up. I just
 needed you to answer the phone, and you
-did." I heard a sniffle behind me — from
-cold or grief, I didn't know — and told
+did." I heard a sniffle behind me from
+cold or grief, I didn't know and told
 my parents, "Someone's waiting for the
 phone. I gotta go."
 All night, I felt paralyzed into
@@ -19318,7 +19270,7 @@ hand away. "I'm sorry," I said.
 "Eet's okay," she said. "I'll be een
 my room eef you want to come by." I did
 not drop by. I didn't know what to say to
-her — I was caught in a love triangle
+her I was caught in a love triangle
 with one dead side.
 That afternoon, we all filed into the
 gym again for a town meeting. The Eagle
@@ -19549,10 +19501,10 @@ mahogany, the color of her hair. I felt the
 Colonel's small hands on my shoulders,
 and a tear dripped onto my head, and for
 a few moments, it was just the three of
-us — the buses of students hadn't
+us the buses of students hadn't
 arrived, and Takumi and Lara had faded
-away, and it was just the three of us —
-three bodies and two people — the three
+away, and it was just the three of us 
+three bodies and two people the three
 who knew what had happened and too
 many layers between all of us, too much
 keeping us from one another. The
@@ -19611,7 +19563,7 @@ on our foam couch.
 aunt or something is coming tomorrow to
 clean out her room. So if there's anything
 that's ours, or anything her aunt wouldn't
-want to find…"
+want to find "
 I turned back to the game and said,
 "I'm not up for it today."
 "Then I'll do it alone," he answered.
@@ -19701,7 +19653,7 @@ scanning the titles on the book spines. "It
 has a lot of green on the cover, I think.
 It's a paperback, and it got flooded, so
 the pages are probably bloated, but I
-don't think she—" and then he cut me off
+don't think she" and then he cut me off
 with, "Yeah, it's right here," and I turned
 around and he was holding it, the pages
 fanned out like an accordion from
@@ -19755,7 +19707,7 @@ Straight and fast. Out of the labyrinth."
 "No," I said, but even as I said it, I
 could see it. I could see her drunk
 enough and pissed off enough. (About
-what — about cheating on Jake? About
+what about cheating on Jake? About
 hurting me? About wanting me and not
 him? Still pissed about ratting out
 Marya?) I could see her staring down the
@@ -19778,7 +19730,7 @@ we still don't really know what
 happened, if you think about it.
 Where she was going, why. Who
 called. Someone called, right, or did I
-make—" And the Colonel kept talking,
+make" And the Colonel kept talking,
 puzzling it out, while I picked up the
 book and found my way to that page
 where the general's headlong race came
@@ -19788,13 +19740,13 @@ unbridgeable, and I could not listen to
 the Colonel, because I was busy trying to
 get the last hints of her smell, busy
 telling myself that of course she had not
-done it. It was me — I had done it, and
+done it. It was me I had done it, and
 so had the Colonel. He could try to
 puzzle his way out of it, but I knew
 better, knew that we could never be
 anything but wholly, unforgivably guilty.
 eight days after
-Tuesday — we had schoolfor the
+Tuesday we had schoolfor the
 first time. Madame O'Malley had a
 moment of silence at the beginning of
 French class, a class that was always
@@ -19871,7 +19823,7 @@ even when the material we study seems
 boring, we're trying to understand how
 people have answered that question and
 the questions each of you posed in your
-papers — how different traditions have
+papers how different traditions have
 come to terms with what Chip, in his
 final, called 'people's rotten lots in life.'"
 Hyde sat down. "So, how are you guys
@@ -19881,8 +19833,8 @@ while a bunch of people who didn't
 know Alaska extolled her virtues and
 professed to be devastated, and at first,
 it bothered me. I didn't want the people
-she didn't know — and the people she
-didn't like — to be sad. They'd never
+she didn't know and the people she
+didn't like to be sad. They'd never
 cared about her, and now they were
 carrying on as if she were a sister. But I
 guess I didn't know her completely,
@@ -19911,8 +19863,8 @@ you be sad?" I asked.
 fact I never told her I loved her. I don't
 love her. She's an idiot."
 I thought everyone else had a better
-excuse to grieve than we did — after all,
-they hadn't killed her — but I knew
+excuse to grieve than we did after all,
+they hadn't killed her but I knew
 better than to try to talk to the Colonel
 when he was mad.
 nine days after
@@ -19935,8 +19887,8 @@ with the theory, which isn't terribly
 likely, admittedly, but it's plausible. So,
 listen. She kisses you. That night,
 someone calls. Jake, I imagine. They
-have a fight — about cheating or about
-something else — who knows. So she's
+have a fight about cheating or about
+something else who knows. So she's
 upset, and she wants to go see him. She
 comes back to the room crying, and she
 tells us to help her get off campus. And
@@ -20094,7 +20046,7 @@ There wa'n't much time."
 "I understand. She was dead when
 you got to the car?" he asked.
 "I–I did everything I could. Ah run
-right up to her, but the steerin' wheel —
+right up to her, but the steerin' wheel 
 well, ah reached in there, thought if ah
 could git that steerin' wheel loose, but
 there weren't no gettin' her outta that car
@@ -20127,8 +20079,8 @@ powerful drunk."
 Colonel asked. "Anything, like, unusual
 that you remember?"
 "I remember them brochures from
-colleges — places in Maine and Ohia
-and Texas — I thought t' myself that girl
+colleges places in Maine and Ohia
+and Texas I thought t' myself that girl
 must be from Culver Crick and that was
 mighty sad, see a girl like that lookin't'
 go t' college. That's a goddamned shame.
@@ -20217,7 +20169,7 @@ After a considerable distance, the
 Colonel jogged up to me and said, "I just
 want it to be normal again," he said.
 "You and me. Normal. Fun. Just,
-normal. And I feel like if we knew—"
+normal. And I feel like if we knew"
 "Okay, fine," I cut him off. "Fine. We'll
 keep looking."
 The Colonel shook his head, but then
@@ -20230,22 +20182,22 @@ themselves."
 fourteen days after
 Warning signs of suicide the Colonel
 and I found on the Web:
-— Previous suicide attempts
+Previous suicide attempts
 Verbally threatening suicide Giving
 away prized possessions Collecting and
 discussing methods of suicide
-— Expressions of hopelessness and
+Expressions of hopelessness and
 anger at oneself and/or the world
-— Writing, talking, reading, and
+Writing, talking, reading, and
 drawing about death and/or depression
 Suggesting that the person would not
 be missed if s/he were gone
-— Self-injury
-— Recent loss of a friend or family
+Self-injury
+Recent loss of a friend or family
 member through death or suicide
-— Sudden and dramatic decline in
+Sudden and dramatic decline in
 academic performance
-— Eating disorders, sleeplessness,
+Eating disorders, sleeplessness,
 excessive sleeping, chronic headaches
 Use (or increased use) of mind-altering
 substances Loss of interest in sex,
@@ -20294,7 +20246,7 @@ and I couldn't hit the accelerator.
 Maybe she just had an odd kind of
 courage that I lacked, but no.
 "Good to know. So yeah, she was up
-and down — from fire and brimstone to
+and down from fire and brimstone to
 smoke and ashes. But partly, this year at
 least, it was the whole Marya thing.
 Look, Pudge, she obviously wasn't
@@ -20310,7 +20262,7 @@ He sighed and shook his head. "She
 did like being mysterious. Maybe she
 wanted it like this." I laughed then, and
 the Colonel said, "What?"
-"I was just thinking— Why do you
+"I was just thinkingWhy do you
 run head-on into a cop car with its
 lights on? and then I thought, Weil, she
 hated authority figures."
@@ -20323,7 +20275,7 @@ gym, hearing the news for the first time,
 the Eagle's tears dripping onto his pants,
 and I looked over at the Colonel and
 thought of all the hours we'd spent on
-this foam couch in the past two weeks —
+this foam couch in the past two weeks 
 everything she'd ruined. Too pissed off
 to cry, I said, "This is only making me
 hate her. I don't want to hate her. And
@@ -20470,7 +20422,7 @@ after. But she kissed a lot of guys, Pudge.
 And if she were here, we both know that
 she would still be Jake's girlfriend and
 that there'd be nothing but drama
-between the two of you — not love, not
+between the two of you not love, not
 sex, just you pining after her and her
 like, 'You're cute, Pudge, but I love
 Jake.' If she loved you so much, why did
@@ -20523,7 +20475,7 @@ side. I wondered if there would ever be
 a day when I didn't think about Alaska,
 wondered whether I should hope for a
 time when she would be a distant
-memory — recalled only on the
+memory recalled only on the
 anniversary of her death, or maybe a
 couple of weeks after, remembering only
 after having forgotten.
@@ -20545,7 +20497,7 @@ overturned rocks with the stick and
 pointed out the skittering crawfish.
 "You boil 'em and then suck the
 heads out," she said excitedly.
-"That's where all the good stuff is —
+"That's where all the good stuff is 
 the heads."
 She taught me everything I knew
 about crawfish and kissing and pink
@@ -20557,7 +20509,7 @@ and then leave," I said out loud to her.
 I was fine with just me and last words
 and school friends, and you can't just
 make me different and then die." For she
-had embodied the Great Perhaps — she
+had embodied the Great Perhaps she
 had proved to me that it was worth it to
 leave behind my minor life for grander
 maybes, and now she was gone and with
@@ -20604,8 +20556,8 @@ I scribbled Okay on my own
 notebook and then turned to a blank page
 as Dr. Hyde started talking about Sufism,
 the mystical sect of Islam. I'd only
-scanned through the reading — I'd been
-studying only enough not to fail— but in
+scanned through the reading I'd been
+studying only enough not to failbut in
 my scanning, I'd come across great last
 words. This poor Sufi dressed in rags
 walked into a jewelry store owned by a
@@ -20655,7 +20607,7 @@ know how Alaska had died, I wanted to
 know where she was now, if anywhere. I
 liked to imagine her looking down on us,
 still aware of us, but it seemed like a
-fantasy, and I never really felt it — just
+fantasy, and I never really felt it just
 as the Colonel had said at the funeral
 that she wasn't there, wasn't anywhere. I
 couldn't honestly imagine her as anything
@@ -20695,7 +20647,7 @@ because you couldn't know the truth
 about the Colonel and me, and I hated
 being around you and having to
 pretend that my grief is this
-uncomplicated thing — pretending that
+uncomplicated thing pretending that
 she died and I miss her instead of that
 she died because of me.
 "Me too. You're not dating Lara
@@ -20706,12 +20658,12 @@ I had been ignoring her, but by then
 she had begun to ignore me back, so I
 figured it was over, but maybe not.
 "Well," I told Takumi, "I just can't
-— I don't know, man. That's pretty
+I don't know, man. That's pretty
 complicated."
 "Sure. She'll understand. Sure. All
 good."
 "Okay."
-"Listen, Pudge. I — ah, I don't know.
+"Listen, Pudge. I ah, I don't know.
 It sucks, huh?"
 "Yeah."
 twenty-seven days after
@@ -20736,7 +20688,7 @@ Then I nearly elbowed the Colonel
 in the face, swinging my arms wildly as
 if contorting my body in the right ways
 mattered as much as pressing the right
-buttons at the right moments — the same
+buttons at the right moments the same
 video-game-playing delusion that had
 always gripped Alaska. But the Colonel
 was so focused on the game he didn't
@@ -20750,7 +20702,7 @@ then, without turning back to the screen,
 shot my skater in the balls with a blue
 paint blast. "But first, we gotta get some
 liquor, because the ambrosia's sour and
-my booze connection is—"
+my booze connection is"
 "POOF.Gone," I finished.
 When I opened his door, Takumi
 was sitting at his desk, boxy headphones
@@ -20766,7 +20718,7 @@ any alcohol?"
 the Colonel answered.
 "Great. I'll join you."
 "Takumi," the Colonel said. "This is
-— we need to do this alone."
+we need to do this alone."
 "No. I've had enough of that shit."
 Takumi stood up, walked into his
 bathroom, and came out with a Gatorade
@@ -20816,7 +20768,7 @@ Eagle picked up his egg sandwich and
 took a bite. "To what do I owe the
 pleasure of your visit?" he asked.
 "I just wanted to tell you that the
-Colonel — I mean, Chip Martin — he's
+Colonel I mean, Chip Martin he's
 my roommate, you know, he's having a
 tough time in Latin."
 "Well, he's not attending the class,
@@ -20832,7 +20784,7 @@ standing up straight and tall, trying to
 block the Eagle's view of the living
 room with my none-too-wide shoulders.
 "They were very close, you know."
-"I know that—" he said, and in the
+"I know that" he said, and in the
 living room, the Colonel's sneakers
 squeaked against the hardwood floor.
 The Eagle looked at me quizzically and
@@ -20935,8 +20887,8 @@ said stoically.
 And then I heard footsteps outside.
 Footsteps. We'd waited till 1:00 to turn
 on the lights, figuring everyone would be
-long asleep — it was a school night after
-all— but footsteps, shit, and as the
+long asleep it was a school night after
+allbut footsteps, shit, and as the
 Colonel looked at me confused, I
 grabbed the Breathalyzer from him and
 stuffed it between the foam cushions of
@@ -21066,9 +21018,9 @@ our hangover."
 "Right. Fucking Latin."
 twenty-eight days after
 The colonel made it to Latin the next
-morning—"I feel awesome right now,
+morning"I feel awesome right now,
 because I'm still drunk. But God help me
-in a couple of hours" — and I took a
+in a couple of hours" and I took a
 French test for which I had studied un
 petit peu. I did all right on the multiple
 choice (which-verb-tense-makes-sensehere
@@ -21096,7 +21048,7 @@ answering.
 After I'd gotten a lecture and ten
 work hours at Jury, I came back to Room
 43 to find the Colonel telling Takumi
-everything — well, everything except
+everything well, everything except
 the kiss. I walked in to the Colonel
 saying, "So we helped her go."
 "You set off the fireworks," he said.
@@ -21126,7 +21078,7 @@ other strategies, so I'm calling him
 tomorrow, okay?"
 I wanted answers now, too, but not
 to some questions. "Yeah, okay," I said.
-"But listen — don't tell me anything
+"But listen don't tell me anything
 that's not relevant. I don't want to know
 anything unless it's going to help me
 know where she was going and why."
@@ -21186,12 +21138,12 @@ His mouth opened as if to speak, but
 he said nothing. We stared at each other
 for a while, and I felt ashamed of myself
 for what amounted to bragging, and
-finally I said, "I — look, you know how
+finally I said, "I look, you know how
 she was. She wanted to do something,
 and she did it. I was probably just the
 guy who happened to be there."
 "Yeah. Well, I was never that guy,"
-he said. "I — well, Pudge, God knows I
+he said. "I well, Pudge, God knows I
 can't blame you."
 "Don't tell Lara."
 He was nodding as we heard the
@@ -21245,7 +21197,7 @@ He just called because he had
 promised to call at the exact moment of
 their eight-month anniversary, which
 happened to be three-oh-two in thea.m.,
-which — let's agree — is a little
+which let's agree is a little
 ridiculous, and I guess somehow she
 heard the phone ringing. So they talked
 about nothing for like five minutes, and
@@ -21298,7 +21250,7 @@ curiously, and I nodded.
 "Okay, then. And you were pissed,
 but then you took a shower with Pudge
 and it's all good. Excellent. So, so that
-night…" the Colonel continued.
+night " the Colonel continued.
 And we tried to resurrect the
 conversation that last night as best we
 could for Takumi, but neither of us
@@ -21357,9 +21309,9 @@ smirked and said, "More for me," and
 chugged.
 thirty-seven days after
 The next Wednesday,I ran into Lara
-after religion class — literally. I'd seen
+after religion class literally. I'd seen
 her, of course. I'd seen her almost every
-day — in English or sitting in the library
+day in English or sitting in the library
 whispering to her roommate, Katie. I
 saw her at lunch and dinner at the
 cafeteria, and I probably would have
@@ -21380,17 +21332,17 @@ and disappeared silently into a
 classroom. First two words I'd said to
 her in a month.
 I wanted to want to talk to her. I
-knew I'd been awful— Imagine, I kept
+knew I'd been awfulImagine, I kept
 telling myself, if you were Lara, with a
 dead friend and a silent ex-boy friend
-— but I only had room for one true want,
+but I only had room for one true want,
 and she was dead, and I wanted to know
 the how and why of it, and Lara couldn't
 tell me, and that was all that mattered.
 forty-five days after
 For weeks,the Colonel and I had
 relied on charity to support our cigarette
-habit — we'd gotten free or cheap packs
+habit we'd gotten free or cheap packs
 from everyone from Molly Tan to the
 once-crew-cutted Longwell Chase. It
 was as if people wanted to help and
@@ -21501,7 +21453,7 @@ own jokes. Lara scooped up a forkful of
 canned corn and held it above her plate,
 moving her mouth to it and bowing her
 head toward her lap as she took the bite
-from the fork — a quiet eater.
+from the fork a quiet eater.
 "She could talk to m e , " I told
 Takumi.
 Takumi shook his head. His open
@@ -21528,7 +21480,7 @@ What now? You've done the damage
 you could, Pudge, and I looked past her,
 into the room I'd only entered once,
 where I learned that kissing or no, I
-couldn't talk to her — and before the
+couldn't talk to her and before the
 silence could get too uncomfortable, I
 talked. "I'm sorry," I said.
 "For what?" she asked, still looking
@@ -21541,7 +21493,7 @@ eyes blinking fast, her cheeks soft and
 round, and still the roundness could only
 remind me of Alaska's thin face and her
 high cheekbones. But I could live with it
-— and, anyway, I had to. "You could
+and, anyway, I had to. "You could
 have just been my friend," she said.
 "I know. I screwed up. I'm sorry."
 "Don't forgive that asshole," Katie
@@ -21558,9 +21510,9 @@ she felt comfortable enough to knee me
 in the balls. She smiled then, and as I
 crumpled into a bow, Katie said, "Now I
 forgive you."
-Lara and I took a walk to the lake —
-sans Katie — and we talked. We talked
-— about Alaska and about the past
+Lara and I took a walk to the lake 
+sans Katie and we talked. We talked
+about Alaska and about the past
 month, about how she had to miss me
 and miss Alaska, while I only had to
 miss Alaska (which was true enough). I
@@ -21582,8 +21534,8 @@ talking.
 As darkness spread that evening, the
 frogs croaked and a few newly
 resurrected insects buzzed about
-campus, and the four of us — Takumi,
-Lara, the Colonel, and I — walked
+campus, and the four of us Takumi,
+Lara, the Colonel, and I walked
 through the cold gray light of a full moon
 to the Smoking Hole.
 "Hey, Colonel, why do you call eet
@@ -21630,7 +21582,7 @@ something, although she'd been awfully
 upset without committing suicide many
 times before. We considered that maybe
 the flowers were some kind of memorial
-to herself — like a funeral arrangement
+to herself like a funeral arrangement
 or something. But that didn't seem very
 Alaskan to us. She was cryptic, sure, but
 if you're going to plan your suicide down
@@ -21677,7 +21629,7 @@ gut feeling."
 "Well, my gut wants to know," Lara
 said, and only then did I realize what
 Takumi meant the day we'd showered
-together — I may have kissed her, but I
+together I may have kissed her, but I
 r e a l l y didn't have a monopoly on
 Alaska; the Colonel and I weren't the
 only ones who cared about her, and
@@ -21714,7 +21666,7 @@ worst, that those judgments have no real
 meaning because there is only what is,
 a n d poof , he reached enlightenment.
 Reading it the night before, I'd wondered
-if it would be like that for me — if in
+if it would be like that for me if in
 one moment, I would finally understand
 her, know her, and understand the role
 I'd played in her dying. But I wasn't
@@ -21733,7 +21685,7 @@ The chair I'm sitting on. It was built,
 and so it will fall apart. I'm gonna fall
 apart, probably before this chair. And
 you're gonna fall apart. The cells and
-organs and systems that make you you —
+organs and systems that make you you 
 they came together, grew together, and
 so must fall apart. The Buddha knew one
 thing science didn't prove for millennia
@@ -21807,16 +21759,16 @@ dad and I saw at a party last night? Mrs.
 Forrester. Your fourth-grade teacher!
 Remember? She remembered you
 perfectly, and spoke very highly of you,
-and we just talked" — and while I was
+and we just talked" and while I was
 pleased to know that Mrs. Forrester held
 my fourth-grade self in high regard, I
 only half listened as I read the scribbled
 notes on the white-painted pine wall on
 either side of the phone, looking for any
 new ones I might be able to decode
-(Lacy's — Friday, 10 were the when
+(Lacy's Friday, 10 were the when
 and where of a Weekday Warrior party,
-I figured)—"and we had dinner with the
+I figured)"and we had dinner with the
 Johnstons last night and I'm afraid that
 Dad had too much wine. We played
 charades and he was just awful." She
@@ -21884,8 +21836,8 @@ don't know what she forgot."
 sixty-nine days after
 A week after the discovery of the
 doodled flower, I'd resigned myself to
-its insignificance — I wasn't Banzan in
-the meat market after all — and as the
+its insignificance I wasn't Banzan in
+the meat market after all and as the
 maples around campus began to hint of
 resurrection and the maintenance crew
 began mowing the grass in the dorm
@@ -21901,7 +21853,7 @@ announced the school was going to build
 a playground by the lake in memory of
 Alaska. She did like swings, I guess, but
 a playground? Lara stood up at the
-meeting — surely a first for her — and
+meeting surely a first for her and
 said they should do something funnier,
 something Alaska herself would have
 done.
@@ -21940,8 +21892,8 @@ owe her that."
 And I agreed, but still, she owed us
 an explanation. If she was up there,
 down there, out there, somewhere,
-maybe she would laugh. And maybe —
-just maybe — she would give us the clue
+maybe she would laugh. And maybe 
+just maybe she would give us the clue
 we needed.
 eighty-three days after
 Two weeks later,the Colonel
@@ -21964,8 +21916,8 @@ said, "Let's get the band back together."
 And so I ventured out into the overcast
 spring and woke up Lara and Takumi,
 then brought them back to Room 43. The
-Barn Night crew was intact — or as
-close as it ever would be — for the
+Barn Night crew was intact or as
+close as it ever would be for the
 Alaska Young Memorial Prank.
 The three of us sat on the couch
 while the Colonel stood in front of us,
@@ -21986,7 +21938,7 @@ Friday afternoon off from classes, and
 all the students, faculty, and staff were
 required to go to the gym for Speaker
 Day. Speaker Day featured two speakers
-— usually small-time celebrities or
+usually small-time celebrities or
 small-time politicians or small-time
 academics, the kind of people who
 would come and speak at a school for
@@ -22051,13 +22003,13 @@ real name. "Mr. Starnes is going to call
 you in about ten minutes."
 "Okay, my name is Dr. William
 Morse, and I'm a psychology professor,
-and — adolescent sexuality?"
+and adolescent sexuality?"
 "Yup. You're the best, Dad."
 "I just want to see if you can top
 me," he said, laughing.
 Although it killed the Colonel to do
 it, the prank could not work without the
-assistance of the Weekday Warriors —
+assistance of the Weekday Warriors 
 specifically junior-class president
 Longwell Chase, who by now had grown
 his silly surfer mop back. But the
@@ -22070,7 +22022,7 @@ otherwise, so we walked silently to the
 Eagle's house. The Eagle came to the
 door before we even knocked. He
 cocked his head a little when he saw us,
-looking confused — and, indeed, we
+looking confused and, indeed, we
 made an odd couple, with Long well's
 pressed and pleated khaki pants and my
 I-keep-meaning-to-do-laundry blue
@@ -22091,17 +22043,17 @@ mean, he's opposed to premarital sex."
 gave the Eagle a piece of paper, and he
 walked to a phone on the wall and
 dialed. "Yes, hello. I'm calling to speak
-with Dr. Morse?…Okay, thanks…Hello,
+with Dr. Morse? Okay, thanks Hello,
 Dr. Morse. I have Miles Halter here in
-my home, and he tells me…great,
-wonderful…Well, I was wondering" —
+my home, and he tells me great,
+wonderful Well, I was wondering" 
 the Eagle paused, twisting the cord
-around his finger—"wondering, I guess,
-whether you — just so long as you
+around his finger"wondering, I guess,
+whether you just so long as you
 understand that these are impressionable
 young people. We wouldn't want
-explicit discussions…. Excellent.
-Excellent. I'm glad you understand….
+explicit discussions. Excellent.
+Excellent. I'm glad you understand .
 You, too, sir. See you soon!" The Eagle
 hung up the phone, smiling, and said,
 "Good choice! He seems like a very
@@ -22167,7 +22119,7 @@ establishment liked the idea a great deal,
 but, he said, "Maxx is gonna love that.
 But no nudity.
 Not in front of the kids." We agreed
-— with some reluctance.
+with some reluctance.
 To ensure that none of us would get
 expelled, Takumi and I collected five
 dollars from every junior at Culver
@@ -22217,13 +22169,13 @@ late. We asked so little of our performer,
 really. We had written his speech. We
 had planned everything for him.
 All Maxx had to do was show up
-with his outfit on. And yet…
+with his outfit on. And yet 
 "The agency," said Takumi, "says the
 performer is on his way."
 "On his way?" the Colonel said,
 clawing at his hair with a new vigor.
 "On his way? He's already late."
-"They said he should be—" and then
+"They said he should be" and then
 suddenly our worries disappeared as a
 blue minivan rounded the corner toward
 the parking lot, and I saw a man inside
@@ -22301,15 +22253,15 @@ great interest and talk like you're friends
 with my parents."
 He smiled and nodded his head. "He
 is a great man, your father. And your
-mother — so beautiful." I rolled my
+mother so beautiful." I rolled my
 eyes, a bit disgusted. Still, I liked this
 stripper fellow. The Eagle came in at
 noon on the nose, greeted the seniorclass
-speaker — a former Alabama state
-attorney general — and then came over
+speaker a former Alabama state
+attorney general and then came over
 to Dr. Morse, who stood with great
 aplomb and half bowed as he shook the
-Eagle's hand — maybe too formal —
+Eagle's hand maybe too formal 
 and the Eagle said, "We're certainly very
 glad to have you here," and Maxx
 replied, "Thank you. I hope I don't
@@ -22377,7 +22329,7 @@ describes both physical and emotional
 characteristics. This has the effect of
 turning girls into mere objects, while
 boys are seen by girls as whole people
-—" And then Lara stood up, and in her
+" And then Lara stood up, and in her
 delicate, innocent accent, cut Dr.
 William Morse off. "You're so hot! I
 weesh you'd shut up and take off your
@@ -22390,7 +22342,7 @@ her, stunned silent. She sat down.
 "Now, Lara," Maxx said, looking
 down at his paper to remember the line,
 "what we have here is a very interesting
-case study — a female objectifying me,
+case study a female objectifying me,
 a male. It's so unusual that I can only
 assume you're making an attempt at
 humor."
@@ -22416,12 +22368,12 @@ stunningly muscular man with an eightpack
 in his stomach and bulging pec
 muscles, and Maxx stood before us,
 smiling, wearing only briefs that were
-surely tighty, but not whitey — black
+surely tighty, but not whitey black
 leather.
 His feet in place, Maxx swayed his
 arms to the music, and the crowd erupted
 with laughter and deafening, sustained
-applause — the largest ovation by a
+applause the largest ovation by a
 good measure in Speaker Day history.
 The Eagle was up in a flash, and as soon
 as he stood, Maxx stopped dancing, but
@@ -22525,10 +22477,10 @@ white flower, and 'Oh God my mom
 liked white flowers and put them in my
 hair when I was little,' and then she flips
 out. She comes back into her room and
-starts screaming at us that she forgot —
-forgot about her mom, of course — so
+starts screaming at us that she forgot 
+forgot about her mom, of course so
 she takes the flowers, drives off campus,
-on her way to — what?" He looked at
+on her way to what?" He looked at
 me. "What? Her mom's grave?"
 And I said, "Yeah, probably. Yeah.
 So she gets into the car, and she just
@@ -22545,7 +22497,7 @@ then says, "Or, she gets into the car with
 the flowers. But she's already missed the
 anniversary. She's probably thinking that
 she screwed things up with her mom
-again — first she doesn't call 911, and
+again first she doesn't call 911, and
 now she can't even remember the
 freaking anniversary. And she's furious
 and she hates herself, and she decides,
@@ -22578,7 +22530,7 @@ or just to feel angry at myself for letting
 her go.
 But we knew what could be found
 out, and in finding it out, she had made
-us closer — the Colonel and Takumi and
+us closer the Colonel and Takumi and
 me, anyway. And that was it. She didn't
 leave me enough to discover her, but she
 left me enough to rediscover the Great
@@ -22679,9 +22631,9 @@ about The Sound and the Fury and
 meiosis and the Battle of the Bulge. The
 Colonel taught us a semester's worth of
 precalc, although he was too good at
-math to teach it very well—"Of course it
+math to teach it very well"Of course it
 makes sense. Just trust me. Christ, it's
-not that hard" — and I missed Alaska.
+not that hard" and I missed Alaska.
 And when I could not catch up, I
 cheated. Takumi and I shared copies of
 Cliffs Notes for Things Fall Apart and A
@@ -22721,8 +22673,8 @@ decided once and for all to use this
 paper topic last night. It rather goes
 against my nature. Anyway, pass these
 around." When the pile came to me, I
-read the question: How will you — you
-personally — ever get out of this
+read the question: How will you you
+personally ever get out of this
 labyrinth of suffering? Now that you've
 wrestled with three major religious
 traditions, apply your newly enlightened
@@ -22741,14 +22693,14 @@ how you hope to navigate through life in
 spite of it.
 "Next year, assuming my lungs hold
 out, we'll study Taoism, Hinduism, and
-Judaism together—" The Old Man
+Judaism together" The Old Man
 coughed and then started to laugh, which
 caused him to cough again. "Lord, maybe
 I won't last. But about the three
 traditions we've studied this year, I'd
 like to say one thing. Islam, Christianity,
 and Buddhism each have founder figures
-— Muhammad, Jesus, and the Buddha,
+Muhammad, Jesus, and the Buddha,
 respectively. And in thinking about these
 founder figures, I believe we must
 finally conclude that each brought a
@@ -22760,8 +22712,8 @@ allegiance to the one true God. The
 Buddha held out hope that suffering
 could be transcended. Jesus brought the
 message that the last shall be first, that
-even the tax collectors and lepers — the
-outcasts — had cause for hope. And so
+even the tax collectors and lepers the
+outcasts had cause for hope. And so
 that is the question I leave you with in
 this final: What is your cause for hope?"
 Back at Room 43, the Colonel was
@@ -22786,7 +22738,7 @@ shook his head. "That keeps happening."
 something," I argued.
 "After all this time, it still seems to
 me like straight and fast is the only way
-out — but I choose the labyrinth. The
+out but I choose the labyrinth. The
 labyrinth blows, but I choose it."
 one hundred thirty-six
 days after
@@ -22845,7 +22797,7 @@ always put flowers on her mother's
 grave on the anniversary, but she
 forgot that year. She was out there
 looking for flowers, but it was too early
-— too wintry. That's how I knew about
+too wintry. That's how I knew about
 January 10. I still have no idea whether
 it was suicide.
 She was so sad, and I didn't know
@@ -22937,9 +22889,9 @@ forgives her. And here's how I know: I
 thought at first that she was just dead.
 Just darkness. Just a body being eaten by
 bugs. I thought about her a lot like that,
-as something's meal. What was her —
+as something's meal. What was her 
 green eyes, half a smirk, the soft curves
-of her legs — would soon be nothing,
+of her legs would soon be nothing,
 just the bones I never saw. I thought
 about the slow process of becoming
 bone and then fossil and then coal that
@@ -22976,7 +22928,7 @@ destroyed. And if Alaska took her own
 life, that is the hope I wish I could have
 given her. Forgetting her mother, failing
 her mother and her friends and herself
-— those are awful things, but she did not
+those are awful things, but she did not
 need to fold into herself and self-
 destruct. Those awful things are
 survivable, because we are as
