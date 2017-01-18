@@ -11,7 +11,9 @@ from random import randrange
 d = cmudict.dict()
 
 def numSylsInWord(word):
+	print word
 	if word.lower() in d:
+		print "I'm in the dictionary"
 		return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
 
 def isHaiku(potentialHaiku):
@@ -29,6 +31,7 @@ def countSyllables(potentialHaiku):
 	wordsInHaiku = stripPunctuation.split()
 	syllableCount = 0
 	for i in wordsInHaiku:
+		print i
 		syllableCount += numSylsInWord(i)
 	return syllableCount
 
@@ -70,6 +73,11 @@ def buildLineList(sylCount, wordsFromBefore):
 		return wordsFromBefore
 	lastWord = wordsFromBefore[-1]
 	possibilities = grabPossibleWords(lastWord, sylCount)
+	print "***possibilities before shuffling:*************"
+	print possibilities
+	possibilities = randomizePossibleWordList(possibilities)
+	print "*************possibilities after shuffling:*****************"
+	print possibilities
 	for possibleWord in possibilities:
 		newWordsFromBefore = [word[:] for word in wordsFromBefore]
 		newWordsFromBefore.append(possibleWord)
@@ -78,6 +86,13 @@ def buildLineList(sylCount, wordsFromBefore):
 		if result:
 			return result
 	return None
+
+def randomizePossibleWordList(possibleWords):
+	from random import shuffle
+	randomNumPick = randrange(1, len(possibleWords))
+	for i in randomNumPick:
+		random.shuffle(possibleWords)
+	return possibleWords	
 
 def pickRandomWord(reqSylCount):
 	from models import Unigram
@@ -108,6 +123,7 @@ def formatPossibleWords(unigrams, reqSylCount):
 			for index in range(each.count):
 				if countSyllables(each.word2) <= reqSylCount:
 					container.append(each.word2)
+	container = [word for word in container if word.lower]				
 	return container
 
 def removePartOfSpeech(pos, tempContainer):
@@ -139,12 +155,11 @@ def identifyPartsOfSpeech(word):
 #     print(word, fdist[word])
 
 
-# print(generateHaiku("the"))
-# print("***************")
-# print(generateHaiku("lksdjfhlsdhjfgsl;d"))
-# print(identifyPartsOfSpeech("and"))
-
-# print(generateHaiku("miserable"))
+print(generateHaiku("the"))
+print("***************")
+print(generateHaiku("water"))
+print "***************"
+print(generateHaiku("miserable"))
 
 
 
