@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+from flask import jsonify
 from flask_sqlalchemy import SQLAlchemy
 import os
 # import run_text_files
@@ -30,20 +31,22 @@ def haiku():
 
 @app.route('/train', methods=['POST'])
 def train():
-  update = request.form['update']
+  update1 = request.form['update1']
+  update2 = request.form['update2']
+  update3 = request.form['update3']
   from training import favorUnigram, unfavorUnigram, favorLine, unfavorLine
-  if update == "like1":
+  if update1 == "like1":
     favorLine(request.form['line1'])
-  elif update == "like2":
-    favorLine(request.form['line2'])
-  elif update == "like3":
-    favorLine(request.form['line3'])
-  elif update == "dislike1":
+  elif update1 == "dislike1":
     unfavorLine(request.form['line1'])
-  elif update == "dislike2":
+  if update2 == "like2":
+    favorLine(request.form['line2'])
+  elif update2 == "dislike2":
     unfavorLine(request.form['line2'])
-  else:
-    unfavorLine(request.form['line2'])
+  if update3 == "like3":
+    favorLine(request.form['line3'])
+  elif update3 == dislike3:
+    unfavorLine(request.form['line3'])
   return render_template('hello.html')
 
 if __name__ == '__main__':

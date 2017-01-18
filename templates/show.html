@@ -8,16 +8,22 @@
   <h1>{{ result[2] }}</h1>
 
   <h2> Please comment on the effectiveness of this haiku: </h2>
-  <form action="/train" method="POST">
+  <form action="/train" method="POST" class="update-form">
     <input type="hidden" name="line1" value="{result[0]}" ></input>
     <input type="hidden" name="line2" value="{result[1]}" ></input>
     <input type="hidden" name="line3" value="{result[2]}"></input>
-    <input type="radio" name="update" value="like1">I liked Line 1</input></br>
-    <input type="radio" name="update" value="like2">I liked Line 2</input></br>
-    <input type="radio" name="update" value="like3">I liked Line 3</input></br>
-    <input type="radio" name="update" value="dislike1">I disliked Line 1</input></br>
-    <input type="radio" name="update" value="dislike2">I disliked Line 2</input></br>
-    <input type="radio" name="update" value="dislike3">I disliked Line 3</input></br>
+    <label for="update1">How'd you like line one?</label>
+    <input type="radio" class="update1" name="update1" value="like1">I liked it!</input>
+    <input type="radio" class="update1" name="update1" value="dislike1">I disliked it!</input>
+    <input type="radio" class="update1" name="update1" value="indifferent1">Meh, I was indifferent.</input><br><br>
+    <label for="update2">How'd you like line two?</label>
+    <input type="radio" class="update2" name="update2" value="like2">I liked it!</input>
+    <input type="radio" class="update2" name="update2" value="dislike2">I disliked it!</input>
+    <input type="radio" class="update2" name="update2" value="indifferent2">Meh, I was indifferent.</input><br><br>
+    <label for="update3">How'd you like line 3?</label>
+    <input type="radio" class="update3" name="update3" value="like3">I liked it!</input>
+    <input type="radio" class="update3" name="update3" value="dislike3">I disliked it!</input>
+    <input type="radio" class="update3" name="update3" value="indifferent3">Meh, I was indifferent.</input>
     <input type="submit"></input>
   </form>
 {% else %}
