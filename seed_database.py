@@ -38,7 +38,7 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-files = ['example_poetry/haikus.txt', 'example_poetry/poetry_examples.txt', 'example_poetry/poems_1.txt', 'example_poetry/allthetext.txt']
+files = ['example_poetry/sample1.txt', 'example_poetry/sample2.txt', 'example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt']
 testFiles = ['example_poetry/test_text.txt']
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
 def seedDatabase(files):
@@ -50,4 +50,4 @@ def seedDatabase(files):
   for sourcePair, count in hashed_haikus.items():
     createUnigram(sourcePair, count)
 
-seedDatabase(testFiles)
+seedDatabase(files)
