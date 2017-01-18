@@ -1,11 +1,3 @@
-<div id="resultHaiku">
-  <title>Here is your haiku</title>
-{% if result %}
-  <h1>{{ result[0] }}</h1>
-  <h1>{{ result[1] }}</h1>
-  <h1>{{ result[2] }}</h1>
-
-
   <h2> Please comment on the effectiveness of this haiku: </h2>
   <form action="/train" method="POST" class="update-form">
     <input type="hidden" name="line1" value="{result[0]}" ></input>
@@ -25,9 +17,3 @@
     <input type="radio" class="update3" name="update3" value="indifferent3">Meh, I was indifferent.</input>
     <input type="submit"></input>
   </form>
-{% endif %}
-</div>
-
-<!-- god what does not a \nthe sea and the bus is the\n the end we now or
-
-haiku.split('\n') -->
