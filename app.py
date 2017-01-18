@@ -41,7 +41,7 @@ def haiku():
 @app.route('/train', methods=['POST'])
 def train():
   if request.is_xhr:
-    update1 = request.args.get('train1', "", type=basestring)
+    update1 = request.form['update1']
     update2 = request.form['update2']
     update3 = request.form['update3']
     from training import favorUnigram, unfavorUnigram, favorLine, unfavorLine
