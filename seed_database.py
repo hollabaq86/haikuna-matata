@@ -18,23 +18,22 @@ def scrubText(text, punctuation):
 
 def parseIntoProbabilityHash(text):
   stripPunctuation = ""
-  for string in text:
-    stripPunctuationLine = re.sub(ur"[^\w\d'\s]+",'',line)
-    # stripPunctuationLine = re.sub("\b([a-zA-Z]+)\b",' ',line)
-    stripPunctuation += stripPunctuationLine
-  wordsInText = stripPunctuation.split()
-  i = 0
-  count = len(wordsInText) - 1
-  while (i < count):
-    word1 = wordsInText[i].lower()
-    word2 = wordsInText[i+1].lower()
-    if word1 in d and word2 in d:
-      if (word1 + " " + word2) in probabilityHash:
-        probabilityHash[word1 + " " + word2] += 1
-      else:
-        probabilityHash[word1 + " " + word2] = 1
-    i+=1
-  return probabilityHash
+  stripPunctuationFailsafe = [re.sub(ur"[^\w\d'\s]+",'',string) for string in text]
+  sectionsToParse = [string.split() for string in text]
+  print sectionsToParse
+  # # wordsInText = [stripPunctuation.split()]
+  # i = 0
+  # count = len(wordsInText) - 1
+  # while (i < count):
+  #   word1 = wordsInText[i].lower()
+  #   word2 = wordsInText[i+1].lower()
+  #   if word1 in d and word2 in d:
+  #     if (word1 + " " + word2) in probabilityHash:
+  #       probabilityHash[word1 + " " + word2] += 1
+  #     else:
+  #       probabilityHash[word1 + " " + word2] = 1
+  #   i+=1
+  # return probabilityHash
 
 def createUnigram(unigramSourcePair, count):
   split_text = unigramSourcePair.split(" ")
