@@ -46,6 +46,7 @@ footer {
   justify-content: center;
   align-content: center;
   align-items: center;
+  text-shadow: 1px 1px 2px #3D9945;
 }
 
 div.container {
@@ -101,6 +102,7 @@ div.haiku {
 
 #newHaikuForm {
   position: relative;
+  text-shadow: 1px 1px 2px #3D9945;
 }
 
 .button {
@@ -121,7 +123,7 @@ div.haiku {
   box-shadow: 1px 1px 2px #3D9945;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: black}
 
 .button:active {
   background-color: #3e8e41;
