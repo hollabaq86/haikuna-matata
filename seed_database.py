@@ -82,6 +82,7 @@ def unicodetoascii(text):
 files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt']
 # testFiles = ['example_poetry/test_text.txt']
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
+herokuTest = ['example_poetry/sample2.txt']
 def seedDatabase(files):
   hashed_haikus = {}
   for txtfile in files:
