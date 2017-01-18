@@ -51,7 +51,6 @@ def seedDatabase(files):
   for sourcePair, count in hashed_haikus.items():
     createUnigram(sourcePair, count)
 
-
 # seedDatabase(files)
 seedDatabase(herokuTest)
 
