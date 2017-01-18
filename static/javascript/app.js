@@ -32,7 +32,7 @@ $(document).ready(function(){
 })
 
 function handleWordSubmission() {
-    $('.container').on("submit", "#newHaikuForm", function(event) {
+    $('#newHaikuForm').on("submit", function(event) {
         console.log('Event Triggered');
         console.log(event);
         console.log(this);
