@@ -1,38 +1,41 @@
 $(document).ready(function(){
   $(".rating").hide();
   handleWordSubmission();
-  $(".update-form").on("submit", function(event){
-    event.preventDefault();
-    var update1 = $(".update1:checked").val();
-    var update2 = $(".update2:checked").val();
-    var update3 = $(".update3:checked").val();
-    var line1 = $("line1").val();
-    var line2 = $("line2").val();
-    var line3 = $("line3").val();
-    $.ajax({
-      url: '/train',
-      type: 'POST',
-      dataType: 'json',
-      data: {train1: update1, train2: update2, train3: update3, lineOne: line1, lineTwo: line2, lineThree: line3},
-    })
-    .done(function(response) {
-      $(".rating").hide();
-      $("#newHaikuForm").trigger('reset');
-      $("#newHaikuForm").show();
+  // $(".update-form").on("submit", function(event){
+  //   event.preventDefault();
+  //   var update1 = $(".update1:checked").val();
+  //   var update2 = $(".update2:checked").val();
+  //   var update3 = $(".update3:checked").val();
+  //   var line1 = $("line1").val();
+  //   var line2 = $("line2").val();
+  //   var line3 = $("line3").val();
+  //   $.ajax({
+  //     url: '/train',
+  //     type: 'POST',
+  //     dataType: 'json',
+  //     data: {train1: update1, train2: update2, train3: update3, lineOne: line1, lineTwo: line2, lineThree: line3},
+  //   })
+  //   .done(function(response) {
+  //     $(".rating").hide();
+  //     $("#newHaikuForm").trigger('reset');
+  //     $("#newHaikuForm").show();
 
-    })
-    .fail(function() {
-      console.log("error");
-    })
-    .always(function() {
-      console.log("complete");
-    });
+  //   })
+  //   .fail(function() {
+  //     console.log("error");
+  //   })
+  //   .always(function() {
+  //     console.log("complete");
+  //   });
 
-  })
+  // })
 })
 
 function handleWordSubmission() {
-    $("#newHaikuForm").on("submit", function(event) {
+    $('.container').on("submit", "#newHaikuForm", function(event) {
+        console.log('Event Triggered');
+        console.log(event);
+        console.log(this);
         event.preventDefault();
         var $form = $(this);
         var introHaiku = $(".haiku");
