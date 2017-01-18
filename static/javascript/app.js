@@ -3,6 +3,12 @@ $(document).ready(function(){
   handleWordSubmission();
   $(".update-form").on("submit", function(event){
     event.preventDefault();
+    var update1 = $(".update1:checked").val();
+    var update2 = $(".update2:checked").val();
+    var update3 = $(".update3:checked").val();
+    var line1 = $("line1").val();
+    var line2 = $("line2").val();
+    var line3 = $("line3").val();
     $.ajax({
       url: '/train',
       type: 'POST',
@@ -11,7 +17,9 @@ $(document).ready(function(){
     })
     .done(function(response) {
       $(".rating").hide();
-      $(".form").show();
+      $("#newHaikuForm").trigger('reset');
+      $("#newHaikuForm").show();
+
     })
     .fail(function() {
       console.log("error");
@@ -24,7 +32,7 @@ $(document).ready(function(){
 })
 
 function handleWordSubmission() {
-    $('.container').on("submit", "#newHaikuForm", function(event) {
+    $("#newHaikuForm").on("submit", function(event) {
         event.preventDefault();
         var $form = $(this);
         var introHaiku = $(".haiku");
