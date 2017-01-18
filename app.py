@@ -30,7 +30,6 @@ def haiku():
     line1 = result[0]
     line2 = result[1]
     line3 = result[2]
-    print(line1)
     return jsonify(lineOne=line1, lineTwo=line2, lineThree=line3)
   else:
     word = request.form['word']
