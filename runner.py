@@ -155,10 +155,10 @@ def identifyPartsOfSpeech(word):
 #     print(word, fdist[word])
 
 
-print(generateHaiku("the"))
+# print(generateHaiku("the"))
 # print("***************")
-print(generateHaiku("lksdjfhlsdhjfgsl;d"))
-print(identifyPartsOfSpeech("and"))
+# print(generateHaiku("lksdjfhlsdhjfgsl;d"))
+# print(identifyPartsOfSpeech("and"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
