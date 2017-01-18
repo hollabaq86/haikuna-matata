@@ -98,11 +98,9 @@ def formatPossibleWords(unigrams, reqSylCount):
 		for each in unigrams:
 			if countSyllables(each.word2) == 1:
 				tempContainer.append(each)
-		for unigram in tempContainer:
-			if str(identifyPartsOfSpeech(unigram.word2)) == 'IN' or str(identifyPartsOfSpeech(unigram.word2)) == 'DT':
-				# print type(unigrams)
-				tempContainer.remove(unigram)
-		for unigram in tempContainer:
+			newTempContainer = removePartOfSpeech('IN', tempContainer)
+			finalTempContainer = removePartOfSpeech('DT', newTempContainer)
+		for unigram in finalTempContainer:
 			for index in range(unigram.count):
 				if countSyllables(unigram.word2) <= reqSylCount:
 					container.append(unigram.word2)
@@ -111,14 +109,13 @@ def formatPossibleWords(unigrams, reqSylCount):
 			for index in range(each.count):
 				if countSyllables(each.word2) <= reqSylCount:
 					container.append(each.word2)
-	# if reqSylCount == 1:
-	# 	for word in container:
-	# 		if str(identifyPartsOfSpeech(word)) == 'IN' or str(identifyPartsOfSpeech(word)) == 'DT':
-				# container.remove(word)
-				# print("removed")
-				# print(word)
-	# print container
 	return container
+
+def removePartOfSpeech(pos, tempContainer):
+	for unigram in tempContainer:
+		if str(identifyPartsOfSpeech(unigram.word2) == pos):
+			tempContainer.remove(unigram)
+	return tempContainer
 
 # def formatPossibleWords(unigrams, reqSylCount):
 # 	container = []
@@ -154,11 +151,10 @@ def identifyPartsOfSpeech(word):
 #   for word in uniqueWords:
 #     print(word, fdist[word])
 
-
+print(identifyPartsOfSpeech("upon"))
 print(generateHaiku("the"))
 # print("***************")
 print(generateHaiku("lksdjfhlsdhjfgsl;d"))
-print(identifyPartsOfSpeech("and"))
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
