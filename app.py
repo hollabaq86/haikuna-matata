@@ -4,7 +4,6 @@ from flask import request
 from flask import jsonify
 from flask_sqlalchemy import SQLAlchemy
 import os
-# import run_text_files
 
 
 app = Flask(__name__)

@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  handleWordSubmission();
   $(".update-form").on("submit", function(event){
     event.preventDefault();
     var update1 = $(".update1:checked").val();
@@ -22,3 +23,9 @@ $(document).ready(function(){
 
   })
 })
+
+function handleWordSubmission() {
+    $('.container').on("submit", "#newHaikuForm", function(event) {
+        event.preventDefault();
+    })
+}
