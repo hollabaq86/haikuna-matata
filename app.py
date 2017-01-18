@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+from flask import jsonify
 from flask_sqlalchemy import SQLAlchemy
 import os
 
@@ -21,6 +22,17 @@ def hello():
 
 @app.route('/haiku', methods=['POST'])
 def haiku():
+  if request.is_xhr:
+    word = request.form['word']
+    processed_word = word.lower()
+    from runner import generateHaiku
+    result = generateHaiku(processed_word).split('\n')
+    line1 = result[0]
+    line2 = result[1]
+    line3 = result[2]
+    print(line1)
+    return jsonify(lineOne=line1, lineTwo=line2, lineThree=line3)
+  else:
     word = request.form['word']
     processed_word = word.lower()
     from runner import generateHaiku
