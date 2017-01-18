@@ -12,8 +12,15 @@ header {
   letter-spacing: 2px;
 }
 
+html {
+  background: url("https://c1.staticflickr.com/6/5168/5339976848_704053fc92_b.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-  background: url("https://c1.staticflickr.com/6/5168/5339976848_704053fc92_b.jpg") no-repeat;
   width: 100%;
   height: 60%;
   flex-grow: 3;
@@ -24,9 +31,15 @@ body {
   font-size: 20px;
 }
 
+
 footer {
   width: 100%;
   height: 10%;
+  position: fixed;
+  left:0px;
+  bottom:10px;
+  height:30px;
+  width:100%;
   display:flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -51,17 +64,67 @@ h1.logo {
   flex-basis: 75px;
   text-align: center;
   color: #4414CC;
+  text-shadow: 1px 1px 2px #14CC23;
 }
 
-footer.footer-item {
+footer.footer-items {
   width: 100%;
   height: 60px;
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #4414CC;
   font-size: 10px;
+  position: absolute;
+}
+
+a {
+  color: white;
 }
 
 h2 {
     text-shadow: 1px 1px 2px #3D9945;
+}
+
+h4 {
+  text-align: center;
+  position: relative;
+  right: 28px;
+  font-size: 10px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+div.haiku {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#newHaikuForm {
+  position: relative;
+}
+
+.button {
+  display: inline-block;
+  font-family: 'Merriweather', serif;
+  position: relative;
+  left: 105px;
+  padding: 5px 5px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4414CC;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px #3D9945;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
