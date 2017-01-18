@@ -3,7 +3,6 @@ from flask import render_template
 from flask import request
 from flask_sqlalchemy import SQLAlchemy
 import os
-# import run_text_files
 
 
 app = Flask(__name__)
