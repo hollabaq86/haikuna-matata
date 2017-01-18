@@ -10,9 +10,15 @@ d = cmudict.dict()
 #tests will only pass if you move this declaration of the empty probability hash to inside of the parse method
 probabilityHash = {}
 
+def scrubText(text, punctuation):
+  separatedLines = [line.split(punctuation) for line in text]
+  separatedLines = [string for sublist in separatedLines for string in sublist]
+  separatedLines = filter(None, separatedLines)
+  return separatedLines
+
 def parseIntoProbabilityHash(text):
   stripPunctuation = ""
-  for line in text:
+  for string in text:
     stripPunctuationLine = re.sub(ur"[^\w\d'\s]+",'',line)
     # stripPunctuationLine = re.sub("\b([a-zA-Z]+)\b",' ',line)
     stripPunctuation += stripPunctuationLine
@@ -38,16 +44,22 @@ def createUnigram(unigramSourcePair, count):
 
 
 #runner logic
-files = ['example_poetry/sample1.txt', 'example_poetry/sample2.txt', 'example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt']
+# files = ['example_poetry/sample1.txt', 'example_poetry/sample2.txt', 'example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt']
+files = ["example_poetry/fix_parser.txt"]
 testFiles = ['example_poetry/test_text.txt']
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
 def seedDatabase(files):
   for txtfile in files:
     haikuFile = open(txtfile)
     haikus = haikuFile.readlines()
-    hashed_haikus = parseIntoProbabilityHash(haikus)
-    print("processing")
-  for sourcePair, count in hashed_haikus.items():
-    createUnigram(sourcePair, count)
+    haikus = [string.replace("\n", "") for string in haikus]
+    punctuationList = [".", "?", "!", ":", ";", "(", ")"]
+    for punctuation in punctuationList:
+      haikus = scrubText(haikus, punctuation)
+    hashed_haikus = parseIntoProbabilityHash(haikus)  
+
+  #   print("processing")
+  # for sourcePair, count in hashed_haikus.items():
+  #   createUnigram(sourcePair, count)
 
 seedDatabase(files)
