@@ -1,16 +1,13 @@
 {% extends "layout.html" %}
 	{% block body %}
 	<div class='haiku'>
-		<b><h2>deep in the jungle</h2>
-		<h2>problem-free, philosophy</h2>
-		<h2>we have no worries...</h2></b>
+		<b><h2 class="line1">deep in the jungle</h2>
+		<h2 class="line2">problem-free, philosophy</h2>
+		<h2 class="line3">we have no worries...</h2></b>
 	</div>
 
-	<form id="newHaikuForm" action="/haiku" method="POST">
-		Submit a Word: <input type="text" name="word">
-		<br/>
-		<br/>
-		<input type="submit">
-	</form>
-	{% include "rating.html" %}
+<div class="form">{%include "word_form.html"%}</div>
+{% include "rating.html" %}
 {% endblock %}
+
+
