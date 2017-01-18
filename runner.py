@@ -144,7 +144,7 @@ def identifyPartsOfSpeech(word):
 # print(generateHaiku("lksdjfhlsdhjfgsl;d"))
 # print(identifyPartsOfSpeech("and"))
 
-print(generateHaiku("miserable"))
+# print(generateHaiku("miserable"))
 
 
 
