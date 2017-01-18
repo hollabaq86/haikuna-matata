@@ -1,20 +1,15 @@
-<!doctype html>
- {% extends "layout.html" %}
- {% block body %}
-<title>Haikuna-Matata</title>
-  <h1>Welcome to Haikuna-Matata</h1>
-
-<b><h2>Please enter a word.</h2>
-  <h2>I will write you a haiku...</h2>
-  <h2>Tell me, is it good?</h2></b>
-
-<form action="/haiku" method="POST">
-    Word: <input type="text" name="word">
-    <br/>
-    <br/>
-    <input type="submit">
-</form>
-
-</body>
-</html>
+{% extends "layout.html" %}
+	{% block body %}
+	<div class='haiku'>
+		<b><h2>deep in the jungle</h2>
+		<h2>problem-free, philosophy</h2>
+		<h2>we have no worries...</h2></b>
+	</div>
+	
+	<form action="/haiku" method="POST">
+		Word: <input type="text" name="word">
+		<br/>
+		<br/>
+		<input type="submit">
+	</form>
 {% endblock %}

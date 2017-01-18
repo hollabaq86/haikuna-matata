@@ -6,12 +6,24 @@
   <h1>{{ result[0] }}</h1>
   <h1>{{ result[1] }}</h1>
   <h1>{{ result[2] }}</h1>
+
+  <h2> Please comment on the effectiveness of this haiku: </h2>
+  <form action="/train" method="POST">
+    <input type="hidden" name="line1" value="{result[0]}" ></input>
+    <input type="hidden" name="line2" value="{result[1]}" ></input>
+    <input type="hidden" name="line3" value="{result[2]}"></input>
+    <input type="radio" name="update" value="like1">I liked Line 1</input></br>
+    <input type="radio" name="update" value="like2">I liked Line 2</input></br>
+    <input type="radio" name="update" value="like3">I liked Line 3</input></br>
+    <input type="radio" name="update" value="dislike1">I disliked Line 1</input></br>
+    <input type="radio" name="update" value="dislike2">I disliked Line 2</input></br>
+    <input type="radio" name="update" value="dislike3">I disliked Line 3</input></br>
+    <input type="submit"></input>
+  </form>
 {% else %}
   <h1>You didn't enter a word</h1>
 {% endif %}
 {% endblock %}
-
-
 <!-- god what does not a \nthe sea and the bus is the\n the end we now or
 
 haiku.split('\n') -->
