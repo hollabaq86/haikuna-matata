@@ -39,18 +39,27 @@ Stretch Goals for the machine to learn
 
 To use this program, simply clone the repository to your computer and navigate to its directory.
 
-A virtual development environment has also been set up for this project, which has all of the current and needed versions of all modules needed to run this program.  Run the following from the terminal to load the pre-defined environment and set all necessary environment variables.
+A virtual development environment has also been set up for this project, which has all of the current and needed versions of all modules needed to run this program.  To install virtualenv on your machine, enter the following.
 
+```
 $ pip install virtualenv
+```
+
+You can now enter the following from the terminal to load the pre-defined environment and set all necessary environment variables.
+
+```
 $ source env/bin/activate
 $ export APP_SETTINGS="config.DevelopmentConfig"
 $ export DATABASE_URL="postgresql://localhost/haiku"
+```
 
 To return to the normal world and exit the virtual environment, simply enter "deactivate" in the terminal.  Whenever you are ready to re-load the virtual environment, simply re-enter the above commands.
 
 To open the web page locally, simply launch the app.py file:
 
+```
 $ python app.py
+```
 
 Navigate to http://localhost:5000/.  There you can enter in a word and Haikuna Matata will generate a haiku for you
 
@@ -58,7 +67,7 @@ Navigate to http://localhost:5000/.  There you can enter in a word and Haikuna M
 Haiku (Created by Haikuna Matata):
 This is a sample
 Haiku made all by myself
-Bask in its glory!
+Bask in its glory
 ```
 
 To close your local server, type CTRL+C
