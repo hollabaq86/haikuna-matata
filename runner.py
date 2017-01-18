@@ -138,9 +138,15 @@ def identifyPartsOfSpeech(word):
 #   for word in uniqueWords:
 #     print(word, fdist[word])
 
-print(generateHaiku("miserable"))
+
+# print(generateHaiku("the"))
 # print("***************")
 # print(generateHaiku("lksdjfhlsdhjfgsl;d"))
+# print(identifyPartsOfSpeech("and"))
+
+print(generateHaiku("miserable"))
+
+
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
