@@ -3,22 +3,26 @@
 <head>
 
   <title>Haikuna-Matata</title>
-  <!-- Stylesheets -->
- <!--  <link rel="stylesheet" href="/css/normalize.css"> -->
-<link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Pacifico" rel="stylesheet">
 
 </head>
+
 <body>
-    <header>
-      <div class="container">
-        <h1 class="logo">Haikuna-Matata</h1>
-        <strong><nav>
-        </nav></strong>
-      </div>
-    </header>
-    <div class="container">
-      {% block body %}
-      {% endblock %}
+  <header>
+    <div class="logo-container">
+      <h1 class="logo">Haikuna-Matata</h1>
     </div>
-  </body>
+  </header>
+  <div class="container">
+    {% block body %}
+    {% endblock %}
+  </div>
+  <footer>
+    <ul class='footer-container'>
+      <li class='footer-item'>Credits</li>
+      <li class='footer-item'>About</li>
+    </ul>
+  </footer>
+</body>
 </html>
