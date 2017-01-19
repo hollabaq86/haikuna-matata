@@ -98,10 +98,8 @@ def formatPossibleWords(unigrams, reqSylCount):
 	if reqSylCount == 1 or reqSylCount == 2:
 		for each in unigrams:
 			tempContainer.append(each)
-		newTempContainer = removePartOfSpeech('IN', tempContainer)
-		nextTempContainer = removePartOfSpeech('CC', newTempContainer)
-		finalTempContainer = removePartOfSpeech('DT', nextTempContainer)
-		for unigram in finalTempContainer:
+		newTempContainer = removePartOfSpeech(tempContainer)
+		for unigram in newTempContainer:
 			for index in range(unigram.count):
 				if countSyllables(unigram.word2) <= reqSylCount:
 					container.append(unigram.word2)
@@ -113,9 +111,9 @@ def formatPossibleWords(unigrams, reqSylCount):
 	container = [word for word in container if word.lower]				
 	return container
 
-def removePartOfSpeech(pos, tempContainer):
+def removePartOfSpeech(tempContainer):
 	for unigram in tempContainer:
-		if identifyPartsOfSpeech(unigram.word2) == pos:
+		if identifyPartsOfSpeech(unigram.word2) in ['IN', 'CC', 'DT']:
 			tempContainer.remove(unigram)
 	return tempContainer
 
@@ -143,24 +141,11 @@ def identifyPartsOfSpeech(word):
 
 print("***************")
 print(generateHaiku("water"))
-print identifyPartsOfSpeech("we")
+print "***************"
+print(generateHaiku("miserable"))
 
 
 
 # index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
 # http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
-
-
-
-# NOTES FROM MATT BAKER ABOUT REFACTORING
-# def validThing(unigram):
-# 	pos = str(identifyPartsOfSpeech(unigram.word2))
-# 	countSyllables(unigram.word2) == 1 &&
-# 	pos != 'IN' && pos != "DT"
-# def formatPossibleWords(unigrams, reqSylCount):
-# 	tempContainer = []
-# 	container = []
-# 	if reqSylCount == 1:
-		# tempContainer = [word in unigrams if validThing(unigram)]
-		# for each in unigrams:
 
