@@ -28,8 +28,9 @@ def build_hash(existingHash, listToFormat):
   i = 0
   count = len(listToFormat) - 1
   while (i < count):
-    twoWordString = listToFormat[i].lower() + " " + listToFormat[i+1].lower()
-    format_hash(existingHash, twoWordString)
+    if listToFormat[i] in d and listToFormat[i+1] in d:
+      twoWordString = listToFormat[i].lower() + " " + listToFormat[i+1].lower()
+      format_hash(existingHash, twoWordString)
     i += 1
   return existingHash
 
