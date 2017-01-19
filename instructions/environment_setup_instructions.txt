@@ -55,3 +55,6 @@ apprentice=# \q
 
 run python server localhost:5000
   python app.py
+
+#identifying parts of speech:
+http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
