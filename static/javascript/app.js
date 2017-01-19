@@ -33,9 +33,6 @@ $(document).ready(function(){
 
 function handleWordSubmission() {
     $('#newHaikuForm').on("submit", function(event) {
-        console.log('Event Triggered');
-        console.log(event);
-        console.log(this);
         event.preventDefault();
         var $form = $(this);
         var introHaiku = $(".haiku");
@@ -48,7 +45,6 @@ function handleWordSubmission() {
           data: word,
         });
         request.done(function(response){
-        console.log(response);
           $(".line1").text(response.lineOne);
           $(".line2").text(response.lineTwo);
           $(".line3").text(response.lineThree);
