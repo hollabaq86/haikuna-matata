@@ -7,9 +7,6 @@ import curses
 from curses.ascii import isdigit
 d = cmudict.dict()
 
-#tests will only pass if you move this declaration of the empty probability hash to inside of the parse method
-# probabilityHash = {}
-
 def scrubText(text, punctuation):
   separatedLines = [line.split(punctuation) for line in text]
   separatedLines = [string for sublist in separatedLines for string in sublist]
@@ -23,13 +20,15 @@ def parseIntoProbabilityHash(text, existingHash):
   masterHash = [build_hash(masterHash, section) for section in sectionsToParse][0]
   return masterHash
 
-
 def build_hash(existingHash, listToFormat):
   i = 0
   count = len(listToFormat) - 1
   while (i < count):
-    twoWordString = listToFormat[i].lower() + " " + listToFormat[i+1].lower()
-    format_hash(existingHash, twoWordString)
+    word1 = listToFormat[i].lower()
+    word2 = listToFormat[i+1].lower()
+    if word1 in d and word2 in d:
+      twoWordString = word1 + " " + word2
+      format_hash(existingHash, twoWordString)
     i += 1
   return existingHash
 
@@ -78,14 +77,8 @@ def unicodetoascii(text):
   encodedString = text.decode('utf-8').translate(uni2ascii).encode('ascii', 'ignore')
   return encodedString
 
-#runner logic
 
-files = ['example_poetry/sample1.txt', 'example_poetry/sample2.txt', 'example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
-testFiles = ['example_poetry/test_text.txt']
-
-# testFiles = ['example_poetry/test_text.txt']
-
-# files variable passed in must be an array.  If only passing in one file, still must be an array.
+files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
 herokuTest = ['example_poetry/sample2.txt']
 
 def seedDatabase(files):

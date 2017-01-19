@@ -17,8 +17,6 @@ def numSylsInWord(word):
 def isHaiku(potentialHaiku):
 	syllableCount = countSyllables(potentialHaiku)
 	if syllableCount == 17:
-		#how do we want to break this down?
-		#what are the other "ifs" that this conditional needs to meet?
 		result = True
 	else:
 		result = False
@@ -37,8 +35,8 @@ def inDatabase(firstWord):
 	from models import Unigram
 	unigrams = Unigram.query.filter(Unigram.word1 == firstWord)
 	for each in unigrams:
-			for unigram in range(each.count):
-					container.append(each.word2)
+		addWords = [each.word2 for unigram in xrange(each.count)]
+		container.append(addWords)
 	if not container:
 		return False
 	if container:
@@ -47,29 +45,34 @@ def inDatabase(firstWord):
 def generateHaiku(firstWord):
 	inDB = inDatabase(firstWord)
 	if inDB:
-		haiku = ""
-		haiku += startGenerateLine(5, firstWord)
+		haiku = startGenerateLine(5, firstWord)
+		nextLineStart = haiku.split()[-1]
 		haiku += "\n"
-		haiku += startGenerateLine(7)
+		haiku += startGenerateLine(7, haiku.split()[-1], True)
+		nextLineStart = haiku.split()[-1]
 		haiku += "\n"
-		haiku += startGenerateLine(5)
+		haiku += startGenerateLine(5, haiku.split()[-1], True)
 	if not inDB:
 		firstWord = pickRandomWord(5)
 		haiku = generateHaiku(firstWord)
 	return haiku
 
-def startGenerateLine(sylCount, startingWord= None):
+def startGenerateLine(sylCount, startingWord= None, repeat=None):
 	if not startingWord:
 		startingWord = pickRandomWord(sylCount)
+	if repeat:
+		possibilities = createPossibleWords(startingWord, sylCount)
+		startingWord = possibilities[0]
 	remainingSylCount = sylCount - countSyllables(startingWord)
 	line = buildLineList(remainingSylCount, [startingWord])
 	return " ".join(line)
 
 def buildLineList(sylCount, wordsFromBefore):
+	from random import shuffle
 	if sylCount == 0:
 		return wordsFromBefore
 	lastWord = wordsFromBefore[-1]
-	possibilities = grabPossibleWords(lastWord, sylCount)
+	possibilities = createPossibleWords(lastWord, sylCount)
 	for possibleWord in possibilities:
 		newWordsFromBefore = [word[:] for word in wordsFromBefore]
 		newWordsFromBefore.append(possibleWord)
@@ -90,36 +93,31 @@ def pickRandomWord(reqSylCount):
 			break
 	return tryWord.word1
 
-def formatPossibleWords(unigrams, reqSylCount):
-	tempContainer = []
-	container = []
-	if reqSylCount == 1 or reqSylCount == 2:
-		for each in unigrams:
-			tempContainer.append(each)
-		newTempContainer = removePartOfSpeech('IN', tempContainer)
-		nextTempContainer = removePartOfSpeech('CC', newTempContainer)
-		finalTempContainer = removePartOfSpeech('DT', nextTempContainer)
-		for unigram in finalTempContainer:
-			for index in range(unigram.count):
-				if countSyllables(unigram.word2) <= reqSylCount:
-					container.append(unigram.word2)
-	else:
-		for each in unigrams:
-			for index in range(each.count):
-				if countSyllables(each.word2) <= reqSylCount:
-					container.append(each.word2)
-	return container
-
-def removePartOfSpeech(pos, tempContainer):
-	for unigram in tempContainer:
-		if identifyPartsOfSpeech(unigram.word2) == pos:
-			tempContainer.remove(unigram)
-	return tempContainer
+def createPossibleWords(lastWord, sylCount):
+	from random import shuffle
+	possibilities = grabPossibleWords(lastWord, sylCount)
+	shuffle(possibilities)
+	return possibilities
 
 def grabPossibleWords(baseWord, reqSylCount):
 	from models import Unigram
 	listOfUnigrams = Unigram.query.filter(Unigram.word1 ==baseWord)
-	return formatPossibleWords(listOfUnigrams, reqSylCount)
+	return filterPossibleWords(listOfUnigrams, reqSylCount)
+
+def filterPossibleWords(unigrams, reqSylCount):
+	if reqSylCount == 1 or reqSylCount == 2:
+		filteredUnigrams = removePartOfSpeech(unigrams)
+	filteredWords = sylCountFilter(unigrams, reqSylCount)
+	return filteredWords
+
+def removePartOfSpeech(unigrams):
+	filteredUnigrams = [unigram for unigram in unigrams if identifyPartsOfSpeech(unigram.word2) not in ['IN', 'CC', 'DT']]
+	return filteredUnigrams
+
+def sylCountFilter(unigrams, reqSylCount):
+	filteredWords = [unigram.word2 for unigram in unigrams if countSyllables(unigram.word2) <= reqSylCount]
+	return filteredWords
+
 
 def identifyPartsOfSpeech(word):
 	cleanString = re.sub(ur"[^\w\d'\s]+",' ', word)
@@ -127,41 +125,4 @@ def identifyPartsOfSpeech(word):
 	result = nltk.pos_tag(pos)
 	return result[0][1]
 
-# def findFrequency(largeBodyofText):
-#   cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
-#   arrayOfWords = nltk.word_tokenize(cleanText)
-#   fdist = FreqDist(arrayOfWords)
-#   uniqueWords = []
-#   for word in arrayOfWords:
-#     if not word in uniqueWords:
-#       uniqueWords.append(word)
-#   for word in uniqueWords:
-#     print(word, fdist[word])
-
-
-# print(generateHaiku("fucking"))
-# print("***************")
-# print(generateHaiku("lksdjfhlsdhjfgsl;d"))
-# print(identifyPartsOfSpeech("and"))
-
-# print(generateHaiku("miserable"))
-
-
-
-# index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
-# http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
-
-
-
-# NOTES FROM MATT BAKER ABOUT REFACTORING
-# def validThing(unigram):
-# 	pos = str(identifyPartsOfSpeech(unigram.word2))
-# 	countSyllables(unigram.word2) == 1 &&
-# 	pos != 'IN' && pos != "DT"
-# def formatPossibleWords(unigrams, reqSylCount):
-# 	tempContainer = []
-# 	container = []
-# 	if reqSylCount == 1:
-		# tempContainer = [word in unigrams if validThing(unigram)]
-		# for each in unigrams:
 
