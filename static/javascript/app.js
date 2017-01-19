@@ -42,30 +42,44 @@ function handleWordSubmission() {
       var newHaiku = $(".resultHaiku");
       var url = $form.attr("action");
       var word = $(this).serialize();
+      var wordText = word.split("=");
+      wordText = wordText.pop();
+      debugger
       var request = $.ajax({
         url: url,
         type: "POST",
         data: word,
       });
       request.done(function(response){
-        function isWordInHaiku(word, response){
-          if (findWord(word, response.lineOne) && findWord(word, response.lineTwo) && findWord(word, response.lineThree)) {
-            return true
+        function isWordInHaiku(wordText, response){
+          var returnBool = false;
+          debugger
+          if (findWord(wordText, response.lineOne)){
+            returnBool = true;
+          } else if (findWord(wordText, response.lineTwo)){
+            returnBool = true;
+          } else if (findWord(wordText, response.lineThree)){
+            returnBool = true;
+          } else {
+            returnBool = false;
           }
-          return false
+          return returnBool;
         }
         function findWord(word, str) {
+          debugger
           return RegExp('\\b'+ word +'\\b').test(str)
         }
         debugger
-        if (isWordInHaiku(word, response)) {
+        if (isWordInHaiku(wordText, response)) {
         } else {
-        insertString = "<h4 class='no-word'>Sorry, I don't know that word, so I chose a new one</h4>"
+          insertString = "<h4 class='no-word'>Sorry, I don't know that word, so I chose a new one</h4>";
         }
         $(".line1").text(response.lineOne);
         $(".line2").text(response.lineTwo);
         $(".line3").text(response.lineThree);
-        $(".line1").prepend(insertString)
+        if (typeof insertString != 'undefined'){
+          $(".line1").prepend(insertString);
+        }
         $form.hide();
         $(".rating").show();
       })

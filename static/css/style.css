@@ -75,7 +75,7 @@ footer.footer-items {
   font-family: 'Merriweather', serif;
   color: #4414CC;
   font-size: 10px;
-  position: absolute;
+  bottom: 0;
 }
 
 a {
@@ -129,4 +129,14 @@ div.haiku {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
+}
+
+div.rating {
+  margin-bottom: 100px;
+}
+
+h4.no-word {
+  font-size: 14px;
+  text-align: center;
+  right: 5px;
 }
