@@ -154,7 +154,6 @@ def identifyPartsOfSpeech(word):
 #   for word in uniqueWords:
 #     print(word, fdist[word])
 
-
 print(generateHaiku("the"))
 print("***************")
 print(generateHaiku("water"))
