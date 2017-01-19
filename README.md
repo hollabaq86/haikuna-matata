@@ -36,7 +36,7 @@ Stretch Goals for the machine to learn
 
 ## Installation & Usage
 
-[Python 2.7](https://www.python.org/downloads/) is required to run this program. If your computer does not use Python yet, click the link and download Python 2.7 before attempting to run this program.
+[Python 2.7](https://www.python.org/downloads/) is required to run this program. If your computer does not have Python yet, click the link and download Python 2.7 before attempting to run this program.
 
 To use this program, simply clone the repository to your computer and navigate to its directory.
 
