@@ -80,7 +80,7 @@ def buildLineList(sylCount, wordsFromBefore):
 		result = buildLineList(newSyllableCount, newWordsFromBefore)
 		if result:
 			return result
-	return None	
+	return None
 
 def pickRandomWord(reqSylCount):
 	from models import Unigram
@@ -116,7 +116,7 @@ def removePartOfSpeech(unigrams):
 
 def sylCountFilter(unigrams, reqSylCount):
 	filteredWords = [unigram.word2 for unigram in unigrams if countSyllables(unigram.word2) <= reqSylCount]
-	return filteredWords			
+	return filteredWords
 
 
 def identifyPartsOfSpeech(word):
@@ -136,10 +136,10 @@ def identifyPartsOfSpeech(word):
 #   for word in uniqueWords:
 #     print(word, fdist[word])
 
-print("***************")
-print(generateHaiku("water"))
-print "***************"
-print(generateHaiku("hatrick"))
+# print("***************")
+# print(generateHaiku("water"))
+# print "***************"
+# print(generateHaiku("hatrick"))
 
 
 
