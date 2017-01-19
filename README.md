@@ -25,7 +25,6 @@ All Haiku are defined by the following structure
 
 Intermediate Haiku Requirements
 ---
-<<<<<<< HEAD
 All Haikus must
 * Be centered around a user provided word, or given no user input, centered around a randomly generated word
 * Have no line ending in a preposition
@@ -33,7 +32,6 @@ All Haikus must
 Advanced Haiku Requirements
 ---
 Stretch Goals for the machine to learn
-<<<<<<< HEAD
 * Haikus must make sense.
 * All haikus will follow proper grammatical structure.
 
