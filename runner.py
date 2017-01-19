@@ -58,11 +58,11 @@ def generateHaiku(firstWord):
 	return haiku
 
 def startGenerateLine(sylCount, startingWord= None, repeat=None):
-	if not startingWord:
-		startingWord = pickRandomWord(sylCount)
-	if repeat:
+	if repeat == True:
 		possibilities = createPossibleWords(startingWord, sylCount)
 		startingWord = possibilities[0]
+	if not startingWord:
+		startingWord = pickRandomWord(sylCount)
 	remainingSylCount = sylCount - countSyllables(startingWord)
 	line = buildLineList(remainingSylCount, [startingWord])
 	return " ".join(line)

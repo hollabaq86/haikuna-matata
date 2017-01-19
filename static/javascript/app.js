@@ -3,6 +3,7 @@ $(document).ready(function(){
   handleWordSubmission();
   $(".update-form").on("submit", function(event){
     event.preventDefault();
+    $(".no-word").remove();
     var update1 = $(".update1:checked").val();
     var update2 = $(".update2:checked").val();
     var update3 = $(".update3:checked").val();
@@ -35,24 +36,49 @@ $(document).ready(function(){
 })
 
 function handleWordSubmission() {
-    $('#newHaikuForm').on("submit", function(event) {
-        event.preventDefault();
-        var $form = $(this);
-        var introHaiku = $(".haiku");
-        var newHaiku = $(".resultHaiku");
-        var url = $form.attr("action");
-        var word = $(this).serialize();
-        var request = $.ajax({
-          url: url,
-          type: "POST",
-          data: word,
-        });
-        request.done(function(response){
-          $(".line1").text(response.lineOne);
-          $(".line2").text(response.lineTwo);
-          $(".line3").text(response.lineThree);
-          $form.hide();
-          $(".rating").show();
-        })
-    })
+  $('#newHaikuForm').on("submit", function(event) {
+      event.preventDefault();
+      var $form = $(this);
+      var introHaiku = $(".haiku");
+      var newHaiku = $(".resultHaiku");
+      var url = $form.attr("action");
+      var word = $(this).serialize();
+      var wordText = word.split("=");
+      wordText = wordText.pop();
+      var request = $.ajax({
+        url: url,
+        type: "POST",
+        data: word,
+      });
+      request.done(function(response){
+        function isWordInHaiku(wordText, response){
+          var returnBool = false;
+          if (findWord(wordText, response.lineOne)){
+            returnBool = true;
+          } else if (findWord(wordText, response.lineTwo)){
+            returnBool = true;
+          } else if (findWord(wordText, response.lineThree)){
+            returnBool = true;
+          } else {
+            returnBool = false;
+          }
+          return returnBool;
+        }
+        function findWord(word, str) {
+          return RegExp('\\b'+ word +'\\b').test(str)
+        }
+        if (isWordInHaiku(wordText, response)) {
+        } else {
+          insertString = "<h4 class='no-word'>Sorry, I don't know that word, so I chose a new one</h4>";
+        }
+        $(".line1").text(response.lineOne);
+        $(".line2").text(response.lineTwo);
+        $(".line3").text(response.lineThree);
+        if (typeof insertString != 'undefined'){
+          $(".line1").closest("b").prepend(insertString);
+        }
+        $form.hide();
+        $(".rating").show();
+      })
+  })
 }
