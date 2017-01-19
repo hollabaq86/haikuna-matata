@@ -47,16 +47,22 @@ def train():
     update3 = requestData['train3']
     from training import favorUnigram, unfavorUnigram, favorLine, unfavorLine
     if update1 == "like1":
+      print("you liked line 1")
       favorLine(requestData['lineOne'])
     elif update1 == "dislike1":
+      print("you disliked line 1")
       unfavorLine(requestData['lineOne'])
     if update2 == "like2":
+      print("you liked line 2")
       favorLine(requestData['lineTwo'])
     elif update2 == "dislike2":
+      print("you disliked line 2")
       unfavorLine(requestData['lineTwo'])
     if update3 == "like3":
+      print("you liked line 3")
       favorLine(requestData['lineThree'])
     elif update3 == "dislike3":
+      print("you disliked line 3")
       unfavorLine(requestData['lineThree'])
     return jsonify(result="thank you!")
   else:

@@ -4,9 +4,9 @@ $(document).ready(function(){
   $(".update-form").on("submit", function(event){
     event.preventDefault();
     $(".no-word").remove();
-    var update1 = $(".update1:checked").val();
-    var update2 = $(".update2:checked").val();
-    var update3 = $(".update3:checked").val();
+    var update1 = $(".update1:checked").val() || "indifferent1";
+    var update2 = $(".update2:checked").val() || "indifferent2";
+    var update3 = $(".update3:checked").val() || "indifferent3";
     var line1 = $(".line1").text();
     var line2 = $(".line2").text();
     var line3 = $(".line3").text();
