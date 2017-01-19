@@ -93,16 +93,9 @@ def pickRandomWord(reqSylCount):
 	return tryWord.word1
 
 def formatPossibleWords(unigrams, reqSylCount):
-	tempContainer = []
 	container = []
 	if reqSylCount == 1 or reqSylCount == 2:
-		for each in unigrams:
-			tempContainer.append(each)
-		newTempContainer = removePartOfSpeech(tempContainer)
-		for unigram in newTempContainer:
-			for index in range(unigram.count):
-				if countSyllables(unigram.word2) <= reqSylCount:
-					container.append(unigram.word2)
+		container = shortSylCountFilter(unigrams, reqSylCount)
 	else:
 		for each in unigrams:
 			for index in range(each.count):
@@ -111,11 +104,17 @@ def formatPossibleWords(unigrams, reqSylCount):
 	container = [word for word in container if word.lower]				
 	return container
 
-def removePartOfSpeech(tempContainer):
-	for unigram in tempContainer:
+def shortSylCountFilter(unigrams, reqSylCount):
+	container = [each for each in unigrams]
+	container = removePartOfSpeech(container)
+	container = [unigram.word2 for unigram in container if countSyllables(unigram.word2) <= reqSylCount]
+	return container			
+
+def removePartOfSpeech(container):
+	for unigram in container:
 		if identifyPartsOfSpeech(unigram.word2) in ['IN', 'CC', 'DT']:
-			tempContainer.remove(unigram)
-	return tempContainer
+			container.remove(unigram)
+	return container
 
 def grabPossibleWords(baseWord, reqSylCount):
 	from models import Unigram
