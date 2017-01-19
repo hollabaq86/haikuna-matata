@@ -25,8 +25,6 @@ class TestRunnerMethods(unittest.TestCase):
     self.assertIsInstance(word, basestring)
     self.assertEqual(word, queryWord)
 
-  # def test_format_possible_words(self):
-
   def test_generate_line(self):
     line = runner.generateLine(4, "the")
     lineSyllables = runner.countSyllables(line)

@@ -16,6 +16,9 @@ $(document).ready(function(){
       data: {train1: update1, train2: update2, train3: update3, lineOne: line1, lineTwo: line2, lineThree: line3},
     })
     .done(function(response) {
+      $('input[name="update1"]').prop('checked', false);
+      $('input[name="update2"]').prop('checked', false);
+      $('input[name="update3"]').prop('checked', false);
       $(".rating").hide();
       $("#newHaikuForm").trigger('reset');
       $("#newHaikuForm").show();
