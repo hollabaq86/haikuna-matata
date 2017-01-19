@@ -80,6 +80,7 @@ function handleWordSubmission() {
         if (typeof insertString != 'undefined'){
           $(".line1").closest("b").prepend(insertString);
         }
+        insertString = "";
         $form.hide();
         $(".rating").show();
       })

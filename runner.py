@@ -46,21 +46,16 @@ def generateHaiku(firstWord):
 	inDB = inDatabase(firstWord)
 	if inDB:
 		haiku = startGenerateLine(5, firstWord)
-		nextLineStart = haiku.split()[-1]
 		haiku += "\n"
-		haiku += startGenerateLine(7, haiku.split()[-1], True)
-		nextLineStart = haiku.split()[-1]
+		haiku += startGenerateLine(7)
 		haiku += "\n"
-		haiku += startGenerateLine(5, haiku.split()[-1], True)
+		haiku += startGenerateLine(5)
 	if not inDB:
 		firstWord = pickRandomWord(5)
 		haiku = generateHaiku(firstWord)
 	return haiku
 
-def startGenerateLine(sylCount, startingWord= None, repeat=None):
-	if repeat == True:
-		possibilities = createPossibleWords(startingWord, sylCount)
-		startingWord = possibilities[0]
+def startGenerateLine(sylCount, startingWord= None):
 	if not startingWord:
 		startingWord = pickRandomWord(sylCount)
 	remainingSylCount = sylCount - countSyllables(startingWord)
@@ -107,11 +102,19 @@ def grabPossibleWords(baseWord, reqSylCount):
 def filterPossibleWords(unigrams, reqSylCount):
 	if reqSylCount == 1 or reqSylCount == 2:
 		filteredUnigrams = removePartOfSpeech(unigrams)
-	filteredWords = sylCountFilter(unigrams, reqSylCount)
-	return filteredWords
+		filteredUnigrams = removeBadWords(filteredUnigrams)
+		filteredWords = sylCountFilter(filteredUnigrams, reqSylCount)
+		return filteredWords
+	else:
+		filteredWords = sylCountFilter(unigrams, reqSylCount)		
+		return filteredWords
 
 def removePartOfSpeech(unigrams):
 	filteredUnigrams = [unigram for unigram in unigrams if identifyPartsOfSpeech(unigram.word2) not in ['IN', 'CC', 'DT']]
+	return filteredUnigrams
+
+def removeBadWords(unigrams):
+	filteredUnigrams = [unigram for unigram in unigrams if unigram.word2 not in ['so','mr','oh','it','the', 'and', 'i', 'of', 'at', 'we', 'for', 'by', 'but', 'to', 'a', 'as', 'like', 'than', 'with', "i'm"]]
 	return filteredUnigrams
 
 def sylCountFilter(unigrams, reqSylCount):
