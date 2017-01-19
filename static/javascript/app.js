@@ -3,6 +3,7 @@ $(document).ready(function(){
   handleWordSubmission();
   $(".update-form").on("submit", function(event){
     event.preventDefault();
+    $(".no-word").remove();
     var update1 = $(".update1:checked").val();
     var update2 = $(".update2:checked").val();
     var update3 = $(".update3:checked").val();
@@ -44,7 +45,6 @@ function handleWordSubmission() {
       var word = $(this).serialize();
       var wordText = word.split("=");
       wordText = wordText.pop();
-      debugger
       var request = $.ajax({
         url: url,
         type: "POST",
@@ -53,7 +53,6 @@ function handleWordSubmission() {
       request.done(function(response){
         function isWordInHaiku(wordText, response){
           var returnBool = false;
-          debugger
           if (findWord(wordText, response.lineOne)){
             returnBool = true;
           } else if (findWord(wordText, response.lineTwo)){
@@ -66,10 +65,8 @@ function handleWordSubmission() {
           return returnBool;
         }
         function findWord(word, str) {
-          debugger
           return RegExp('\\b'+ word +'\\b').test(str)
         }
-        debugger
         if (isWordInHaiku(wordText, response)) {
         } else {
           insertString = "<h4 class='no-word'>Sorry, I don't know that word, so I chose a new one</h4>";
@@ -78,7 +75,7 @@ function handleWordSubmission() {
         $(".line2").text(response.lineTwo);
         $(".line3").text(response.lineThree);
         if (typeof insertString != 'undefined'){
-          $(".line1").prepend(insertString);
+          $(".line1").closest("b").prepend(insertString);
         }
         $form.hide();
         $(".rating").show();
