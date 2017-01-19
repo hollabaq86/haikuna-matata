@@ -28,9 +28,15 @@ def build_hash(existingHash, listToFormat):
   i = 0
   count = len(listToFormat) - 1
   while (i < count):
-    if listToFormat[i] in d and listToFormat[i+1] in d:
-      twoWordString = listToFormat[i].lower() + " " + listToFormat[i+1].lower()
+    word1 = listToFormat[i].lower()
+    word2 = listToFormat[i+1].lower()
+    if word1 in d and word2 in d:
+      twoWordString = word1 + " " + word2
       format_hash(existingHash, twoWordString)
+    else:
+      print "************ I am not in the dictionary:"
+      print word1
+      print word2
     i += 1
   return existingHash
 
@@ -80,7 +86,7 @@ def unicodetoascii(text):
   return encodedString
 
 #runner logic
-files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt']
+files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
 # testFiles = ['example_poetry/test_text.txt']
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
 herokuTest = ['example_poetry/sample2.txt']

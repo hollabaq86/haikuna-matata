@@ -11,9 +11,7 @@ from random import randrange
 d = cmudict.dict()
 
 def numSylsInWord(word):
-	print word
 	if word.lower() in d:
-		print "I'm in the dictionary"
 		return [len(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]][0]
 
 def isHaiku(potentialHaiku):
@@ -31,7 +29,6 @@ def countSyllables(potentialHaiku):
 	wordsInHaiku = stripPunctuation.split()
 	syllableCount = 0
 	for i in wordsInHaiku:
-		print i
 		syllableCount += numSylsInWord(i)
 	return syllableCount
 
@@ -69,15 +66,12 @@ def startGenerateLine(sylCount, startingWord= None):
 	return " ".join(line)
 
 def buildLineList(sylCount, wordsFromBefore):
+	from random import shuffle
 	if sylCount == 0:
 		return wordsFromBefore
 	lastWord = wordsFromBefore[-1]
 	possibilities = grabPossibleWords(lastWord, sylCount)
-	print "***possibilities before shuffling:*************"
-	print possibilities
-	possibilities = randomizePossibleWordList(possibilities)
-	print "*************possibilities after shuffling:*****************"
-	print possibilities
+	shuffle(possibilities)
 	for possibleWord in possibilities:
 		newWordsFromBefore = [word[:] for word in wordsFromBefore]
 		newWordsFromBefore.append(possibleWord)
@@ -85,20 +79,13 @@ def buildLineList(sylCount, wordsFromBefore):
 		result = buildLineList(newSyllableCount, newWordsFromBefore)
 		if result:
 			return result
-	return None
-
-def randomizePossibleWordList(possibleWords):
-	from random import shuffle
-	randomNumPick = randrange(1, len(possibleWords))
-	for i in randomNumPick:
-		random.shuffle(possibleWords)
-	return possibleWords	
+	return None	
 
 def pickRandomWord(reqSylCount):
 	from models import Unigram
 	lengthDB = Unigram.query.count()
 	while True:
-		randomNumPick = randrange(1, lengthDB)
+		randomNumPick = randrange(1, 25)
 		tryWord = Unigram.query.filter(Unigram.id == randomNumPick).first()
 		if countSyllables(tryWord.word1) <= reqSylCount:
 			word = tryWord.word1
@@ -154,11 +141,9 @@ def identifyPartsOfSpeech(word):
 #   for word in uniqueWords:
 #     print(word, fdist[word])
 
-print(generateHaiku("the"))
 print("***************")
 print(generateHaiku("water"))
-print "***************"
-print(generateHaiku("miserable"))
+print identifyPartsOfSpeech("we")
 
 
 
