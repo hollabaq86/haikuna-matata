@@ -32,24 +32,39 @@ $(document).ready(function(){
 })
 
 function handleWordSubmission() {
-    $('#newHaikuForm').on("submit", function(event) {
-        event.preventDefault();
-        var $form = $(this);
-        var introHaiku = $(".haiku");
-        var newHaiku = $(".resultHaiku");
-        var url = $form.attr("action");
-        var word = $(this).serialize();
-        var request = $.ajax({
-          url: url,
-          type: "POST",
-          data: word,
-        });
-        request.done(function(response){
-          $(".line1").text(response.lineOne);
-          $(".line2").text(response.lineTwo);
-          $(".line3").text(response.lineThree);
-          $form.hide();
-          $(".rating").show();
-        })
-    })
+  $('#newHaikuForm').on("submit", function(event) {
+      event.preventDefault();
+      var $form = $(this);
+      var introHaiku = $(".haiku");
+      var newHaiku = $(".resultHaiku");
+      var url = $form.attr("action");
+      var word = $(this).serialize();
+      var request = $.ajax({
+        url: url,
+        type: "POST",
+        data: word,
+      });
+      request.done(function(response){
+        function isWordInHaiku(word, response){
+          if (findWord(word, response.lineOne) && findWord(word, response.lineTwo) && findWord(word, response.lineThree)) {
+            return true
+          }
+          return false
+        }
+        function findWord(word, str) {
+          return RegExp('\\b'+ word +'\\b').test(str)
+        }
+        debugger
+        if (isWordInHaiku(word, response)) {
+        } else {
+        insertString = "<h4 class='no-word'>Sorry, I don't know that word, so I chose a new one</h4>"
+        }
+        $(".line1").text(response.lineOne);
+        $(".line2").text(response.lineTwo);
+        $(".line3").text(response.lineThree);
+        $(".line1").prepend(insertString)
+        $form.hide();
+        $(".rating").show();
+      })
+  })
 }
