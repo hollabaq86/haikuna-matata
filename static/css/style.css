@@ -1,6 +1,6 @@
 header {
   width: 100%;
-  height: 30%;
+  height: 25%;
   display:flex;
   flex-direction: column;
   flex-wrap: nowrap;
@@ -8,37 +8,52 @@ header {
   align-content: stretch;
   align-items: center;
   font-family: 'Pacifico', cursive;
-  font-size: 40px;
+  font-size: 50px;
   letter-spacing: 2px;
+}
+}
+
+.background-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.background-container img {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity : 0.65;
+    z-index: -1;
+
 }
 
 html {
-  background: url("https://c1.staticflickr.com/6/5168/5339976848_704053fc92_b.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
 }
 
 body {
   width: 100%;
-  height: 60%;
+  height: 65%;
   flex-grow: 3;
   flex-shrink: 0;
   flex-basis: 200px;
   font-family: 'Merriweather', serif;
-  color: white;
-  font-size: 20px;
+  color: black;
+  font-size: 30px;
 }
 
 
 footer {
   width: 100%;
   height: 10%;
-  position: fixed;
   left:0px;
-  bottom:10px;
-  height:30px;
   width:100%;
   display:flex;
   flex-direction: row;
@@ -47,6 +62,7 @@ footer {
   align-content: center;
   align-items: center;
   text-shadow: 1px 1px 2px #3D9945;
+  font-size: 20px;
 }
 
 div.container {
@@ -70,16 +86,15 @@ h1.logo {
 
 footer.footer-items {
   width: 100%;
-  height: 60px;
   text-align: center;
   font-family: 'Merriweather', serif;
-  color: #4414CC;
+  color: #A540FF;
   font-size: 10px;
-  position: absolute;
+  bottom: 0;
 }
 
 a {
-  color: white;
+  color: #4414CC;
 }
 
 h2 {
@@ -109,7 +124,7 @@ div.haiku {
   display: inline-block;
   font-family: 'Merriweather', serif;
   position: relative;
-  left: 105px;
+  left: 128px;
   padding: 5px 5px;
   font-size: 15px;
   cursor: pointer;
@@ -130,3 +145,15 @@ div.haiku {
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+div.rating-form {
+  font-size: 18px;
+  margin-bottom: 100px;
+}
+
+h4.no-word {
+  font-size: 14px;
+  text-align: center;
+  right: 5px;
+}
+
