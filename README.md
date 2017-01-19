@@ -10,11 +10,13 @@
 ## Description
 ---
 
-Haikuna-Matata generates completely original, correctly formatted haikus based on user input. A user types an input word into the console when running the program, and the program will return a 5/7/5 style haiku concerning whatever input the user put in.  Haikus will meet the following requirements, moving from Basic to Advanced as the program learns over time.
+Haikuna-Matata generates completely original, correctly formatted haiku based on user input. A user types a word into the console when running the program, and the program will return a 5/7/5 style haiku built around the user's input. Given no user input, the haiku generated will be centered around a randomly generated word or pair of words.
+
+Haiku will meet the following requirements, moving from Basic to Advanced as the program learns over time.
 
 Basic Haiku Requirements
 ---
-All Haikus are defined by the following structure
+All Haiku are defined by the following structure
 * Each haiku has 3 lines.
 * Each haiku follows the following syllable construction for each line
 * 5 syllables for the first line
@@ -23,6 +25,7 @@ All Haikus are defined by the following structure
 
 Intermediate Haiku Requirements
 ---
+<<<<<<< HEAD
 All Haikus must
 * Be centered around a user provided word, or given no user input, centered around a randomly generated word
 * Have no line ending in a preposition
@@ -30,6 +33,7 @@ All Haikus must
 Advanced Haiku Requirements
 ---
 Stretch Goals for the machine to learn
+<<<<<<< HEAD
 * Haikus must make sense.
 * All haikus will follow proper grammatical structure.
 
@@ -77,13 +81,6 @@ $ python app.py
 ```
 
 Navigate to http://localhost:5000/.  There you can enter in a word and Haikuna Matata will generate a haiku for you
-
-```
-Haiku (Created by Haikuna Matata):
-This is a sample
-Haiku made all by myself
-Bask in its glory
-```
 
 To close your local server, type CTRL+C
 
