@@ -79,7 +79,6 @@ def unicodetoascii(text):
 
 
 files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
-herokuTest = ['example_poetry/sample2.txt']
 
 def seedDatabase(files):
   hashed_haikus = {}

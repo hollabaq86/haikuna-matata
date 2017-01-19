@@ -8,7 +8,6 @@
 
 
 ## Description
----
 
 Haikuna-Matata generates completely original, correctly formatted haiku based on user input. A user types a word into the console when running the program, and the program will return a 5/7/5 style haiku built around the user's input. Given no user input, the haiku generated will be centered around a randomly generated word or pair of words.
 
@@ -36,8 +35,8 @@ Stretch Goals for the machine to learn
 * All haikus will follow proper grammatical structure.
 
 ## Installation & Usage
----
-[Python 2.7](https://www.python.org/downloads/) is required to run this program. If your computer does not use Python yet, click the link and download Python 2.7 before attempting to run this program.
+
+[Python 2.7](https://www.python.org/downloads/) is required to run this program. If your computer does not have Python yet, click the link and download Python 2.7 before attempting to run this program.
 
 To use this program, simply clone the repository to your computer and navigate to its directory.
 
