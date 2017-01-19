@@ -6,14 +6,17 @@ $(document).ready(function(){
     var update1 = $(".update1:checked").val();
     var update2 = $(".update2:checked").val();
     var update3 = $(".update3:checked").val();
-    var line1 = $("line1").val();
-    var line2 = $("line2").val();
-    var line3 = $("line3").val();
+    var line1 = $(".line1").text();
+    var line2 = $(".line2").text();
+    var line3 = $(".line3").text();
+    console.log(line1);
+    var request = {train1: update1, train2: update2, train3: update3, lineOne: line1, lineTwo: line2, lineThree: line3};
     $.ajax({
       url: '/train',
       type: 'POST',
       dataType: 'json',
-      data: {train1: update1, train2: update2, train3: update3, lineOne: line1, lineTwo: line2, lineThree: line3},
+      data: JSON.stringify(request),
+      contentType: 'application/json'
     })
     .done(function(response) {
       $('input[name="update1"]').prop('checked', false);

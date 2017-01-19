@@ -41,22 +41,23 @@ def haiku():
 @app.route('/train', methods=['POST'])
 def train():
   if request.is_xhr:
-    update1 = request.args.get("update1", "null", type=basestring)
-    update2 = request.args.get("update2", "null", type=basestring)
-    update3 = request.args.get("update3", "null", type=basestring)
+    requestData = request.get_json()
+    update1 = requestData['train1']
+    update2 = requestData['train2']
+    update3 = requestData['train3']
     from training import favorUnigram, unfavorUnigram, favorLine, unfavorLine
     if update1 == "like1":
-      favorLine(request.args.get("lineOne", "You Fucked Up", type=basestring))
+      favorLine(requestData['lineOne'])
     elif update1 == "dislike1":
-      unfavorLine(request.args.get("lineOne", "You Fucked Up", type=basestring))
+      unfavorLine(requestData['lineOne'])
     if update2 == "like2":
-      favorLine(request.args.get("lineTwo", "You Fucked Up", type=basestring))
+      favorLine(requestData['lineTwo'])
     elif update2 == "dislike2":
-      unfavorLine(request.args.get("lineTwo", "You Fucked Up", type=basestring))
+      unfavorLine(requestData['lineTwo'])
     if update3 == "like3":
-      favorLine(request.args.get("lineThree", "You Fucked Up", type=basestring))
+      favorLine(requestData['lineThree'])
     elif update3 == "dislike3":
-      unfavorLine(request.args.get("lineThree", "You Fucked Up", type=basestring))
+      unfavorLine(requestData['lineThree'])
     return jsonify(result="thank you!")
   else:
     update1 = request.form['update1']
