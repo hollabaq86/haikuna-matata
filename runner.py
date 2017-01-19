@@ -125,24 +125,4 @@ def identifyPartsOfSpeech(word):
 	result = nltk.pos_tag(pos)
 	return result[0][1]
 
-# def findFrequency(largeBodyofText):
-#   cleanText = re.sub(ur"[^\w\d'\s]+",' ', largeBodyofText)
-#   arrayOfWords = nltk.word_tokenize(cleanText)
-#   fdist = FreqDist(arrayOfWords)
-#   uniqueWords = []
-#   for word in arrayOfWords:
-#     if not word in uniqueWords:
-#       uniqueWords.append(word)
-#   for word in uniqueWords:
-#     print(word, fdist[word])
-
-# print("***************")
-# print(generateHaiku("water"))
-# print "***************"
-# print(generateHaiku("hatrick"))
-
-
-
-# index of the parts of speech tags outputted by identifyingPartsOfSpeech() method
-# http://www.scs.leeds.ac.uk/amalgam/tagsets/brown.html
 
