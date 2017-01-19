@@ -39,6 +39,21 @@ Stretch Goals for the machine to learn
 
 To use this program, simply clone the repository to your computer and navigate to its directory.
 
+In order for this to function, you will need to create a local database on your machine, and seed it with text......a lot of text.  This database is used by the haiku algorithm as its reference to the english language and helps it put together proper sentence structure.  In order to create the database, enter the following.
+
+```
+$ psql
+# create database haiku;
+#\q
+$ python manage.py db upgrade
+```
+
+Now that your local developement database is set up, you simply need to seed it.  Put your text file path into the "files" variable in seed_database.py.  Then just run the following from the command line, and your database will be up and running!
+
+```
+$ python seed_database.py
+```
+
 A virtual development environment has also been set up for this project, which has all of the current and needed versions of all modules needed to run this program.  To install virtualenv on your machine, enter the following.
 
 ```

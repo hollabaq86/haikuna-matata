@@ -139,7 +139,7 @@ def identifyPartsOfSpeech(word):
 #     print(word, fdist[word])
 
 
-# print(generateHaiku("the"))
+# print(generateHaiku("fucking"))
 # print("***************")
 # print(generateHaiku("lksdjfhlsdhjfgsl;d"))
 # print(identifyPartsOfSpeech("and"))

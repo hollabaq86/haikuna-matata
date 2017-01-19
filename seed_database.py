@@ -38,7 +38,7 @@ def format_hash(existingHash, twoWordString):
     existingHash[twoWordString] += 1
   else:
     existingHash[twoWordString] = 1
-  return existingHash        
+  return existingHash
 
 def createUnigram(unigramSourcePair, count):
   split_text = unigramSourcePair.split(" ")
@@ -73,16 +73,21 @@ def unicodetoascii(text):
     ord('\xe2\x81\xbb'.decode('utf-8')): ord("-"),
     ord('\xe2\x81\xbc'.decode('utf-8')): ord("="),
     ord('\xe2\x81\xbd'.decode('utf-8')): ord("("),
-    ord('\xe2\x81\xbe'.decode('utf-8')): ord(")"),                        
+    ord('\xe2\x81\xbe'.decode('utf-8')): ord(")"),
     }
   encodedString = text.decode('utf-8').translate(uni2ascii).encode('ascii', 'ignore')
   return encodedString
 
 #runner logic
-files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt']
+
+files = ['example_poetry/sample1.txt', 'example_poetry/sample2.txt', 'example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
+testFiles = ['example_poetry/test_text.txt']
+
 # testFiles = ['example_poetry/test_text.txt']
+
 # files variable passed in must be an array.  If only passing in one file, still must be an array.
 herokuTest = ['example_poetry/sample2.txt']
+
 def seedDatabase(files):
   hashed_haikus = {}
   for txtfile in files:
@@ -93,8 +98,8 @@ def seedDatabase(files):
     haikus = [" ".join(haikus)]
     punctuationList = [".", "?", "!", ":", ";", "(", ")", "/", ","]
     for punctuation in punctuationList:
-      haikus = scrubText(haikus, punctuation) 
-    hashed_haikus = parseIntoProbabilityHash(haikus, hashed_haikus)  
+      haikus = scrubText(haikus, punctuation)
+    hashed_haikus = parseIntoProbabilityHash(haikus, hashed_haikus)
   for sourcePair, count in hashed_haikus.items():
     createUnigram(sourcePair, count)
 
