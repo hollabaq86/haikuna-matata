@@ -47,7 +47,7 @@ function handleWordSubmission() {
       var url = $form.attr("action");
       var word = $(this).serialize();
       var wordText = word.split("=");
-      wordText = wordText.pop();
+      wordText = wordText.pop().toLowerCase();
       var request = $.ajax({
         url: url,
         type: "POST",
