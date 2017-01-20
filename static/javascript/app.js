@@ -48,7 +48,6 @@ function handleWordSubmission() {
       var word = $(this).serialize();
       var wordText = word.split("=");
       wordText = wordText.pop().toLowerCase();
-      debugger
       var request = $.ajax({
         url: url,
         type: "POST",
