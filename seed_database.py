@@ -78,7 +78,7 @@ def unicodetoascii(text):
   return encodedString
 
 
-files = ['example_poetry/sample1.txt','example_poetry/sample2.txt','example_poetry/sample3.txt', 'example_poetry/sample4.txt', 'example_poetry/sample5.txt', 'example_poetry/sample6.txt', 'example_poetry/sample7.txt', 'example_poetry/sample8.txt']
+files = ['example_poetry/your_text_file.txt']
 
 def seedDatabase(files):
   hashed_haikus = {}
